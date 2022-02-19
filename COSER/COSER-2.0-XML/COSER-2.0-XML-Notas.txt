@@ -1,0 +1,102 @@
+Etiquetas XML utilizadas y sus atributos:
+
+<turno>		id, mp3
+<inf>
+<HS>		id
+<HCRUZ>		id
+<NP>		id
+<emisiones>	id
+<VS>		id
+<tempo>		id
+<pron>		id
+<pausas>	id
+<lit>		id
+<intel>		id
+<gestos>	id
+<interr>	id
+<punct>		id, lemma, pos
+<w>			id, lemma, pos
+
+
+NOTAS:
+
+1)	Algunas marcas XML pueden contener texto u otras marcas y entonces en el archivo XML las marcas de apertura y cierre ocuparían su propia línea:
+
+		<HS id="2">[HS:I1
+			...
+		]</HS>
+
+		<HCRUZ id="574">[HCruz:
+			...
+		]</HCRUZ>
+
+		<NP id="2715">
+			<w id='2716' lemma='Anonimizado' pos='NP00000'>Anonimizado</w>
+		</NP>
+
+		<emisiones id="1427">[Rndo:
+			<w id='1428' lemma='ese' pos='PD0NS000'>eso</w>
+		]</emisiones>
+
+		<intel id="76">[A-PIn:
+			<w id='77' lemma='y' pos='CC'>Y</w>
+			<w id='78' lemma='vamos' pos='I'>vamos</w>
+		]</intel>
+
+		<lit id="1422">[LT-Rfn:
+			<w id='1423' lemma='alavés' pos='NCMS000'>Alavés</w>
+			<punct id="1423" lemma="," pos="Fc">~,</punct>
+			<w id='1424' lemma='falso' pos='AQ0MS0'>falso</w>
+			<w id='1425' lemma='y' pos='CC'>y</w>
+			<w id='1426' lemma='cortés' pos='AQ0CS0'>cortés</w>
+		]</lit>
+
+
+		etc.
+
+
+	pero si no contienen texto u otras marcas entonces las marcas de apertura y cierre van en la misma línea:
+
+		<emisiones id="10391">[RISAS]</emisiones>
+
+		<VS id="9335">[V-Sml]</VS>
+
+		etc.
+
+2)	En el contenido textual de la marca <w> (palabra), la desambiguación de formas dialectales mediante la forma estándar se indica mediante el símbolo "=" (igual):
+
+		<w id='8178' lemma='cada' pos='DI0CS0'>ca=cada</w>
+
+		<w id='11255' lemma='casa' pos='NCFS000'>ca=casa</w>
+
+		<w id='5132' lemma='cal' pos='NCFS000'>ca=cal</w>
+
+
+3)	El contenido textual de la etiqueta <punct> lleva siempre el símbolo "~", antes o después del signo de puntuación, indicando que el signo es o bien de apertura:
+
+		<punct id="9359" lemma="«" pos="Fra">«~</punct>
+
+	o bien de cierre:
+
+		<punct id="9363" lemma="»" pos="Frc">~»</punct>
+
+	Es algunas ocasiones será un símbolo redundante ya que el atributo "pos" de algunos signos de puntuación, ya indica este hecho: « (Fra), » (Frc), etc.
+
+4)	El atributo "id" del elemento <punct> es el mismo de la palabra (<w>) a la que o bien antecede:
+
+		<w id='364' lemma='yo' pos='PP1CSN00'>yo</w>
+		<punct id="364" lemma="." pos="Fp">~.</punct>
+
+	o bien sigue:
+
+		<punct id="345" lemma="¿" pos="Fia">¿~</punct>
+		<w id='345' lemma='y' pos='CC'>Y</w>
+
+5)	Los nombres propios que podían revelar la identidad de los entrevistados han sido anonimizados:
+
+		<w id='2716' lemma='Anonimizado' pos='NP00000'>Anonimizado</w>
+
+	Otros nombres propios de persona o de lugar se mantienen:
+	
+		<w id='5' lemma='dulantzi' pos='NP00000'>Dulantzi</w>
+

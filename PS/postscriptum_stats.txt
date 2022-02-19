@@ -1,0 +1,12 @@
+                  spanish  portuguese
+tags                                 
+P00CN000             6205        4535
+VMIP3S0_P00CN000        0           1
+VMN0000_P00CN000        0           2
+PP0CN000                0           1
+PP3CN000              602           1
+PP3CNA00                0           8
+PP3                     0           1
+CS                      1        3776
+CSI                     0         505
+total                6808        8830   15638

@@ -1,0 +1,38 @@
+Coser tagset based on Eagles tag system for Spanish
+https://corpusrural.fe.uam.es/coser/descargas.php
+
+TODO by looking for lemma=='se' i excluded V+se from this corpus
+TODO docs for coser show tagset that only has 7 postions; The used tags however have 8
+0 = does not apply
+
+PC0CN000
+antes hacía trigo pero ahora lo que más SE hace es cebada
+P(ronoun)
+0(type) TODO C type not to be found in docs
+0(person)
+C(ommon gender)
+N(impersonal-invariable number)
+0(case)
+0(possessor)
+0(polarity)
+
+PC3CN000
+¿SE acuerda usted de cuándo llegó el agua?
+P(ronoun)
+0(type) TODO
+3(third person)
+C(ommon gender)
+N(impersonal-invariable number)
+0(case)
+0(possessor)
+0(polarity)
+
+NP00000 TODO other tag for this gramatical function in PS corpus (=PP3 en PS?; se aspectual/ emphatic pronoun)
+SE han venido siempre en verano
+N(oun)
+P(roper noun type)
+0(gender)
+0(number)
+0(NE class)
+0(nesubclass)
+0(degree)

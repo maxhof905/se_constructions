@@ -1,0 +1,75 @@
+Post Scriptum tagset based on Eagles tag system for Spanish
+http://teitok.clul.ul.pt/postscriptum/index.php?action=home
+
+TODO V+se: should it be included? There are a few accidental cases: e.g segue-se (VMIP3S0+P00CN000) servir-se (VMN0000+P00CN000)
+0 = does not apply
+
+P00CN000
+porque no a de azer sino venir y tornarSE luego
+P(ronoun)
+0(type)
+0(person)
+C(ommon gender)
+N(impersonal-invariable number)
+0(case)
+0(possessor)
+0(polarity)
+    VMIP3S0+P00CN000 TODO not in the corpus
+    o gardiam chamaSE frei anBrozio da conseysam
+    VMN0000+P00CN000 TODO not in the corpus
+    asy que para descargarse un navio tenga 4 mezes que demorrar (I filteres this out when using \\bse\\b)
+
+PP0CN000
+se acazo SE arependeo, pois eu o dise a meo fo pa plo mandar dezer
+P(ronoun)
+P(personal type)
+0(person)
+C(ommon gender)
+N(impersonal-invariable number)
+0(case)
+0(possessor)
+0(polarity)
+
+PP3CN000 (only in spanish)
+Dios gue a vmd ms años para mi amparo y el de mi desbalida familia como SE lo suppco. (TODO que hacer con se lo vs. selo)
+P(ronoun)
+P(ersonal type)
+3(third person)
+C(ommon gender)
+N(impersonal-invariable number)
+0(case)
+0(possessor)
+0(polarity)
+
+PP3CNA00
+porq mtas vezes SE me offereceu lá pa isso
+P(ronoun)
+P(ersonal type)
+3(third person)
+C(ommon gender)
+N(impersonal-invariable number)
+A(ccusative case)
+0(possessor)
+0(polarity)
+
+PP3 TODO tag does not match tagset
+terriveis conseqcias q SE seguem da conservação dos malevolos na ordem social
+P(ronoun)
+P(ersonal type)
+3(third person)
+error?
+...
+
+CS (only in portuguese)
+se tiver ja formado o meu requerimento
+C(onjunction)
+S(ubordinate type)
+
+CSI
+não sei se será cauzada do espírito
+C(onjunction)
+S(ubordinate type)
+I(nterrogative subtype)
+
+
+
