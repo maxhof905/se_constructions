@@ -1,0 +1,13 @@
+,0
+expl,639
+nsubj,184
+mark,104
+obj,99
+cop,9
+iobj,8
+aux:pass,7
+fixed,7
+case,2
+acl:relcl,1
+advcl,1
+expl:pass,1
