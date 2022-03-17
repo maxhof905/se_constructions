@@ -1,0 +1,61 @@
+pt_bosque-ud-test.conllu
+expl     100
+nsubj     31
+mark      18
+obj        3
+iobj       2
+fixed      1
+Name: dependency_tag, dtype: int64
+(155, 3)
+
+es_ancora-ud-train.conllu
+expl:pv        1665
+expl:pass      1193
+obj             258
+expl:impers     186
+iobj            153
+fixed             1
+flat              1
+Name: dependency_tag, dtype: int64
+(3457, 3)
+
+pt_bosque-ud-dev.conllu
+expl         109
+nsubj         27
+mark          14
+obj            4
+fixed          2
+expl:pass      2
+iobj           1
+Name: dependency_tag, dtype: int64
+(159, 3)
+
+pt_bosque-ud-train.conllu
+expl     566
+nsubj    155
+mark     122
+obj       84
+fixed      9
+iobj       9
+case       2
+nmod       1
+Name: dependency_tag, dtype: int64
+(948, 3)
+
+es_ancora-ud-test.conllu
+expl:pv        199
+expl:pass      118
+obj             30
+expl:impers     22
+iobj            17
+Name: dependency_tag, dtype: int64
+(386, 3)
+
+es_ancora-ud-dev.conllu
+expl:pv        226
+expl:pass      125
+obj             36
+iobj            17
+expl:impers     10
+Name: dependency_tag, dtype: int64
+(414, 3)
