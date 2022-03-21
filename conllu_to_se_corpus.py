@@ -43,6 +43,8 @@ def get_se_dict(infile):
             if counter == 1: # eliminate sentences where se occurs twice
                 sentence_index += 1
                 se_dict[sentence_index] = [corpus_id, text, dep_tag]
+            else:
+                print(index, sentence in range(sentence))
 
     return se_dict
 
@@ -80,4 +82,13 @@ for root, dirs, files in os.walk(directory, topdown=False):
         # print('\n', outfile, '\n', df[:-1].value_counts(), '\n') # keep track of the dependency tags used)
 
 #%%
-
+filename = 'ud/conllu/es_gsd-ud-test.conllu'
+df = pd.DataFrame.from_dict(get_se_dict(filename), orient='index', columns=['corpus_id', 'text', 'dependency_tag'])
+print('\n')
+print(df.dependency_tag.value_counts())
+print(df.shape)
+#%%
+print(df.head())
+# todo filter
+# print out the sentences that have double see and modify them if possible
+# then build a complete dataset per language

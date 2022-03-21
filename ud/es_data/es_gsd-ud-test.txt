@@ -1,0 +1,89 @@
+1	-dev-003-s414	De allí procedía la familia del escritor vallisoletano Blas Pajarero, cuya casa se encuentra en la Plaza de San Pedro;	iobj
+2	-dev-003-s418	Aunque se solía sobreentender que Van Vliet fue aprendiz de Rembrandt, en realidad era un colaborador ya formado, que produjo planchas copiando pinturas de Rembrandt y que llegó a intervenir a dúo con él en otras.	iobj
+3	-dev-003-s420	Al equiparar las mecánicas, se enfatiza la importancia del habilidad del piloto para conducir y poner a punto el automóvil, así como de la estrategia de carrera del equipo.	iobj
+4	-dev-003-s427	La isla del volcán Taal, cuyas erupciones son responsables del contenido sulfuroso del lago, se halla en el centro del lago.	iobj
+5	-dev-003-s432	Podríamos decantarnos por la primera interpretación, ya que probablemente es la que más se ajusta, tanto a la funcionalidad de la sala, como a la composición de la obra.	iobj
+6	-dev-003-s434	Lily se da cuenta de que no quiere ser una artista lejos de Nueva York, regresa a la ciudad y retoma su relación con Marshall.	iobj
+7	-dev-003-s445	Amyda es un género de tortugas de la familia Trionychidae en la subfamilia Trionychinae que se distribuyen en parte de Asia.	iobj
+8	-dev-003-s446	Por su parte, las instalaciones del canal se establecieron en la Calle Juan Antonio Ríos # 1498, en Barrancas.	iobj
+9	-dev-003-s449	Además se acuso a las burocracias medicas y el gobierno de encubrimiento.	iobj
+10	-dev-003-s462	La especial atención al diseño se materializa en la explotación de patentes propias y compartidas, así como en una constante búsqueda de nuevas soluciones técnicas a las demandas de nuestros clientes.	iobj
+11	-dev-003-s465	La Facultad de Ciencias jurídicas, políticas, sociales y relaciones internacionales de la Universidad Autónoma Gabriel René Moreno, se encuentra ubicada en la ciudad de Santa Cruz de la Sierra, Bolivia, es una unidad académica fundada en 1879, que desarrolla el servicio público de la educación superior en el campo jurídico, político, social y de relaciones internacionales, con criterios de excelencia académica y responsabilidad social.	iobj
+12	-dev-003-s466	El límite norte se encuentra entre los 6 y 8 grados de latitud y el límite sur lo forma la costa del Atlántico.	iobj
+13	-dev-003-s467	Este se ha completado casi del todo en la ciudad de Alicante y está muy avanzado en la de Valencia, aunque aún no es importante en áreas rurales.	iobj
+14	-dev-003-s476	No obstante, pueden celebrarse reuniones extraordinarias ante circunstancias que así lo requieran para modificar la composición del IBEX 35.	iobj
+15	-dev-003-s480	Viollet - le - Duc realizó un extenso estudio de la arquitectura gótica y se dispouso a reconstruir y completar las obras inconclusas de la época.	iobj
+16	-dev-003-s482	Así que utilizando este argumento llegamos a la conclusión de que realmente el empresario no es el jefe y quien tiene la sarten por el mango, sino que el jefe son los trabajadores y son los que tienen la sarten por el mango, pero no se dan cuenta.	iobj
+17	-dev-003-s487	El técnico blanco dejó entrever durante la semana que el sevillano sería suplente, aunque al final decidió incluirlo en el equipo buscando la motivación del delantero por enfrentarse a sus ex.	iobj
+18	-dev-003-s495	El joven piloto francés, que en este rally tiene el segundo volante oficial en detrimento de Sordo, no atacó al máximo para evitar el liderato y llegó a admitir que en el sexto tramo del día, el que decide la posición de mañana, redujo su velocidad para dejarse alguna posición y salir más retrasado mañana.	iobj
+19	-dev-003-s496	Pero especialmente, se necesitan respuestas concretas sobre la situación más injusta y desesperante que hoy viven los productores trigueros.	iobj
+20	-dev-003-s499	En la parte derecha de la cesta hay dos higos verdes y uno maduro de color negro se encuentra en la parte de atrás, a la izquierda.	iobj
+21	-dev-003-s500	Proyecto Minatitlán 10-30, pensado a 20 años y que puede generar de 20 a 25 mil empleos, integrándolo al proyecto del Corredor Transístmico Coatzacoalcos - Salina Cruz como parte de los clúster y recintos fiscalizados que se pretende crear en toda la franja;	iobj
+22	-dev-004-s5	Madre Alberta aceptó y se preparó seriamente cursando los estudios adecuados;	iobj
+23	-dev-004-s6	Los enclaves más famosos, como la Plaza de las Flores, la Plaza Mina o El Barrio de la Viña se llenan de gente con un único y sano fin: pasarlo bien.	iobj
+24	-dev-004-s7	En 1998 se convirtió en el máximo anotador de la División de Honor merced a su acierto de cara a palos.	iobj
+25	-dev-004-s11	En ese mismo sector se ubica la Plaza del Bicentenario.	iobj
+26	-dev-004-s25	Kopete es una aplicación informática libre para mensajería instantánea flexible y sistema multiprotocolo extendible, puede comunicarse con protocolos como ICQ, AIM, Gadu - Gadu, IRC, Jabber / XMPP, Windows Live Messenger y Yahoo! Messenger.	iobj
+27	-dev-004-s27	A las au pair se le da una paga mensual y todos los gastos son pagados por la familia de acogida.	iobj
+28	-dev-004-s35	Como cada año un grupo de jóvenes voluntarios se ha aventurado a dar forma al Programa de Fiestas de Castellnovo, con la única colaboración de empresas de la localidad, Ayuntamiento y la aportación económica de vecinos mediante cuotas voluntarias.	iobj
+29	-dev-004-s59	El año 2005, con motivo del centenario de la escuela, se entonó el nuevo himno con letra del maestro Antonio Garavito Rodríguez y música del maestro Pedro Guillermo Sáenz Sáenz.	iobj
+30	-test-001-s9	En FansFC se hacen eco de ello gracias a News of The World, periódico de gran tirada británico.	iobj
+31	-test-001-s14	Esa fue la base con la que se creó la Subzona 14 en La Pampa.	iobj
+32	-test-001-s16	Tampoco faltarán los espectáculos teatrales que tendrán lugar dentro del festival que se celebrará en el Maastricht Drama Academy.	iobj
+33	-test-001-s22	Cristiano Ronaldo y Sergio Ramos fueron los más calientes en cuanto a tanganas se refiere.	iobj
+34	-test-001-s23	Todas las hembras que viven ahora en el centro tienen una admirable relación con sus crías deshaciéndose en cuidados y atenciones constantes hacia ellas, asegura Ayose Melian, veterinario de Palmitos Park.	iobj
+35	-test-001-s24	Una vez electos, los referentes de la oposición al Gobierno Radical K, parecieran olvidar este tipo de escandalos y unirse al circulo corrupto del poder.	iobj
+36	-test-001-s26	El fichaje de Kaká nunca fue fácil, tanto que han pensado que este pueda acabar jugando hasta de Blues, camiseta que se pudo enfundar hace un tiempo y es que ni Abramovich quiere pagarle 40 kilos al Madrid porque le considera caro viendo su estado de forma.	iobj
+37	-test-001-s28	Se espera que este sea uno de los fichajes que ha pedido José Mourinho.	iobj
+38	-test-001-s29	Por eso, esto se profundizara con la ayuda inestimable de todos nosotros.	iobj
+39	-test-001-s31	Su clase es comparada con la de Zidane, pero no se le parece generalmente porque Zinedine es único en su especie como lo puede ser Messi.	iobj
+40	-test-001-s34	Aunque la economía azulgrana no sea muy boyante, se intentará atar al delantero madrileño por una cantidad que rondaría los 40 millones de euros.	iobj
+41	-test-001-s52	Tras una jornada de trabajo o de turismo, el cliente podrá relajarse en la zona Spa & Wellness, donde encontrará piscina interior, sauna finlandesa, baño de vapor, duchas de contrastes y un espacio para masajes.	iobj
+42	-test-001-s57	Hleb jugará en el Benfica al menos una temporada como cedido (el año pasado estuvo en el Stuttgart alemán) y ahora se irá a Portugal.	iobj
+43	-test-001-s58	La integración debe desmitificarse, debemos recorrer sin miedo el camino que iniciara en su tiempo el Pacto Andino, de la supranacionalidad, reconocida por la Constitución de 1999, entendida como una plena transferencia de derechos en aras de un fin superior, en la efectividad de la promoción de un verdadero derecho común, comunitario, con instituciones especializadas, con verdaderos checks and balances.	iobj
+44	-test-001-s61	Puede que Microsoft tardara un poco más de la cuenta en pronunciarse de manera oficial, pero eso no ha sido impedimento para que probáramos las mieles de Kinect en Windows antes de tiempo.	iobj
+45	-test-001-s68	El africano a sus 27 años quiere ser una pieza vital del próximo proyecto de los citizens y no tiene intención de moverse por ahora.	iobj
+46	-test-001-s71	El respetuoso público no empezó a animarse hasta Adelante Bonaparte II, un himno que era inevitable corear al son de Enric Montefusco.	iobj
+47	-test-001-s75	El Aula Hospitalaria es una iniciativa que aspira impactar de forma positiva a 1640 niños y niñas en edades de educación básica que se encuentren recluidos en el Hospital Universitario Dr. Alfredo Van Grieken de Coro, estado Falcón, con el fin de dar continuidad a su escolaridad.	iobj
+48	-test-001-s78	Con todo, no sorprende el fulgurante éxito de la consola en su primer día en el mercado: hay que recordar que el primer lote que se podía reservar on - line también voló hace un mes.	iobj
+49	-test-001-s89	Si al vehículo le falta un componente que impida su funcionamiento, es rechazado, aclara el instructor, pero asegura que a los casos que tengan arreglo se les da una nueva oportunidad de aplicar al proceso una vez sean reparados.	iobj
+50	-test-001-s98	Mientras el militante de izquierdas agredido se dedica a construir organización en su facultad, participando activamente en la asociación UEP - ei, ya crear tejido vecinal en su barrio, los agresores de extrema derecha vuelven a demostrar lo único que saben hacer: pegar, ejercer la violencia mientras intentan insertar en la sociedad su mensaje de odio.	iobj
+51	-test-001-s99	El Lille podría estar fuera porque el jugador no quiere moverse de España dado que no tiene intención de emigrar a un país distinto ya un campeonato menor.	iobj
+52	-test-001-s102	Los cambios se produjeron a pocos días de que efectivos policiales mataran durante operativos de contención a dos jóvenes en un aparente intento de saqueo a un tren de carga descarrilado en José León Suárez.	iobj
+53	-test-001-s104	Asimismo, la profesora explicó que la reforma del código de familia y la posición de la mujer en Marruecos, que llevó a cabo el Rey Hassan II, recogía varias reformas importantes, entre ellas la del código de la familia que ha llevado a situar a la mujer en un papel fundamental en la sociedad marroquí, que no es más que una continuidad de la reforma que se comenzó en 1993, con la campaña de un millón de firmas para la reforma de la Mudawana (Unión de acción femenina).	iobj
+54	-test-001-s105	De acuerdo al relato de los hechos de la organización sindical, todo se originó cuando la trabajadora, conductora de autobuses de la empresa TUA y embarazada, solicitó tanto a la empresa como a la entidad aseguradora, el paso a la situación de baja médica por riesgo en el embarazo, dado que el informe de prevención de riesgos laborales y la propia valoración del puesto de trabajo estimaban que la trabajadora no debía seguir conduciendo su autobús.	iobj
+55	-test-001-s112	El primer escenario prevé que la mitad de la generación sea con renovables y que se cierren todas las nucleares antes del 2030.	iobj
+56	-test-001-s114	Gracias a la voluntad de la Conselleria de Medio Ambiente, Agua, Urbanismo y Vivienda y del Ayuntamiento de Aspe, se modificó el proyecto inicial del sector, que en un principio tenía previsto destinar el 50 % de la edificabilidad a vivienda protegida, para que finalmente las 1.035 viviendas incluidas en este sector sean todas protegidas.	iobj
+57	-test-001-s117	Todos se rieron, y desde entonces Licey y Aguilas mantienen un jueguito peligroso de ataques promocionales, en cada estadio, juego que no tiene fin.	iobj
+58	-test-001-s119	Parte de las medidas de ahorro estatal contempladas en ese plan para 2011 y 2012 han sido adelantadas a 2010 y Sócrates considera que, con ellas, se va a cumplir el objetivo de bajar este año el déficit al 8,3 % por ciento y no será necesario subir el IVA o aplicar otras correcciones.	iobj
+59	-test-001-s121	Roberto Henríquez, titular de esta dependencia gubernamental, expresó mediante una nota de prensa que, en este sentido, el país se encuentra en un proceso de integración internacional constante.	iobj
+60	-test-001-s122	El visitante se distanció en el tanteador 11-6 con los aportes de Espinoza (8 pts, 2 / 3 en triples) y Martina (6).	iobj
+61	-test-001-s136	Más bien, habría que pensar que se trata de un instrumento temporal creado con fines políticos.	iobj
+62	-test-001-s145	Se desató entonces el caos en este lugar, con miles de estudiantes corriendo para evitar ser alcanzados por el agua y el gas, comprobaron periodistas de la AFP.	iobj
+63	-test-001-s149	De acuerdo con el secretario de Obra Pública de la Comuna, Jorge Rodríguez y Morgado, para 2010 sólo se podrá crear el plan parcial del rescate de La Calera, pues ese fue el mandato de los regidores, y será la siguiente administración municipal la que lo ejecute.	iobj
+64	-test-001-s155	En este sentido, quiero resaltar la presencia de Carlos Villagrasa, presidente del Comité Científico, quien no dudó en llegar a la Argentina para desarrollar una agenda conjunta que permita avanzar sobre pasos firmes y conseguir el éxito previsto cuando se nominó a la Argentina como sede del V Congreso Mundial , sintetizó Gastaldi, vicepresidente del Comité Organizador.	iobj
+65	-test-001-s162	En Latinoamérica, países como Brasil y Argentina ya emplean el sistema electrónico, en el cual el votante digita en un procesador su opción electoral, obteniéndose los resultados de la votación en tiempos cortos.	iobj
+66	-test-001-s164	Tal desempeño es encabezado por Lituania, Alemania, Estonia, Finlandia, Suecia y Francia, mientras en España y Portugal el incremento se mantuvo lento.	iobj
+67	-test-001-s165	En resumen, se pretende crear una red que tenga la misma eficiencia, precisión e inter - conectividad que los millones de microprocesadores que dependen de ella.	iobj
+68	-test-001-s166	No es necesario registrarse, por lo que directamente seleccionamos las imágenes que queremos utilizar y las subimos a Reel.	iobj
+69	-test-001-s175	Percival recibió por parte de la cantante 21.000 dólares que debía devolver a la artista cuando por desavenencias, no continuaron trabajando juntas y no se cumplió con el contrato que habían firmado.	iobj
+70	-test-001-s177	El SUV del rombo, que integra la oferta de Renault en la Argentina, recibió una actualización que comenzará a ofrecerse en Europa en el corto plazo.	iobj
+71	-test-001-s180	Una vez indetificado, se descubrió que el conductor del auto acababa de cumplir una condena en la cárcel de Mendoza por un delito relacionado a la venta de drogas.	iobj
+72	-test-001-s181	El tema de la seguridad del recinto portuario, más allá de la protección, es un asunto delicado, un problema social que en los últimos años se ha mejorado.	iobj
+73	-test-001-s183	Los policías le pidieron el permiso y licencia para tal actividad y, al carecer de los mismos, la mujer fue invitada a marcharse, lo cual hizo bastante alterada.	iobj
+74	-test-001-s186	El día que no tiene ensayo, el miércoles, lo dedica a recorrer Navarra y las comunidades limítrofes para encargarse de la distribución de los espectáculos de Fueradeleje.	iobj
+75	-test-001-s189	El mensaje pronunciado el domingo por Humberto Moreira Valdés en el Polyforum Victoria careció de trascendencia nacional pero lo compensa el mensaje implícito por categórico y contundente: el único líder político de Tamaulipas se llama Egidio Torre Cantú.	iobj
+76	-test-001-s194	Ante los intentos de la defensa de invalidar la declaración de Farrow a causa de estas contradicciones, la actriz se limitó a decir que declaraba justamente lo que recuerdo que Campbell dijo en ese desayuno en la residencia de Mandela.	iobj
+77	-test-001-s197	La demanda de vehículos con emisiones de CO2 de hasta 149 gramos por kilómetro, es decir, aquellos que en términos generales pueden acogerse al Plan 2000E, experimentó una progresión del 53,8 % durante el pasado mes de enero.	iobj
+78	-test-001-s199	De hecho, el Gobierno francés ha recomendado que aquellas mujeres que lleven estas prótesis mamarias acudan a sus cirujanos y se los retiren como medida de precaución.	iobj
+79	-test-001-s200	Este martes comenzaron a funcionar los dos primeros dispositivos de este tipo instalados en España: uno se encuentra en Torrox (Málaga) y otro en la autopista AP - 6, en el túnel del Guadarrama, en Madrid.	iobj
+80	-test-001-s204	Tienen un taller pero no se complican la vida, a no ser que sea para sacar dinero.	iobj
+81	-test-001-s208	Son distribuidores de las principales marcas de mobiliario y sillería de oficina, lo que les permite ofrecer una gran oferta y asegurarse de que el cliente encuentra lo que necesita.	iobj
+82	-test-001-s217	No se respetan las citas y las anulan a su antojo.	iobj
+83	-test-001-s235	Su contenido variable hace que siempre que se visita es diferente.	iobj
+84	-test-001-s237	En los 90s se abandono.	iobj
+85	-test-001-s246	Si el precio de cada plato se redujera un 40-50 % puntuaría mejor este restaurante.	iobj
+86	-test-001-s252	Quedé muy gratamente satisfecha y ahora que se acercan las Navidades, pienso hacer otra visita para tener las uñas apunto!	iobj
+87	-test-001-s255	Varias mesas se fueron enfadados.	iobj
+88	-test-001-s285	El Ayuntamiento de Pasaia se ha trasladado al n º 19 de la calle San Juan, de Pasai Donibane	iobj
+89	-test-001-s292	El despacho parte del entendimiento de que el mejor servicio profesional al Cliente se consigue a través de profesionales independientes y de calidad que, al mismo tiempo, son capaces de colaborar entre sí y con otros profesionales, en especial, en nuestro caso, con los integrados en la red lexprudens.	iobj
