@@ -1,10 +1,13 @@
+""" file to convert conllu files to se corpus in tab separated format"""
+
+from typing import List
 import pandas as pd
-import csv
 import os
 #%%
 
 
 def get_se_dict(infile):
+    """extract the whole sentences containing 'se' from the treebank and save the dependency tag for se as label"""
     sentences = []
     lines = []
     se_dict = dict()
@@ -15,7 +18,7 @@ def get_se_dict(infile):
     with open(infile, 'r', encoding='utf-8') as file:
         for line in file:
             if line != new_line:
-                lines.append(line)
+                lines.append(line)  # sentences are separated by a newline
             else:
                 sentences.append(lines)
                 lines = []
@@ -28,27 +31,31 @@ def get_se_dict(infile):
         for sentence in se_sentences:
             counter = 0
             for elem in sentence:
-                if elem.startswith(('# sent_id =')):
-                    corpus_id = elem.strip('# sent_id =').rstrip()
+                if elem.startswith('# sent_id ='):
+                    # todo replace instead of strip
+                    corpus_id = elem.rstrip().strip('# sent_id =')  # keep track of sentence ids from the treebank
                 if elem.startswith('# text ='):
-                    # replace supra segmental characters (parenthesis and commas influence argument structure > kept)
-                    # dashes are inconsistently > eliminated
+                    # replace supra segmental characters (parenthesis and commas influence argument structure > keep)
+                    # inconsistent use of dashes > replace with empty string
                     text = elem.strip('# text =').rstrip().replace('«', '').replace('»', '').replace('-- ', '').replace('\'', '').replace('"', '').replace('- -', '')
 
-                if '\tse\t' in elem.lower(): #match the word column of conllu format
+                if '\tse\t' in elem.lower():  # match the word column of .conllu format
                     counter += 1
                     dep_tag = elem.split('\t')[7]
                     # pos_tag = elem.split('\t')[4]  # all labeled as p0000000
 
-            if counter == 1: # eliminate sentences where se occurs twice
+            if counter == 1:  # eliminate sentences where se occurs twice
                 sentence_index += 1
                 se_dict[sentence_index] = [corpus_id, text, dep_tag]
-            else:
-                print(index, sentence in range(sentence))
 
+            if counter > 1:  # store the sentences that contain double se in a file
+                with open('double_se_occurrences.txt', 'a') as outfile:
+                    outfile.write(text)
+                    outfile.write('\n')
     return se_dict
 
 #%%
+
 
 directory = "ud/conllu"
 data = []
@@ -67,28 +74,32 @@ for root, dirs, files in os.walk(directory, topdown=False):
                 os.makedirs(out_dir)
             outfile = out_dir + file[:-7] + '.txt'
 
-        # print(outfile)
-# filename = 'ud/pt_bosque/pt_bosque-ud-train.conllu'
-
         df = pd.DataFrame.from_dict(get_se_dict(filename), orient='index', columns=['corpus_id', 'text', 'dependency_tag'])
         print('\n')
         print(file)
-        print(df.dependency_tag.value_counts())
+        print(df.dependency_tag.value_counts())  # keep track of the dependency tags used
         print(df.shape)
 
         # # print(df.shape, outfile)
-        df.to_csv(outfile, header=False, sep='\t',  encoding='utf-8')
-        #
-        # print('\n', outfile, '\n', df[:-1].value_counts(), '\n') # keep track of the dependency tags used)
+        df.to_csv(outfile, header=False, sep='\t',  encoding='utf-8', index=False)
+
 
 #%%
-filename = 'ud/conllu/es_gsd-ud-test.conllu'
-df = pd.DataFrame.from_dict(get_se_dict(filename), orient='index', columns=['corpus_id', 'text', 'dependency_tag'])
-print('\n')
-print(df.dependency_tag.value_counts())
-print(df.shape)
+# test procedure on a sinle file
+# filename = 'ud/conllu/es_gsd-ud-test.conllu'
+# df = pd.DataFrame.from_dict(get_se_dict(filename), orient='index', columns=['corpus_id', 'text', 'dependency_tag'])
+# print('\n')
+# print(df.dependency_tag.value_counts())
+# print(df.shape)
 #%%
-print(df.head())
-# todo filter
-# print out the sentences that have double see and modify them if possible
-# then build a complete dataset per language
+
+# def get_data_splits(directory:str):
+#     """ merge gsd and bosque splits"""
+#     for root, dirs, files in os.walk(directory):
+#             dev_data = [pd.read_table(root+'/'+file) for file in files if 'dev' in file]
+#             df_dev = pd.concat(dev_data)
+#             print(df_dev, df_dev.shape)
+
+#%%
+
+# todo averiguar porque es que desaparce el inicio del index en pt
