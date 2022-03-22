@@ -1,0 +1,948 @@
+CF1-6	Nem Lula nem o partido ainda encontraram um discurso para se diferenciar.	expl
+CF1-7	Eles se dizem oposição, mas ainda não informaram o que vão combater.	expl
+CF3-1	Os jogadores se dividem pelos dez quartos do alojamento, equipados com frigobar, ar condicionado, televisão e telefone.	expl
+CF3-4	O atacante, que deveria ter se apresentado anteontem à noite, pediu mais um dia de folga ao treinador.	expl
+CF8-9	Se eu dirigisse uma federação, apresentaria balanços mensais e liberaria minhas contas bancárias.	mark
+CF11-2	Herbert Berger, diretor-superintendente da empresa, diz que o Charade se aproxima do Honda Civic em tamanho e custa bem menos.	expl
+CF15-3	Começou bem antes do que se previa a batalha pela futura sucessão na Fifa apenas seis meses depois do super-acordo que, nas vésperas da Copa, reconduziu o brasileiro João Havelange ao sexto mandato consecutivo.	nsubj
+CF17-6	Abstratos entre medianos e medíocres, como Fukushima, Pérsio, Raimo e Douchez, têm o mesmo ou maior destaque que Volpi e nada que se possa chamar de autonomia para oferecer como lenitivo.	nsubj
+CF20-2	Romário não se exercitou nas cobranças de falta e pênalti.	expl
+CF20-3	Toda a comissão técnica sabe que Romário é de treinar pouco, geralmente se poupando entre dois jogos difíceis.	expl
+CF27-2	Não se trata simplesmente da questão da escravidão certamente ter tido efeitos duradouros sobre a cultura negra, nem mesmo dela ter exercido um amplo efeito negativo sobre a auto-confiança e auto-estima dos negros, mas mais especificamente da experiência da escravatura ter desvirtuado e tolhido a evolução do algoritmo etnocêntrico que os negros americanos teriam desenvolvido no decorrer normal dos acontecimentos.	expl
+CF27-4	Eles tiveram que fazer isso se os escravos fossem superiores em qualidades que os próprios brancos valorizavam, onde estaria a justificativa moral para mantê-los escravizados?	mark
+CF27-6	Mesmo a simples tentativa de se documentar esse ponto deixa uma pessoa exposta a acusações de condescendência e, assim, os brancos de fato conseguiram cooptar os julgamentos de valor.	iobj
+CF27-7	É ainda mais óbvio que é impossível falar abertamente sobre o superioridade de muitos atletas negros sem ser sujeito a acusações de que se estar sendo anti-negro de uma maneira enviesada.	nsubj
+CF28-2	Agora, os oficiais envolvidos se referem sempre ao comando das ações como Centro de Coordenação de Operações de Combate ao Crime Organizado (Ccocco).	expl
+CF31-2	Para fazer uma boa compra, a técnica do Procon recomenda ao consumidor que verifique se já há dentro de casa os tradicionais equipamentos que desempenham as mesmas funções do conjugado, só que separadamente.	mark
+CF31-3	Caso a opção seja pelo aparelho multiuso, o comprador deve checar se o produto tem assistência técnica, diz ela.	mark
+CF33-2	Os arquivos são protegidos por senhas e códigos, que acabaram mostrando-se vulneráveis.	expl
+CF34-2	O conselho fiscal entende que os acionistas não devem mais suportar investir dinheiro bom em companhia sem condições de se reerguer.	iobj
+CF35-1	QUADRINHISTAS DO BRASIL inteiro se reúnem entre sexta-feira e domingo em Araxá (MG).	expl
+CF44-5	Pode-se agora recomendar um texto definitivo para o conselho da organização, disse o porta-voz.	nsubj
+CF51-2	Não falei nada, mas visualizei a Sra. Oke, sentada no salão amarelo, o mesmo salão onde nenhum Oke de Okehurst exceto ela ousava permanecer sozinho, envergando o vestido de sua antepassada e confrontando-se, por assim dizer, com aquela coisa vaga, plangente, que parecia permear o aposento ... aquela vaga presença assim me parecia do galante poeta assassinado.	expl
+CF55-5	O relatório não diz se as reuniões entre funcionários da Casa Branca e do Tesouro violaram a ética.	mark
+CF59-1	Trata-se do segundo volume da exploração do pop asiático por David Byrne:	expl
+CF63-3	Pegam os dois pimpolhos Joana e Luca e se mandam para Lake Powell, Arizona.	expl
+CF64-2	Também é necessário alertar toda a sociedade para a importância de se reduzir as perdas de alimentos.	nsubj
+CF69-2	O mesmo não se pode dizer da pintura de Cy Twombly.	nsubj
+CF74-6	Passamos por dificuldades: meu pai perdeu praticamente todo o seu patrimônio por se dedicar 100 % à política	expl
+CF76-3	Com a intervenção no Rio, que se cuide o resto do país!	obj
+CF79-1	O candidato deu rápida entrevista no saguão do aeroporto e dirigiu-se ao Hotel Delmonicos, na Park Avenue, em Manhattan, onde a diária é de US$ 195 (CR$ 253 mil) no fim de semana e US$ 250 (CR$ 325 mil) de segunda a sexta-feira.	expl
+CF80-2	Pelas razões alinhadas, que não refletem apenas conjeturas teóricas, mas a experiência duramente vivida pela nação nas últimas duas décadas, se impõe dar um basta definitivo a todos os remanescentes de indexação formal, sejam eles nas taxas de juros nominais (TR), no recolhimento dos tributos (Ufir e correlatos) e nos salários (IPC-r).	nsubj
+CF94-2	Ciro não quis confirmar se a TR (Taxa Referencial) deixará de corrigir esses financiamentos.	mark
+CF100-2	Os jovens têm se encontrado em Atalaia, principalmente entre quarta-feira e domingo, quando são realizados jogos de voleibol.	expl
+CF101-5	No clima de sinistrose, as fragilidades do PT não ficaram tão visíveis à opinião pública: a dificuldade de se fazerem alianças capazes de sustentar Lula quando virasse presidente; os aloprados que conquistaram posições estratégicas no partido; a falta de generalizada convicção sobre o valor da democracia.	nsubj
+CF104-2	Além disso, tem que se alterar o aparato jurídico para favorecer ações de negociação.	nsubj
+CF104-4	Só assim se evitará a estratificação da legislação, permitindo que o sistema acompanhe de maneira dinâmica as transformações na economia.	nsubj
+CF107-1	A legislação prevê multa de 300% sobre o valor da venda para quem se recusar a emitir a nota.	expl
+CF109-3	Simplesmente tornara-se impossível, por razões tecnológicas, comerciais e financeiras, estimular o desenvolvimento com base na substituição de importações.	expl
+CF109-4	Tal política convertera-se, com o avanço da globalização econômica, em sinônimo de proteção ao atraso, ao desperdício e à ineficiência.	expl
+CF109-7	De um lado reforça a estabilização, pois qualquer eventual aumento irresponsável de preços depara-se agora mais rapidamente com a concorrência de similares importados; de outro, ajuda a aliviar a supervalorização do real, pois quanto mais importações houver, maior será a procura por dólares.	expl
+CF110-2	Esse palco, além de revelar inúmeros talentos que depois se refugiaram na Europa, como Sonia Motta, serviu para Marilena inaugurar a fase mais fértil de sua carreira.	expl
+CF113-2	Além do zagueiro Grun e do centroavante Weber, o lateral-esquerdo Vital Borkelmans encontra-se também com um cartão amarelo e pode ficar de fora hoje.	expl
+CF114-1	Eles se intitulavam filiais da MIT Dealing Management Inc., dos Estados Unidos.	expl
+CF115-2	Tem que se pensar, para o Brasil, em uma empresa com modelo acionário flexível, que permita incorporar, em uma única marca, os esforços individuais desses criadores e dispor da sinergia necessária para investir no mercado internacional.	nsubj
+CF117-1	Se sentir que há um desejo coletivo, ele vai encaminhar as emendas constitucionais, disse Luiz Henrique após uma hora de conversa com Itamar, ontem, no Planalto.	mark
+CF119-1	Não sei se fui claro: seria mais fácil um pinguim cruzar três Saaras do que FHC comer carne de bode espremido a um magote de sertanejos suados.	mark
+CF120-6	O Sindicato dos Metalúrgicos do Rio e do Grande Rio (data-base em outubro) se reúne hoje com representantes da Firjan (federação das indústrias do Rio) pela primeira vez desde o início da greve da categoria, na terça-feira.	expl
+CF121-6	Chiles, que pertence ao Partido Democrata e ao mesmo grupo neoconservador que ajudou Bill Clinton a chegar à Casa Branca, vai tentar se reeleger em novembro deste ano.	expl
+CF122-1	O governo se comprometeu a não garfar a poupança, nas palavras do presidente do BC.	expl
+CF126-1	O advogado Mariano Gonçalves Neto, autor da ação popular que se arrasta há 12 anos, acusa os ex-ministros de aprovarem uma superavaliação dos terrenos entregues pelo grupo Delfin como pagamento de uma dívida que, em 1982, chegava a Cr 70 milhões.	expl
+CF126-2	O ex-ministro da Fazenda Ernane Galvêas (governo Figueiredo) disse que sua participação no episódio limitou-se a um de acordo no processo que teria vindo pronto do Banco Nacional de Habitação, subordinado na época ao Ministério do Interior.	expl
+CF131-1	Terminado o Mundial, todas as atenções das seleções já se voltam para a Olimpíada de Atlanta.	expl
+CF131-3	Para isso, a comissão técnica não se cansa de estudar os outros times.	expl
+CF133-3	Para se ter uma idéia, no Brasil a melhor marca é de Hilma, com 3,12m.	nsubj
+CF136-5	Folha Mas no momento em que a nova moeda for criada, se os preços forem convertidos no pico, não será necessário um aperto monetário, uma recessão temporária?	mark
+CF139-2	Para tentar se recuperar do jet lag e da correria da exposição do marido no Yerba Buena, Regina Casé fez ontem saída pela tangente.	expl
+CF145-3	Queremos saber se o bicho de São Paulo e o do Rio são ramificações de uma grande organização criminosa.	mark
+CF150-8	Por que não ousar ainda que ingenuamente esperar que as coisas desta vez se ajeitem?	expl
+CF155-2	Para quem vai fazer a pesquisa no computador a separação de dados não faz nenhuma diferença: tudo funciona como se fizesse parte de um só arquivo.	fixed
+CF158-3	Nós não vamos acreditar que um povo tão culto como o da Guanabara possa ter problemas como andam dizendo por aí, afirmou, referindo-se à população do antigo Estado da Guanabara, que desapareceu na fusão com o Estado do Rio de Janeiro.	expl
+CF161-5	De todo modo, uma sólida e longa parceria se configurava, alternando comédias e dramas cuja qualidade cinematográfica variava infinitamente mais que as virtudes de suas trilhas sonoras.	expl
+CF162-5	O baiano Dias Gomes, 70, está se preparando para ressuscitar um clássico da teledramaturgia brasileira.	expl
+CF170-3	À primeira vista, sim, mas é aí que se chega ao verdadeiro nó da questão.	nsubj
+CF170-5	De que adiantaria os jornais do dia seguinte omitirem os nomes, se eles já haviam sido arrastados à lama por um noticiário que atinge cerca de 60 milhões de pessoas, certamente mais do que a tiragem conjunta de todos os jornais brasileiros?	mark
+CF171-5	O time pode empatar a segunda partida para se classificar.	expl
+CF172-5	Se eles não substituírem o pessoal, vão estar praticando desobediência judicial, disse Fortes.	mark
+CF173-1	Nenhum eleitor evangélico deve se sentir culpado por ter opinião diferente de seu pastor ou líder espiritual, diz a cartilha.	expl
+CF179-3	Analisado isoladamente, é um imposto democrático e que, se levado à sua consequência lógica, o Imposto Único, poderia consumar a revolução tributária que o país deseja e precisa.	mark
+CF182-2	Se eu fosse você, passava a andar de táxi especial e apresentava a conta à concessionária.	mark
+CF183-3	E jamais chegará a isto se não tiver a total dedicação de alguém como Ricupero, um excepcional cadre, que em pouco tempo convenceu os brasileiros da sua inteligência e competência na vida pública.	mark
+CF185-7	Ele sequestrou e violentou três meninos com a intenção de lhes transmitir o vírus da Aids de que se sabia portador.	expl
+CF192-5	O presidente disse que pediu ao ministro das Minas e Energia, Alexis Stepanenko, que cheque também as estatais ligadas a ele para saber se também houve desobediência.	mark
+CF197-4	Em 1962, publica Capitalismo e Escravidão no Brasil Meridional, primeira obra de sua autoria a se tornar referência nas ciências sociais do país.	expl
+CF198-7	Deve-se usar pedras (pedra goiás e ardósias), madeiras não-brilhantes (que riscam facilmente) e cerâmicas não-esmaltadas.	nsubj
+CF199-4	Por enquanto, se dedica à preparação física.	expl
+CF201-1	Aristides está esperando a publicação do texto do FSE aprovado pelo Congresso para concluir se a desvinculação dessas verbas atinge ou não direitos individuais.	mark
+CF204-6	Se abordo este tema aqui não é para arriscar-me na análise política, coisa que outros farão melhor do que eu.	mark
+CF210-3	Preocupado com a facilidade de comunicação de seu adversário, Francisco Rossi, Mário Covas acatou as recomendações de assessores do presidente eleito, Fernando Henrique Cardoso, e se submeteu às técnicas de marketing.	expl
+CF212-3	Entregar-se, com a garantia de redução da pena, seria um bom negócio, disse Maciel.	expl
+CF220-4	Elas se algemaram entre si e nos móveis do escritório em protesto contra a utilização de peles animais em criações do estilista.	expl
+CF225-3	Na ocasião, Fidel Castro permitiu a saída de milhares de pessoas insatisfeitas com seu regime e abriu um novo espaço para se manter no poder.	expl
+CF226-3	Profissionais com longa experiência em cargos gerenciais e administrativos devem se preocupar, ao fazer o currículo, em mostrar a essência da carreira, resumindo suas conquistas e realizações.	expl
+CF227-3	Alguns até se parecem com os meus.	expl
+CF232-1	O próprio agredido informou à polícia de que não se tratava dos agressores.	expl
+CF234-1	A princípio, a dúvida era sobre a necessidade de se jogar com dois volantes meias que também auxiliam na defesa, Dunga e Mauro Silva.	nsubj
+CF242-1	Segundo Arnaldo Leite, coordenador do Programa de Capacitação Gerencial do Sebrae (Serviço Brasileiro de Apoio às Micro e Pequenas Empresas), o programa se distingue de similares de outros Estados por ter aval prévio do Tribunal de Contas.	expl
+CF247-4	Se o inquilino conseguir um bom desconto na hora da mudança do aluguel de cruzeiros reais para URV é negócio para ele, diz.	mark
+CF259-1	O tricolor, após tantas decepções na temporada, vai às finais da Conmebol, caça-níqueis tão inexpressivo que o próprio São Paulo inscreveu apenas jogadores jovens, que se denominaram Leões, ao invés do tradicional Expressinho.	obj
+CF260-2	Em respeito à história, diga-se que o mal que a UDN fez ao país não decorreu de seu moralismo, mas de sua amoralidade.	nsubj
+CF260-3	O mal residia, enfim, no fato de que a política real da UDN se traduzia no que conspirava entre quatro paredes, sem uma antena parabólica que lhe pusesse termo e sem uma imprensa independente que revelasse, livre de paixões partidárias, sua vocação para renunciar ao Estado de Direito ao toque da primeira corneta.	expl
+CF264-2	Mas como vou saber se meu amor é grande o suficiente?	mark
+CF264-7	Se você tentar medi-lo, estará enxergando apenas seu reflexo, como a da lua em um lago; não estará percorrendo seu caminho.	mark
+CF270-3	Os agentes políticos, sociais e econômicos também têm de se reciclar, pois sua ação sobre o Legislativo paulistano só ocorre em função de interesses específicos.	expl
+CF275-7	Trata-se do Eagle uma reedição com motor Toyota e chassis Lola do legendário carro feito por Dan Gurney.	expl
+CF277-2	Ontem, ela foi ao aeroporto e se disse contente por tê-lo de volta ao colo.	expl
+CF278-1	Folha O Banco Central está se espelhando na experiência de algum outro país, em operação semelhante?	expl
+CF284-3	Gazeta Filho confirmou que os dormentes se deterioraram muito antes do previsto.	expl
+CF285-4	Foi possível cumprir os 13,4 quilômetros do percurso em uma velocidade média de 40 km/h, incluindo-se a espera nos semáforos.	nsubj
+CF288-4	Embora ainda não possa ser definitivamente descartada, a hipótese da candidatura do ex-presidente José Sarney encontra-se pelo menos momentaneamente bastante afastada, abrindo espaço para que a campanha comece a deslanchar com base no atual grid de largada.	expl
+CF289-4	O cálculo baseia-se na comparação dos preços brasileiros com o americano.	expl
+CF290-7	Para se ter uma idéia da importância da InterNet, a Casa Branca está conectada a essa rede, disponibilizando publicações e documentos para qualquer pessoa do mundo.	nsubj
+CF293-2	Vera Lucia Vassouras, que é negra e se diz militante do PDT, sustenta que os autores do livro em nenhum momento afirmaram que os negros são geneticamente inferiores ao brancos.	expl
+CF293-4	Mas a magnitude da diferença entre negros e brancos nos desvios padrões não se reduz.	expl
+CF294-2	Uma blusa preta pode ser usada com um sutiã branco se a saia for branca, explica.	mark
+CF296-4	Com a mudança, o metrô de São Paulo vai funcionar hoje uma hora a mais, como se tivesse duas meias-noites.	fixed
+CF298-6	Aqui, neste espaço onde se reverencia sua memória, eu a recordo amiga de toda uma vida, nossas longas vidas vividas na intensidade da paixão: com ela aprendi a bondade e o povo.	expl
+CF303-1	Sommeliers paulistas se superam em evento	expl
+CF304-3	Com a desclassificação, Jack Girafa não teve o comportamento pacato que se espera da gigante das savanas.	nsubj
+CF305-2	Acrescenta que o cinquentenário instituto que, a exemplo da Nielsen, tem atuação internacional, se dispõe a oferecer eventuais relatórios diferenciados do concorrente.	expl
+CF308-4	Parte do crescimento de Fernando Henrique na última pesquisa Datafolha deve-se à evolução do tucano entre os eleitores que declaram simpatia pelo PMDB de Orestes Quércia e pelo PPR de Esperidião Amin.	expl
+CF311-4	Pelo preço de CR$ 6.200, os clientes poderão se servir à vontade do ravióli com recheio de salmão.	expl
+CF314-2	Você se acha louca?	obj
+CF319-20	A Suécia não se arriscou no ataque em nenhum momento da partida	obj
+CF322-4	Se separar as opiniões conforme a característica do entrevistado, terá verificado igualmente que todos os empresários ouvidos são a favor.	mark
+CF326-1	Ainda em setembro, no final do mês, encerram-se as inscrições nos colégios Santa Cruz (para a 1ª série do 1º grau) e Santo Américo.	expl
+CF328-2	A modelo Monique Evans, um dos destaques do Carnaval carioca deste ano, vai submeter-se a uma tomografia computadorizada na próxima semana para verificar a origem de um pontinho que apareceu em seu rim.	expl
+CF328-4	Monique, 37, disse que descobriu a marquinha, que não é pedra no rim quando se separou do marido, em junho passado.	expl
+CF329-2	Não sei se ele vai querer meu apoio, mas farei tudo que puder por ele.	mark
+CF338-5	June não respondeu se também estava apaixonada.	mark
+CF340-1	Luis Oca a se suicida na França	expl
+CF340-2	O ciclista espanhol, 48, se suicidou em Caupenne dArmagnac, no sul da França com um tiro.	expl
+CF340-6	Wator se chocou com um companheiro de equipe.	expl
+CF346-3	No PPR, a discussão será sobre a política de alianças e se ela inclui o PSDB, além dos novos candidatos do partido a presidente.	mark
+CF348-9	O ministro limitou-se a dizer que havia conversado por telefone com assessores do presidente Itamar Franco sobre a proposta de uma nova legislação contra abusos do poder econômico.	expl
+CF357-6	A assessoria de imprensa da Secretaria de Vias Públicas disse ontem que a prefeitura só vai se manifestar depois que for notificada pela Justiça.	expl
+CF359-2	Tem que se demonstrar através de contas e de raciocínios que o expurgo significará perda.	expl
+CF359-3	Como não se pretende o monopólio da verdade, apresento o raciocínio (e as contas) que fundamentam a tese de que não haverá perdas.	nsubj
+CF363-1	Blatter disse que o Comitê não levou em consideração o fato do jogador ter se desculpado e comparecido ao hospital para visitar o norte-americano Tab Ramos.	obj
+CF363-2	Também não nos interessa se o jogador estava internado ou não.	mark
+CF364-2	Mas o resultado, surpreendentemente, foi o mesmo no que se refere à reconstituição do princípio da autoridade.	obj
+CF367-2	Desculpe-se.	obj
+CF367-6	No Brasil, coisa esquisita, já se negociou CDB de seis meses uma eternidade, hoje em dia.	nsubj
+CF370-2	Dallari, após negociações com os laboratórios, candidamente anunciou que para janeiro, não se pode fazer mais nada, mas em fevereiro os reajustes serão iguais à inflação.	nsubj
+CF370-6	Em março, esboça-se a mesma tendência.	expl
+CF381-2	Caio Gorentzvaig, cotista da Petroplastic, disse que o arresto cairá automaticamente quando seu pai, Boris, se der por citado e oferecer bens imóveis à penhora.	expl
+CF384-6	O talento de Barros continua lá, apesar de Marilia Pêra se empenhar em tomar conta do filme com um histrionismo fora de lugar.	expl
+CF394-1	Segundo Rosa, nutricionista e professora da PUC de Campinas, junto com os alimentos se ingerem e digerem afetos.	expl
+CF395-5	Nunca vi um partido render-se tão rápida e incondicionalmente como o PT está fazendo.	expl
+CF397-3	Multiplique isso por 15, some o valor do transporte e se tem US$ 400 mil.	nsubj
+CF397-8	Nos EUA, o Museu da OEA (Organização dos Estados Americanos) já tem agendada uma exposição de Amélia, mas ela não sabe se instala lá suas Sete Ondas.	mark
+CF399-4	Um Gol e um Voyage se chocaram.	expl
+CF401-3	O kratos não é do povo; é seu, se tanto, o ouvido, o olhar.	case
+CF403-2	há mais de um ano, o México encontra-se numa situação de desequilíbrio potencial permanente no balanço de transações correntes e no orçamento fiscal, que foi compensado mais recentemente por um endividamento crescente do setor público nas praças financeiras internacionais, em particular na Bolsa de Nova York.	expl
+CF411-2	Já em Ancara que se tornaria capital Kemal presidiu a grande Assembléia Nacional.	expl
+CF413-2	Refúgios de pesca se abrem para o turismo	expl
+CF415-1	O otimismo de Van Himst se justifica, em parte, pela entrada do centroavante belgo-croata Josip Weber no time.	expl
+CF427-2	Se o jogo terminasse 6 a 0 no primeiro tempo não seria mais que o fiel espelho da partida.	mark
+CF428-1	Em algumas cidades, onde os pais têm poder de decisão no sistema educacional, os projetos de novas escolas incorporam computadores, CD-ROM, modem e linhas telefônicas para permitir que os estudantes se comuniquem on line.	iobj
+CF430-1	Tome-se o caso de Ventersdorp, 200 km a oeste de Johannesburgo, uma das 14 cidades declaradas pelo governo áreas de turbulência, estágio suave do estado de emergência.	nsubj
+CF432-2	Na loja de Nova York, o Compaq Aero está por US$ 996,97 (se chegar às 9h da manhã, ganha o cupom de desconto de US$ 100).	mark
+CF445-3	Desta forma, para se proteger de uma reviravolta inoportuna dos índices econômicos, FHC e seus amigos do governo tiveram o cuidado de fixar um calendário vantajoso.	expl
+CF451-9	E os são-paulinos podem se conformar com o Zico.	expl
+CF451-17	Em se tratando do vídeo, pra mim é uma fortuna.	expl
+CF456-1	Collor sai para jantar e se assusta com flashes	expl
+CF456-7	Embora não fosse o alvo, o ex-presidente assustou-se com os flashes.	expl
+CF459-2	Restaurante tem seu ponto forte no balcão de grelhados, que se sobrepõe aos prosaicos sushis e sashimis	expl
+CF460-2	Trinta empresários argentinos e 25 brasileiros se reúnem na próxima sexta-feira em seminário da FGV para debater perspectivas do setor privado nos dois países com o Mercosul.	expl
+CF465-2	No filme, uma garota (Alex) é colocada por engano no mesmo quarto de dois rapazes e se apaixona por Eddy.	expl
+CF465-3	Mas Eddy ama Stuart e eles acabam se desencontrando.	expl
+CF466-2	A Eufrasio Veículos, revendedora Ford, aposta no showroom sazonal e se prepara para começar a atuar em Campos do Jordão por dois meses.	expl
+CF467-9	E como você se sente como estrela de cinema?	expl
+CF467-17	Quando se está num ambiente como o que eu vivia, você não sabe que existe todo um mundo diferente fora dali.	nsubj
+CF469-2	Dobrando pelo vinco a calça jeans ou a calça de veludo, e estendendo-a sobre o carpete do quarto do hotel, ela fica como se tivesse sido passada a ferro.	fixed
+CF473-2	Trata-se de um candidato que estreou em comício sob vaias e quer, pela via do preconceito, enfraquecer quem lidera as pesquisas, disse Falcão sobre FHC.	expl
+CF480-1	Entre os católicos que se intitulam não-praticantes, 94% não tomam decisão baseado nos conselhos religiosos.	expl
+CF480-2	É mais alto do que os que se dizem ateus ou sem religião (93%).	expl
+CF480-3	Indagados sobre se concordavam com a posição da Igreja com relação ao uso de camisinha, 74% discordaram totalmente e 13% discordaram em parte.	mark
+CF482-4	A principal diferença verificada é a sensação de frio na barriga quando se passa pelas curvas do elevado Costa e Silva (Minhocão), mesmo em uma velocidade média de 60 km/h.	nsubj
+CF483-4	Geralmente procurados por estudantes adolescentes, esses serviços são abertos a qualquer interessado e têm a vantagem de ser gratuitos ou cobrar preços baixos se comparados aos de empresas de consultoria.	mark
+CF484-2	Uma das novidades é a permissão para a polícia se infiltrar em quadrilhas para obter provas.	expl
+CF486-3	Mesmo abstraindo-se tudo o que a cidade representa como patrimônio cultural da humanidade, ainda assim ela resulta parisdisíaca, adornada de todo o sortilégio.	nsubj
+CF487-4	O real terá que ter uma referência em relação ao dólar, segundo Amaral, que não quis dizer se o câmbio será fixo ou variável.	mark
+CF488-4	Adoraria se vocês engordassem um pouco mais o Folhateen.	mark
+CF490-2	Mauro Silva diz que seria um desgosto ir para reserva; para Zagalo, seleção de 82 venceria se jogasse como a de 94.	mark
+CF499-4	O delegado disse que têm se tornado frequentes os linchamentos na região.	expl
+CF502-8	Se todos conseguirem ser eleitos, quase metade (43%) dos vereadores paulistanos vão trocar de Casa Legislativa.	mark
+CF506-2	Encarregado do caso, o marfinense Rene Degni-Segui se disse favorável a um tribunal internacional para julgar os acusados.	expl
+CF507-2	Até o final da tarde de ontem, nenhum dos partidos da Nova Força havia se manifestado sobre o assunto.	expl
+CF507-5	Se isso der certo, o Lessa joga no lixo sua credibilidade, mas sem Bulhões ele fica sem apoio no interior e perde a eleição.	mark
+CF510-3	Mas deve-se tomar o cuidado de acabar com infiltrações na parede para que a tinta possa ser bem aproveitada e dure mais tempo.	nsubj
+CF513-3	No mercado, estima-se que as dívidas do grupo superam os nove bilhões de marcos.	nsubj
+CF513-5	A crise no MG aprofundou-se no início de dezembro com o declínio nos preços internacionais do petróleo.	expl
+CF519-1	Se não fizéssemos isso, os jogadores sofreriam mais.	mark
+CF521-4	É uma coisa a se estudar.	iobj
+CF521-9	Mas não o será, na prática, se não houver determinação para vencer.	mark
+CF522-2	O destaque, sem dúvida, é o balé Bolshoi da Rússia, que há pelo menos cinco anos consecutivos se apresenta na cidade.	obj
+CF527-2	Eu tento usar o processo de edição, como se trabalha em uma mesa de edição.	nsubj
+CF533-8	Os testes de laboratório deram certo, e agora a empresa se prepara para comercializar essa mini-usina tratadora de esgotos.	expl
+CF537-6	Pérez enfrentou duas tentativas de golpe militar e, a exemplo de Fernando Collor, acabou sofrendo impeachment por corrupção e, hoje, encontra-se numa cela à espera de julgamento.	expl
+CF538-1	Aprofundando as dúvidas, Leila se deixou cair na tentação do duplo.	expl
+CF539-2	Se o mínimo sofrer alteração, a Constituição determina que as aposentadorias também sejam revistas.	mark
+CF541-1	Em São Paulo, não é necessário deslocar-se muito à procura de artigos de segunda mão.	obj
+CF542-4	São as mesmas pessoas que acham que sua responsabilidade social se limita a pagar impostos, diz Letícia Zioni Gomes, 16.	expl
+CF543-5	Deixamos claro a Havelange que a Uefa só consideraria a possibilidade de lançar um candidato se ele declinasse de sua candidatura.	mark
+CF548-2	Os líderes acertaram que, havendo quorum, o Orçamento de 95 só não será votado hoje se não ficar pronta a publicação do parecer aprovado na Comissão Mista de Orçamento, acolhendo cerca de R$ 2,5 bilhões em emendas.	mark
+CF554-2	Ainda assim, é de se supor que existam bons agentes de polícia.	nsubj
+CF557-2	De 205 pacientes com suspeitas da doença, 47 revelaram-se positivas neste ano.	obj
+CF561-1	No final é feita uma auditoria para ver se a auto-avaliação feita pela fábrica corresponde à realidade.	mark
+CF563-2	Quando vai aos EUA, ele não se limita a comprar blazers caros.	expl
+CF563-5	O filósofo José Arthur Giannotti diz que se sente angustiado em livrarias e prefere comprar seus livros por catálogos.	expl
+CF568-1	As paulistas Mancha Verde (Palmeiras) e Gaviões da Fiel (Corinthians) aceitaram, mas as cariocas se recusaram.	expl
+CF568-3	Chega de violência/ Quero ver é gol de placa/ Todo mundo se dá mal/ Por meia dúzia de babacas.	expl
+CF569-2	Trata-se de outra evidência irrefutável.	expl
+CF570-3	Não se fala na cobrança dos árbitros que apitam maldosamente, para prejudicar uma equipe.	nsubj
+CF572-1	Se podemos nos orgulhar de nosso futebol, não podemos dizer o mesmo dos nossos árbitros, aqui representados exatamente por Marsiglia.	mark
+CF580-2	Importados pela Céramus, os pisos de uso comercial (para hotéis e shopping centers) destacam-se pela grande resistência.	expl
+CF583-1	A situação tende a se agravar, uma vez que nenhuma das partes parece mostrar disposição de recuar.	expl
+CF583-2	O governo recebeu ontem outra má notícia: empresários se declararam contrários ao CIP.	expl
+CF585-3	Não é a primeira vez, e espero não ser a última, que Fernando Henrique e esta coluna se atritam pelo mesmo motivo.	expl
+CF585-5	Foi quando noticiei que Fernando Henrique estava em contatos sigilosos com o governo Figueiredo, oferecendo um plano de conciliação entre o regime que se exauria e o que nasceria.	expl
+CF591-5	O bom é que o Fernando Henrique não estava presente e não se comportou como o Maurício Corrêa.	expl
+CF598-7	Há quem se orgulhe dos golpes que consegue imaginar e confunda artimanhas com estratégia.	expl
+CF601-3	Futebol e política não se misturam.	expl
+CF602-1	Às 21h15, o tucano José Serra, recém-eleito senador, juntou-se ao casal presidencial.	expl
+CF604-6	Arrelia se chama Valdemar e tem 87 anos.	obj
+CF605-1	Para Serra, se não for aprovada a emenda constitucional que desvincula dos fundos de participação dos Estados e municípios as receitas dos novos tributos, de nada adiantará o aumento de impostos.	mark
+CF607-3	Os acasos e interrupções misteriosas da música noturna bartokiana se fizeram, em Lutoslawski, silêncios e vibrações aleatórias da orquestra.	expl
+CF608-3	Se for necessário, esse prazo será prorrogado.	mark
+CF610-1	Segundo o médico Flávio Pozzuto, as funções neurológicas do torcedor se mantêm sem alteração ele respira com ajuda de aparelhos.	expl
+CF613-2	Se a vacância ocorresse nos últimos dois anos de mandato, a eleição seria feita pelo Congresso, em 30 dias.	mark
+CF617-3	A Secretaria Municipal da Administração afirmou ontem que poderá rever o decreto do prefeito Paulo Maluf que proíbe a contratação de portadores de doenças com possibilidade de se tornarem incapazes no futuro.	expl
+CF618-2	Já passou da hora de governo, prestadores de serviços e usuários se empenharem para não só aprofundar as discussões sobre a ineficácia do sistema de saúde, como também para buscar alternativas e soluções viáveis, a fim de proporcionar um atendimento mais digno à população em geral.	expl
+CF620-1	Assim, se você está usando uma planilha, por exemplo, pode selecionar parte (ou todo) e levar o que foi selecionado para outra planilha ou qualquer programa que estiver sendo usado.	mark
+CF622-4	O politicamente correto institucionalizou-se, mas nem os americanos o suportam, exceto, é claro, os eternos paroquiais.	expl
+CF626-6	Hoje deve se encontrar com FHC.	expl
+CF629-1	Reis não quis dizer se também abandonará Esperidião Amin.	mark
+CF636-1	Ontem, os bancos já se adequaram às novas regras.	expl
+CF641-2	De certa forma, afiou-o para a luta em que se engajaria a partir dos anos 60.	expl
+CF656-3	Como melhorar o ensino superior sem transformar as universidades em escolões, onde os professores só repetem e se afastam da pesquisa?	expl
+CF660-3	A empresa, com sede em Caieiras (35 km a norte de SP), pretende se mudar para o Empresarial Jaraguá, onde adquiriu 6.000 m2.	expl
+CF661-1	Ao mesmo tempo o atual papado esmagou a teologia da libertação, teorias de concorrência feroz são implantadas em toda parte, o fascismo está de volta, Fidel Castro se tornou uma espécie de Somoza e até Martin Luther King, ficou provado, era plagiário.	expl
+CF661-2	No plano dos costumes, a reviravolta se apresenta sob aspecto viral, epidêmico.	expl
+CF663-7	Lucena se declarou pressionado pela imprensa e pela necessidade de buscar o quórum nas sessões da revisão.	expl
+CF663-10	Os primeiros descontos aconteceriam na folha de pagamento deste mês, que se encerra dia 15.	expl
+CF663-11	Até as 20h, ele não havia se pronunciado sobre a extensão da medida também aos trabalhos da revisão.	expl
+CF666-6	Os desfiles se realizam pelo segundo ano em tendas ou pavilhões localizados no Bryant Park, que fica atrás da Biblioteca Nacional, na rua 40.	expl
+CF667-4	Ontem, vários operadores da Bovespa creditavam a queda do índice da bolsa à percepção do mercado financeiro de que o PFL leia-se ACM está desembarcando da candidatura de FHC.	nsubj
+CF670-9	A imprensa já se esqueceu de que os oligopólios são o vilão da URV e do plano FHC.	expl
+CF676-1	Pode-se dizer, em outras palavras, e a grosso modo, que o aluguel do primeiro mês de reajuste sempre embute (por estimativa) uma inflação que reduzirá o aluguel nominal ao seu valor real na metade do período de reajuste subsequente.	nsubj
+CF679-6	Trata-se do conselho de franqueados, que começa a surgir em algumas redes como McDonalds, Água de Cheiro, Multicoisas e Localiza.	expl
+CF684-1	As negociações com os petebistas se prolongaram até o início da madrugada de ontem.	expl
+CF684-2	Além do PSDB e do PFL, coligou-se em torno da candidatura Covas o pequeno PV.	expl
+CF689-2	Afinal, por mais que tentem matar o craque, ele sempre sobrevive, aqui ou ali, onde menos se espera.	nsubj
+CF690-1	Menem se lança candidato em 2003	iobj
+CF690-2	O presidente argentino, Carlos Menem, disse que lançará sua candidatura para a eleição de 2003 se for eleito em 1995.	mark
+CF691-2	Tratava-se de um imposto sobre o capital.	expl
+CF691-4	Tratavam-se de contribuições para construir os ágeis barcos trirremes.	expl
+CF700-4	Os demais estão sendo poupados, mas poderiam jogar se fosse preciso.	mark
+CF701-2	Doucet se inspirava muito em suas viagens e refletia isso no título de vários de seus trabalhos, como Guatemala Blues e Mostar Sarajevo.	expl
+CF703-1	O filme passa como vento pelas questões - nada pequenas - dos tratamentos psiquiátricos contemporâneos e se fixa no que existe de mais óbvio na história.	expl
+CF703-2	Isso termina por arrastá-la destestavelmente, sem que se chegue a parte alguma.	nsubj
+CF703-3	Paradoxalmente, é por aí que se podem ver as virtudes de Figgis.	expl
+CF708-6	Então é bom a Joyce Pascowitch ir se preparando.	obj
+CF714-3	Existe ambiente político, social e econômico para se produzir automóveis no Brasil?	nsubj
+CF714-6	Pode se reorientar para uma maior produção industrial e contribuir para a criação de mais emprego e riqueza, consequência natural do processo.	obj
+CF715-2	Prometer inflação zero extrapola o domínio daquilo que a autoridade monetária pode se comprometer a fazer	expl
+CF715-7	Se isso será cumprido na prática, só o tempo dirá.	mark
+CF715-8	Mas, para que a promessa possa ser efetivamente cumprida, é fundamental que se acredite que o governo irá de fato cumprí-la.	nsubj
+CF716-4	É como se estivesse lá, acrescenta Rodrigo.	fixed
+CF717-1	Um dos responsáveis pela seleção das moças da Ford, que não quis se identificar, aponta o italiano Maldini (considerado pela imprensa européia o bumbum mais bonito da Copa), que recebeu apenas um voto, como o mais bonito.	expl
+CF717-4	O Viola ou o Ronaldão seria um black man perfeito disse um dos modelos masculinos da Ford, que também não quis se identificar.	expl
+CF719-1	Durante a negociação, ontem à tarde, Muller telefonou para o presidente do São Paulo, Fernando Casal de Rey, e se lamentou.	expl
+CF720-2	Foi nesse papel que, encarnada por outra Jacqueline (Bisset), Jackie O. debutou na tela, 15 anos depois de ter-se transformado na mais pranteada e sedutora viúva deste século.	expl
+CF722-4	Se vai conseguir, é outro problema.	mark
+CF722-5	Mais uma vez, se vê que a deseducação é o problema que mais sai caro ao Brasil.	nsubj
+CF723-1	A campanha eleitoral encerrou-se na noite de quinta-feira, com um pronunciamento de oito minutos de todos os candidatos.	expl
+CF724-5	Se a Bienal for até o dia 11 de dezembro, deverá ter um público total de no máximo 250 mil pagantes, além de quase 200 mil crianças, seguindo a projeção.	mark
+CF727-2	Se vencermos esses quatro jogos, chegaremos a 80% de aproveitamento dos pontos disputados.	mark
+CF730-2	O advogado José Carlo Dri, que defende os responsáveis pela boate, se recusou a falar.	expl
+CF733-1	A coreografia criada por Bil T. Jones para An American Evening chama-se I Want to Cross Over, com música gospel cantada por Liz McComb.	expl
+CF733-2	O cenário, de Donald Baechler, se compõe de pedaços de um barco, uma pequena casa e um tubo de chaminé.	expl
+CF733-8	A coreografia de Susan Marshall que o Ballet de Lyon dança hoje chama-se Central Figure, com música de Philip Glass.	expl
+CF733-9	Inspira-se no mais antigo e melhor bailarino de minha companhia, que morreu no último verão, ela diz.	expl
+CF735-3	Os irmãos Gershwin eram tão diferentes que se completavam às maravilhas.	expl
+CF735-6	Às vezes sugeria a George uma mudança no andamento, para que este se adequasse melhor à letra.	expl
+CF735-7	Um caso típico foi o de Someone to Watch Over Me (1926), que nasceu brejeira e Ira recomendou que ela se tornasse uma balada romântica.	expl
+CF740-3	Notamos ainda que, quando um passageiro brasileiro se inscreve num programa de milhagem de uma companhia aérea internacional que serve o Brasil, passados 30 dias, recebe a proposta da Iapa.	expl
+CF741-2	Segundo a tesoureira da campanha de Lula, Tatau Godinho, os custos se resumem à passagem aérea, já que o candidato ficou hospedado na casa do embaixador do Brasil na África do Sul, Antônio Amaral de Sampaio.	expl
+CF743-2	Quando a gente se diz engajado, corre o risco de evocar modelos anteriores e o engajamento hoje deve encontrar formas novas.	expl
+CF748-1	O técnico irritou-se com uma pergunta e não a respondeu.	expl
+CF748-3	A pergunta: Se o Brasil repetir a atuação de hoje conseguirá vencer a Holanda na terceira fase (quartas-de-final)?	mark
+CF750-3	Amaral disse ainda que esse aumento de importações decorre do aumento da demanda que se exerce sobre toda a oferta de produtos.	expl
+CF753-9	Esses são os anos em que Elvis deixou de ser o rei do rocknroll para tornar-se o símbolo pré-fabricado de uma geração que sonhava com Honolulu e pracinhas.	expl
+CF754-1	E é justamente por isso que não se deve parar, preparando terreno ao futuro presidente.	nsubj
+CF754-2	Além de aumentar o número de cassações, deve-se estimular as demais CPIs sobre Empreiteiras, financiamentos eleitorais e CUT - a CPI da CUT terá o dom de trazer à tona possíveis desvios da burocracia e da praga do corporativismo, o que, acreditem, vai acabar ajudando não apenas o PT mas a democracia.	nsubj
+CF754-3	Mas a roubalheira é apenas a ponta do lamaçal: o problema essencial, a grande delinquência, é a baixa taxa de seriedade e compromisso dos homens públicos, responsável por estarmos atolados em níveis jamais vistos de miséria e violência e, como diz o salmo, é aí que não se pode estar em pé.	nsubj
+CF755-2	Se Roseana, os senadores, deputados e prefeitos estão me apoiando não é porque tenhamos firmado qualquer compromisso pessoal.	mark
+CP2-1	E assim, aos 2,5 milhões que o Ministério do Planeamento e Administração do Território já gasta no pagamento do pessoal afecto a estes organismos, vêm juntar-se os montantes das obras propriamente ditas, que os municípios, já com projectos na mão, vêm reivindicar junto do Executivo, como salienta aquele membro do Governo.	obj
+CP2-2	E o dinheiro não falta só às câmaras, lembra o secretário de Estado, que considera que a solução para as autarquias é especializarem-se em fundos comunitários.	obj
+CP2-3	Mas como, se muitas não dispõem, nos seus quadros, dos técnicos necessários?	mark
+CP2-4	Encomendem-nos a projectistas de fora porque, se as obras vierem a ser financiadas, eles até saem de graça, já que, nesse caso, os fundos comunitários pagam os projectos, o mesmo não acontecendo quando eles são feitos pelos GAT, dado serem organismos do Estado.	mark
+CP5-3	Os quatro primeiros temas destinam-se a mostrar o papel de Portugal no mundo e o quinto, o único sem relação com a história nacional, é justificado pela experiência de Barcelona (Port Aventura), que regista assinalável sucesso.	expl
+CP5-4	Uma zona petting anexa, em cooperação com o Jardim Zoológico de Lisboa, destina-se a permitir o contacto das crianças com animais.	expl
+CP6-6	Para tal, referiu aquele responsável, foram montadas mais estruturas, mais zonas estão abrangidas e, por isso, mais pessoas se podem candidatar.	expl
+CP12-1	A aumentar a confusão geral nos meios jornalísticos, chegou entretanto às redacções um outro fax, este assinado pelo deputado Pacheco Pereira, em que se afirma:	nsubj
+CP12-4	(Há quem defenda, no entanto, que se trata de um fax apócrifo, realmente escrito pelo deputado José Magalhães, o qual teria, aliás, imitado a letra do ex-deputado António Barreto.	expl
+CP13-2	O jogo chegou a estar complicado para a equipa de Paulo Autuori, essencialmente porque o Lokomotiv marcou muito cedo (8) e os jogadores portugueses não conseguiam adaptar-se ao estado do relvado.	obj
+CP17-1	Tal como na última final do Campeonato do Mundo, disputada em Nova Iorque e Lion, Kasparov tenta apresentar-se como o bom reformador contra o mau conservador (Karpov).	obj
+CP18-5	Quanto ao jogo, ele dividiu-se em dois períodos distintos: antes e depois da expulsão de Sérgio.	obj
+CP18-6	Antes, o Leixões marcou um golo, por intermédio de Maurício, na sequência de um canto apontado por Barriga, e foi a equipa que melhor se adaptou às condições do terreno.	expl
+CP21-5	Mas convencionou-se que esta sua deslocação de três dias, para presidir ao Encontro dos Jovens em Czestochawa, seria considerado um complemento ainda da sua recente viagem à Polónia, de 1 a 9 de Junho passado.	nsubj
+CP22-3	Eu tentei, o senhor Vance tentou, se for respeitado, urrah!, comentou.	mark
+CP22-4	Mas se falhar?	mark
+CP24-4	Registe-se que a terça-feira de Carnaval não é um feriado legal, mas tão-só tradicional: ou seja, todos os anos o primeiro-ministro tem que produzir um despacho, publicado em Diário da República, em que decreta a tolerância de ponto.	expl
+CP24-5	Este ano, eventualmente condicionado pela polémica que o opõe ao Presidente da República em torno dos feriados (recorde-se que Soares enviou a lei para o Tribunal Constitucional) Cavaco decidiu, pura e simplesmente, acabar com a terça-feira de Carnaval.	expl
+CP24-6	Aliás, era contra as terças-feiras, propiciadoras de sugestivas pontes, que a lei governamental mais se batia ...	expl
+CP25-5	Facto que, ao longo do tempo, foi repetidamente denunciado, tanto pelos partidos da oposição (onde se destacaram o PCP e o PS), como pelo Conselho de Fiscalização dos Serviços de Informações nomeado pela AR.	expl
+CP26-6	O certo é que, pouco depois, Vítor-Emanuel apercebeu-se que um barco pneumático fora deslocado do seu iate e atracado ao Cocke, o navio dos jovens italianos.	expl
+CP26-7	Irritado com este acto de apropriação, foi buscar uma espingarda US 30 semiautomática, utilizada em safaris, e 31 cartuchos, e dirigiu-se para o Cocke.	obj
+CP26-11	Na confusão que se segue, parte um primeiro tiro, depois um segundo, e os dois homens caem ao mar.	expl
+CP29-3	Uma equipa daquela organização encontra-se desde sexta-feira passada na região para examinar as vítimas e colher amostras.	expl
+CP29-5	Recomenda-se ainda às pessoas que não toquem com as mãos nuas nem nos doentes nem nos mortos e que evitem o contacto com o seu sangue, vómitos e excrementos.	nsubj
+CP31-4	Lá vai Dolores Faísca ver o que se passa à porta do Nacofino.	expl
+CP31-6	Cá dentro ninguém se apercebe de que um teimoso ébrio quer impor a sua presença.	expl
+CP31-7	O homem insiste, meio zonzo, a patroa não cede e ele acaba por ir-se em grande dificuldade.	obj
+CP31-9	Acaba por se lançar à estrada dos Quatro Caminhos rumo a Quarteira, sem temer o balão que agora transforma sopros em cadeia.	expl
+CP32-5	Assim, está a registar-se um abrandamento na procura com a consequente queda das cotações.	expl
+CP33-3	A Comissão Europeia considerou ontem politicamente inoportuno avançar com uma proposta de harmonização dos impostos sobre os produtos energéticos que, a concretizar-se, poderia provocar um aumento do gasóleo em Portugal de quase 25 escudos em 2002.	expl
+CP34-2	Neste sistema, a recolha far-se-á uma vez por semana para os materiais orgânicos e três por semana para os restantes resíduos domésticos.	expl
+CP34-4	Ao mesmo tempo, irá manter-se a recolha indiferenciada tal como hoje a conhecemos.	expl
+CP34-6	Este sistema de recolha adequa-se a edifícios baixos, com poucos pisos.	expl
+CP35-1	Para muitos analistas o verdadeiro problema é o facto de não se poder falar do desenvolvimento da economia palestiniana como um facto isolado, porque ele só faz sentido integrado no desenvolvimento de todo o Médio Oriente.	nsubj
+CP35-2	E aí colocam-se novas dúvidas:	expl
+CP35-3	que tipo de relação económica se poderá estabelecer entre Israel e os seus vizinhos árabes?	nsubj
+CP35-8	Outra das apostas é o turismo, esperando-se dois milhões de visitantes por ano e a criação de 30 mil a 50 mil postos de emprego.	nsubj
+CP36-2	Dizia-se que o Carlos Resende e o Filipe Cruz podiam ir para a Alemanha e o Carlos Galambas e o Álvaro Martins para o Benfica, mas é mentira.	nsubj
+CP36-5	Acho que o FC Porto só tem de se preocupar com o Sporting, não pensamos em mais nada.	expl
+CP37-3	Nunca dei uma lição na vida, mas tenho pena, porque penso que se aprende muito a ensinar.	nsubj
+CP41-5	No lado das subidas, destaca-se ainda o comportamento do Banco Totta & Açores que, ao contrário dos restantes títulos do sector bancário, encerrou a ganhar 3,41 por cento.	expl
+CP41-7	Alguma coisa se passa à volta deste papel.	expl
+CP43-3	Em Janeiro de 1994, noticiava-se a introdução na Alemanha de um supercomputador que regista as impressões digitais dos candidatos a asilo político, para tentar detectar fraudes nos subsídios da segurança social.	nsubj
+CP44-1	Agora, a polícia inclina-se para que o assassinato tenha a ver com a promoção de John Gotti Junior ao cargo de chefe da família durante o encarceramento do pai.	obj
+CP45-3	Eduardo dos Santos, presidente do MPLA, e Jonas Savimbi, dirigente da Unita, encontram-se na cidade do Bié em actividades ligadas à campanha eleitoral de Setembro	obj
+CP45-4	Bush só poderá ganhar as eleições presidenciais se fizer cair Saddam Hussein, vaticinam os analistas políticos.	mark
+CP45-5	O Presidente cancela todos os compromissos e fecha-se na Casa Branca.	obj
+CP46-3	Quando Guímaro foi detido, na sequência de um processo desencadeado com base em denúncias anónimas feitas para a Federação Portuguesa de Futebol e Polícia Judiciária, desde logo se levantou uma questão:	nsubj
+CP46-4	se Guímaro era corrupto, quem eram os corruptores e porque motivo não foram igualmente presentes ao juiz do Tribunal de Instrução Criminal?	mark
+CP48-3	que jogos, que programas, que enciclopédias, que sites na Internet se podem fazer que traduzam o título do workshop?	expl
+CP48-9	Poder-se-á tocar na realidade virtual, embora seja um objectivo a longo prazo.	nsubj
+CP48-10	Mas é essa a ideia: para já promover este encontro, reunir ideias, depois se resultar material começar a incorporá-lo e dar forma a um site que tem sede simbólica em Sagres.	mark
+CP52-2	No quiosque vendem-se dessas revistas de viagens que agora proliferam e que perpetuam as fantasias sobre ilhas exóticas.	expl
+CP53-2	A cimeira sindical ibérica já não deverá realizar-se este ano, segundo apurou o PÚBLICO.	expl
+CP54-1	Na Europa Ocidental tem-se assistido a uma queda acentuada da fecundidade, o que fez surgir o problema da não substituição das gerações.	nsubj
+CP57-4	Se isso fica uma vez mais reiterado em Memoribilia, a compilação dos seus êxitos a solo e nos Soft Cell, que parcialmente regravou para o efeito, também é visível que nos respectivos novos vídeos colados às antigas canções qualquer coisa mudou em Almond.	mark
+CP57-5	O exemplo paradigmático é Say hello and Wave Goodbye, cujo primeiro clip consistia numa verdadeira orgia de excessos e que agora é substituído por um teledisco de um romantismo asseado repleto de modelos em câmara lenta, que mais se tende a ligar aos dessexuados Black ou Don Henley.	nsubj
+CP58-2	Em troca, assinava-se o contrato-promessa de compra e venda.	nsubj
+CP59-2	Entre as propostas mais ousadas, decidiu-se pedir ao Presidente da República que proponha um referendo sobre a Lei do Financiamento, desafiar as televisões a promoverem um debate entre o ministro da Educação e todos os dirigentes associativos, pintar de negro a sede da Direcção Regional de Educação do Centro e remeter envelopes com folhas de papel higiénico ao ministério.	nsubj
+CP60-1	E não seria mais útil que o dr. Soares que, enquanto primeiro-ministro, deixou a educação no caos que se conhece, dirigisse mensagens a lançar o debate sobre o que há a reformar no ensino, em vez de passar a vida a exigir uma televisão tão livre que Eduardo Moniz tenha liberdade para criticar toda a gente excepto .. o dr. Soares?	nsubj
+CP60-2	... E, se o dr. Soares tivesse praticado desporto na escola, será que, hoje, pensaria da mesma maneira?	mark
+CP61-3	Mas, para já ainda nem sequer é certo que vá ser construída uma nova fábrica, por isso não se pode falar no projecto VW para Portugal.	nsubj
+CP61-5	Para o ministro, a decisão deverá ser tomada em meados de 1993 e, se a escolha recair sobre Portugal, essa será uma boa altura em termos de incentivos.	mark
+CP63-3	A Rússia, insensível aos protestos dos EUA e de Israel, já se tinha comprometido, no início do ano, a instalar naquele mesmo local um reactor de 1000 megawatts, num negócio avaliado em mil milhões de dólares.	obj
+CP64-3	Os New York Knicks venceram terça-feira no seu reduto os Chicago Bulls, por 96-91, passando a liderar, por 2-0, a final da Conferência Leste da Liga Norte-Americana de Basquetebol Profissional (NBA), que se disputa à melhor de sete encontros.	expl
+CP66-1	O grupo de fotógrafos participantes encontra-se para um confronto pela diversidade não só de estilos, como de opções relativamente à construção de uma ideia da cidade.	obj
+CP69-4	Na hora de defrontar o Sporting, o Famalicão pode finalmente respirar aliviado com a notícia do regresso dos seus dois jogadores argelinos, Medane e Menad, que se ausentaram para disputar a Taça de Africa.	expl
+CP69-6	Com o regresso de Medane e Menad, o treinador jugoslavo do Famalicão tem à sua disposição todos os jogadores, com excepção do jovem Manuel José, que se encontra lesionado.	expl
+CP71-13	As personagens são cegos, atrozes e desconcertantes como nas fotografias de Sander, porque os cegos são pessoas que se dirigem incessantemente para um lugar interminável de onde não podem sair e onde nós nos sentimos gratos por não podermos entrar.	expl
+CP71-16	O livro depois mudou, e os cegos tornaram-se personagens passionais, e obscenas na sua violência, esse livro depois de escrito continha tudo, o infinito, a transparência, o medo, as imagens do escuro, continha uma criança cega que não admitia não ver e inventava, e Josette que torturava ratos, uma mulher casada, um marido e um amante, e depois havia uma vingança.	obj
+CP71-19	Apaixonou-se por um cego que não era aluno dele.	obj
+CP71-20	Também se tornou amigo do empregado da loja onde os cegos iam buscar vídeos.	expl
+CP72-1	É neste contexto que entre a indústria e a Direcção-Geral da Qualidade do Ambiente [DGQA] nunca se interromperam os contactos técnicos necessários à atempada informação sobre a evolução verificada no cumprimento do contrato-programa e que permitirão a continuação de uma abordagem responsável da questão para futuro.	expl
+CP74-1	Se na primeira metada da década de 80 o balanço dos confrontos entre os dois eternos rivais era francamente equilibrado, na segunda metade da mesma década - excepção feita aos fabulosos 7-1 com que o Sporting venceu o Benfica na tarde de 14 de Dezembro de 1986, em Alvalade - os encarnados foram ganhando vantagem neste muito especial campeonato entre as equipas da Luz e de Alvalade.	mark
+CP76-3	No que se refere às regras do jogo, considera que o futebol deve continuar a ser futebol.	fixed
+CP77-1	Não pondo em causa o direito dos clínicos de exigirem melhores condições remuneratórias e de trabalho, Maria Belém lembrou que, para se pedir mais dinheiro, temos de mostrar que fazemos mais e melhor.	nsubj
+CP80-2	Uma das mais prometedoras cantoras dos últimos anos, Cassandra usa um grão de voz e um jeito de desenhar e se apropriar do verso que tem raízes em Carmen McRae.	expl
+CP81-1	Parte-se depois para o debate.	nsubj
+CP81-3	E Carlos Narciso junta a sua voz à daqueles que se surpreendem com o facto de Domingos Pereira, condenado a 15 anos pela morte da mulher, ter cumprido apenas seis.	expl
+CP83-4	mas poderá concretizar-se mais depressa do que a sua antepassada, e, sendo distribuída e partilhada, a sua sobrevivência estará mais garantida.	expl
+CP84-4	José Eduardo dos Santos e Jonas Savimbi reúnem-se em Libreville, concordando que um Governo de Unidade e Reconciliação esteja formado até Junho ou Julho.	obj
+CP85-6	Nos últimos meses ainda conseguiu escapar-se e ver Eu, Feuerbach, pelo Cendrev, em Évora, e A Ópera do Malandro, pelo Seiva Troupe, no Porto.	obj
+CP87-3	Os britânicos advogam que a substânca em questão, o ciclamato 30 vezes mais doce do que o açúcar não é seguro para o ser humano e ameaçam vetar uma lei sobre a segurança alimentar, que os ministros do comércio da CEE estão a discutir, se o produto não for proibido.	mark
+CP88-3	Abraça-se ao irmão, que ficou em 8º lugar.	obj
+CP88-4	Ganhei a medalha de prata, diz-lhe ofegante, mas logo se recusa a acreditar na realidade.	expl
+CP88-5	Só quando Moniz Pereira lhe surge na frente, se compenetra de que era mesmo verdade.	expl
+CP89-1	Metade do Orçamento destina-se a despesas correntes, suscitando criticas da oposição, que as consideram exageradas, nomeadamente as despesas com pessoal (mais de um milhão de contos).	expl
+CP89-3	Para o presidente Carlos de Sousa, trata-se de um orçamento típico de um concelho rural e pobre com poucas receitas.	expl
+CP90-4	se Maomé não vai à montanha, a montanha vai a Maomé.	mark
+CP94-2	Sabendo antecipadamente o grau hierárquico da personalidade que vai actuar, fazem-se representar em conformidade.	expl
+CP94-4	No entanto, no Ministério da Defesa não há grandes preocupações quanto à funcionalidade da gestão se houver vacatura com a provável saída de Nogueira.	mark
+CP94-5	Se os chefes militares, actualmente, despacham com o ministro de 15 em 15 dias, farão o mesmo com o primeiro-ministro e o secretário de Estado governa o Ministério.	mark
+CP95-2	A estação de Carnaxide tem um prazo de 48 horas para responder, devendo a CNE na sua próxima reunião tomar uma decisão, que, se for desfavorável à SIC, lhe poderá custar uma coima entre os mil e 10 mil escudos.	mark
+CP101-4	A AIE-Guaraldi, da Reppublica di San Marino chancelou este livro que se deixa inquietar com o desaparecimento da Ilha de Moçambique.	expl
+CP104-5	A forma como todo o processo tem vindo a ser encaminhado é, aliás, susceptível de gerar expectativas perversas, porque é na forma como as coisas irão ser levadas à prática que as pessoas se dividem.	obj
+CP108-4	Assim se definem os Requiem, ex-Requiem pelos Vivos, que após quase cinco anos de ausência dos estúdios regressam em Outubro com um novo álbum e uma mão-cheia de espectáculos.	expl
+CP112-1	Não havia cruzamento, não se tratou de uma tentativa de ultrapassagem, nem sequer de uma travagem brusca.	expl
+CP112-4	Sabe-se lá até onde poderia ter ido, deslizando pelo piso molhado da Rua das Flores.	nsubj
+CP112-5	O incrédulo automobilista, por não ter interlocutor, achou por bem chamar a polícia e relatar-lhe como tudo se passou.	expl
+CP113-5	Que também não se sabe ainda qual é.	nsubj
+CP114-4	Os Fados dAquém e dAlém-Mar que João Braga concebeu para o Centro Cultural de Belém traduziram-se numa exibição confrangedora de equívocos e falta de preparação onde couberam amigos, muito Fernando Pessoa, uma boa voz, de Rita Guerra, e uma anedota brasileira de mau-gosto.	expl
+CP115-1	O defesa português Hélder estreou-se no campeonato espanhol e encontrou logo pela frente um seu velho conhecido: o ex-sportinguista Amunike.	obj
+CP115-2	Bateu-se bem, ganhou-lhes muitos lances e anulou o flanco esquerdo do ataque dos visitantes, mas acabou por ver o remate decisivo da partida tabelar no seu corpo antes de a bola chegar às redes.	obj
+CP115-12	Esteve bem, tendo em conta que era a sua estreia, que jogou fora da sua posição e o adversário se chamava Barcelona.	obj
+CP116-1	Pelo caminho, tinha repudiado uma insinuação de Damásio, que, no seu discurso, se referiu à sua comissão como sendo constituída por críticos ou opositores da actual direcção.	expl
+CP117-2	J.S.R. Uma das condições fundamentais para se criar outros gostos nas pessoas são os concertos.	nsubj
+CP120-7	Em Itália os treinadores recusaram os jogos à segunda-feira, que as televisões queriam impôr, em Espanha também haverá jogos só de sexta a domingo, e em lado nenhum se foi tão longe como em Portugal dividindo as jornadas por quatro dias.	nsubj
+CP120-8	Há razões técnicas e também de marketing, porque o público nunca sabe a que dia joga a sua equipa e a percepção do que se vai passando, para o público em geral, também não é a mesma.	expl
+CP121-3	Tratando-se de matérias muito inflamáveis não é possível retirar integralmente a gordura no processo de transformação --, há que evitar o risco de combustão no momento de entrada no forno (a laborar a alta temperatura), que poderia atingir o próprio operador.	expl
+CP121-4	Por isso, as embalagens serão incineradas de forma diferente do habitual, recorrendo-se a um dispositivo que permitirá puxar a farinha e lançá-la por cima, em completa segurança, para dentro do forno.	nsubj
+CP124-3	Os custos desta pesada estrutura tornaram-se insuportáveis para o país.	obj
+CP125-3	anunciava-se uma corrida de touros para o Campo Pequeno em homenagem aos valorosos corredores;	nsubj
+CP126-1	Quando me convenci que todos os esforços para tomar o aquartelamento se haviam tornado perfeitamente fúteis, comecei a retirar os nossos homens em grupos de oito e dez.	expl
+CP126-4	Não podíamos descer, e eles não se atreviam a subir.	expl
+CP126-7	Alguns conseguiram descer através das linhas do Exército; outros foram escoltados por Monsenhor Pérez Serantes [ arcebispo de Santiago de Cuba ] a fim de se renderem.	obj
+CP127-2	Fala-se da sua vida: do alcoolismo, do desespero; também do charme, da sua gentileza.	nsubj
+CP128-3	Os parlamentos da federação croato-muçulmana e dos sérvios bósnios vão hoje pronunciar-se sobre o novo plano de paz internacional para a república.	obj
+CP129-6	Segundo responsáveis do clube aveirense, Mike Smith apresentou-se em deficientes condições físicas e sem ritmo competitivo.	obj
+CP129-9	Tendo como objectivo intrometer-se na luta pelo título, o Beira Mar disporá, para a nova temporada, de um orçamento a rondar os 40 mil contos, verba substancialmente inferior à da época passada.	obj
+CP130-1	Na sua globalidade, as respostas alimentam, apesar de tudo, um certo optimismo entre os que se interessam pela sorte dos bichos.	expl
+CP131-4	E a grande dúvida é se as suspeitas da agressão à sua rival serão um handicap ou uma motivação.	mark
+CP132-4	Revelam a missão perigosa dos homens das 27 equipas de bombeiros enviadas para o inferno que os iraquianos atearam em 788 poços de petróleo quando se retiraram do Kuwait e que permitiram ao fotógrafo brasileiro concluir o seu portfolio sobre o homem e o trabalho.	expl
+CP134-4	Se parti, foi porque para mim, como para todos os outros cabo-verdianos, só havia uma escolha: ficar e morrer à fome ou partir, não importa para onde, para onde pudesse encontrar trabalho e boas condições para sustentar a minha família.	mark
+CP135-1	Futebol Transmissão directa da cerimónia de abertura do Mundial de Juniores, que se realiza no Estádio das Antas, no Porto.	expl
+CP139-1	Mais de mil casais tinham-se oferecido, até quinta-feira à noite, para recolher provisoriamente refugiados, sobretudo crianças.	expl
+CP141-4	A justificação, para muitos analistas, pode procurar-se na frase de alívio de Murayama após o seu copo de saké.	expl
+CP141-5	A impopularidade pessoal e do seu executivo tornara-se demasiada.	obj
+CP144-7	E a portar-se à Cintra, não dando cavaco, sequer, ao jogador, que até já vendera a casa lá na Old England.	obj
+CP147-5	O mesmo não se passa na Bósnia, onde as etnias convivem ao simples nível da coabitação.	expl
+CP147-6	Por isso, constituiu um erro reconhecer a Croácia sem antes ter preparado uma solução viável para a Bósnia, e não há paixão ideológica capaz de o apagar, se bem que seja inútil dramatizar um erro de natureza diplomática.	mark
+CP149-7	Os reféns, um homem e um casal, encontravam-se a cerca de 60 quilómetros a norte de Frankfurt.	obj
+CP149-8	Após uma perseguição de mil quilómetros através do país, a polícia a distribuíu-se pela autoestrada entre Hofheim e Wiesbade.	expl
+CP149-9	Os agentes decidiram dar vantagem aos raptores por estes terem ameaçado suicidar-se com os reféns fazendo explodir uma granada, caso a polícia os seguisse a curta distância.	expl
+CP149-11	Os dois criminosos, um antigo soldado de elite do exército da Alemanha de Leste de 32 anos, e um suíço de 35, evadiram-se, há três semanas, de uma prisão de Hamburgo, acusados de homicídio e assalto à mão armada.	obj
+CP149-12	Segundo as autoridades, não está excluída a possibilidade de que os raptores se dirijam para França.	expl
+CP152-4	m Janeiro de 1994, os três Guys Guy Spitaels, ministro-presidente da Valónia, Guy Coeme, ministro da Defesa, e Guy Mathot, ministro regional foram forçados a demitir-se para assegurar a sua defesa depois de a sua imunidade parlamentar ter sido suspensa.	obj
+CP153-6	Os mineiros estão dispostos a manifestar-se na sede do concelho em solidariedade com o seu camarada, ao mesmo tempo que está a ser preparado um abaixo-assinado.	obj
+CP153-8	Sempre quero ver se têm prisões que cheguem para lá meter dentro 500 mineiros!, diz Manuel Vasconcelos.	mark
+CP155-6	Ainda se considera, pela última vez, ser desnecessária a prisão, dita o juiz para o escrivão, convertendo os cinco meses na penitenciária em 45 mil escudos de multa, ou, em alternativa, em cem dias de detenção.	nsubj
+CP156-8	Mas se a alternativa for a estrada, não é possível.	mark
+CP156-12	Constata-se que nem sempre, na altura própria, os munícipes dão atenção aos editais.	nsubj
+CP156-17	Foi apenas recebido um fax da CHEM a mandar parar as obras, mas não se pode retomar o PREC numa situação desta natureza.	nsubj
+CP157-4	As medidas, anunciadas pelos ministros da Economia, Johannes Ditz (conservador), e das Finanças, Viktor Klima (social-democrata), numa conferência de imprensa comum, destinam-se a assegurar o cumprimento dos critérios de convergência, assegurando que a Aústria possa entrar no primeiro comboio da União Económica e Monetária.	expl
+CP159-5	Devido à acção de Ames, explicou o actual director da CIA, foi muito mais difícil para os EUA compreender o que se passava na URSS durante aquele período crítico, porque ele denunciou aos soviéticos muitos agentes que trabalhavam para os serviços americanos.	expl
+CP160-1	Depois de Cantanhede, a formação apresenta-se hoje em Vila Real, no sábado no Porto e na próxima quinta-feira em Tomar (ver págs. 10/11 deste Fim de Semana).	obj
+CP160-3	Entre os variadíssimos patrocinadores destes concertos, encontram-se, entre outras empresas e instituições financeiras, a Rodoviária Nacional, Portucel, Shell Portuguesa, Sonae, Banco Totta & Açores e Montepio Geral.	obj
+CP160-4	Entre os concertos previstos para Novembro, destaca-se o de dia 3, no Palácio Nacional de Queluz, quando a orquestra acompanhar o pianista Sequeira Costa, que interpretará o concerto nº 1, opus 11, de Chopin, com o patrocínio da GALP.	expl
+CP161-3	À sua poluição deve-se ainda o desaparecimento dos famosos bivalves negros da Mexelhoeira, uma zona de rochas entre as praias da Areia Branca e do Peralta.	expl
+CP161-6	A Câmara Municipal aponta os complicados processos burocráticos como os grandes entraves para que tudo se concretize uma vez que a maioria dos apoios financeiros já estará garantida.	expl
+CP163-4	Acabará com o desleixo e a degradação do parque actualmente existente, que não tem cuidados de jardinagem há muito tempo e que poderá transformar-se em poiso de marginais e toxicodependentes.	expl
+CP164-1	Abílio Lourenço, da Comissão de Luta dos Professores de Educação Tecnológica (Colpet), lembra que a anterior tutela se limitou a reconverter os professores de Trabalhos Oficinais em professores de Educação Tecnológica, sem lhes dar qualquer tipo de formação.	expl
+CP164-2	Como resultado, quando têm alunos, estes docentes limitam-se a leccionar aquilo que leccionavam antes da reestruturação:	expl
+CP165-2	Percebe-se que a grande massa de gente está ali mais ou menos como o Padrão dos Descobrimentos: para proporcionar à SIC o seu show de ilusão, a ideia de que uma multidão entusiástica rodeia o palco, o que serve às mil-maravilhas os primeiros planos das câmaras.	nsubj
+CP165-3	As coisas animam-se decididamente com Crocodile rock de Elton John.	obj
+CP165-4	Os cantores sucedem-se, Miguel Ângelo já pula, por momentos dança à Elvis e põe o concorrente a dançar.	expl
+CP166-3	É esta a expectativa assumida pelo presidente da Câmara de Valongo, Fernando Melo, empenhado em abrir aos ermesindenses a primeira fase deste novo equipamento de passeio e lazer antes que se escoe o presente mandato autárquico.	expl
+CP166-4	Como o PÚBLICO pôde constatar no local, a ideia é transformar, nesse curto espaço de tempo, um terreno que ainda se encontra revolvido e enlameado numa área relvada cruzada por passeios e estadias.	expl
+CP168-4	A discussão centrar-se-á em três grandes painéis: a edição na sociedade europeia de informação, a dimensão cultural no Tratado da União Europeia e o mercado do livro na Europa: problemas de comercialização (preço fixo).	expl
+CP169-4	No cinema, essencialmente o que se apanha é o momento de qualquer coisa.	nsubj
+CP169-5	Devido a o lado fraccionado do cinema, trabalha-se momento a momento e um momento pode ser reduzido a três segundos de expressão, de emoção de vontade--	nsubj
+CP170-10	Desde logo se manifestou a habilidade do regisseur controlando mais de um filme em simultâneo.	expl
+CP171-4	Aos saltimbancos, bombos e gigantones juntar-se-ão, ao longo dos vários dias de festa, a música, o malabarismo, animações de fogo, teatro e fantoches.	obj
+CP172-4	Não se construiu um mundo diferente para cada um dos seus temas, em estúdio.	nsubj
+CP175-2	Mas, com a normal tendência para a redução da realidade, passou-se a falar não apenas na Escola do Porto, conceito com origem numa falácia regionalista já muito afastada, mas numa já mesquinha e inexistente Escola do Siza.	nsubj
+CP175-3	A arquitectura de Siza Vieira não o permite, talvez porque em todo o lado seja próprio da liderança cultural, o não se submeter às regras que ela própria cria.	expl
+CP175-4	Como estilo que nunca se chega a definir, como caminho que está sempre interminado, a obra do mestre é mais a permanente inflexão que a coerência inabalável.	expl
+CP177-5	Trata-se da aliança entre a Adobe, a mais importante empresa no ramo da concepção de produtos para edição electrónica e a Netscape, que em seis meses capturou 75 por cento do mercado de programas de navegação na Internet com o produto que lhe deu o nome.	expl
+CP178-3	No âmbito do Ciclo Jovens Compositores, organizado pelo Acarte da Fundação Gulbenkian, pode escutar-se a obra ...Há Dois Ou..., de António de Sousa Dias.	nsubj
+CP179-1	A atleta e o seu técnico, João Campos, elegeram a corrida de 10.000m como um meio de ela se sagrar campeã olímpica.	expl
+CP179-2	Apesar de ser a recordista mundial dos 5000m, é nos 10.000m que a Fernanda se exprime melhor, considera Campos.	expl
+CP179-4	Fernanda Ribeiro não se aterroriza sequer com as condições climatéricas que, decerto, irá encontrar muito calor e humidade.	expl
+CP179-10	A [ sul-africana ] Meyer não sei se escolherá os 10.000m ou a maratona e as chinesas apresentam altos e baixos e nunca repetiram as marcas de 1993.	mark
+CP180-5	Ambas as versões se baseiam no mesmo núcleo de código, como lhe chama a Microsoft embora pareça que este núcleo tenha mais a ver com a versão Macintosh que com a de Windows:	expl
+CP180-7	O WordPerfect, por seu lado, ao passar de 5.2 para 6 tornou-se praticamente num novo produto.	expl
+CP183-1	O escudo esteve bastante pressionado, devido sobretudo a vendas especulativas por parte de bancos estrangeiros, e as frequentes intervenções do Banco de Portugal apresentaram-se eficazes, quebrando a tendência de queda, por vezes acentuada, da divisa nacional.	obj
+CP183-2	A peseta manteve-se no topo do mecanismo de taxas de câmbio do SME	obj
+CP184-7	P. As suas filhas compreendem o que se passou em Maio 68?	expl
+CP185-4	Partiram para um El Dorado, deparam-se agora com a perspectiva de uma reforma antecipada ou do desemprego forçado.	obj
+CP187-1	Não é de estranhar, porque entre os comensais reunidos no dia 29 de Agosto em casa do romancista norte-americano William Styron, prémio Pulitzer, em Marthas Vineyard, uma ilha ao sul de Boston, Massachusetts, não se encontrava apenas o Presidente dos Estados Unidos, mas sobretudo esses dois grandes obcecados dos livros que são o Nobel colombiano Gabriel García Márquez e o mexicano Carlos Fuentes, último prémio Príncipe das Astúrias de Literatura.	expl
+CP188-5	O carro atravessou-se, primeiro para a direita e depois para a esquerda, o que me levou a tirar o pé do acelerador.	obj
+CP188-8	O carro alemão teimou em não se adaptar ao traçado do circuito, o que deixou Chaves algo desalentado, até porque experimentava em Barcelona algumas novidades aerodinâmicas que deveriam melhorar as performances do seu carro.	expl
+CP189-2	Também por isso, na FPJ pensa-se já em Sydney.	nsubj
+CP189-3	E espera-se o mesmo de sempre.	nsubj
+CP190-5	Parece-me lógico ligar um acordo de concertação social ao Quadro Comunitário de Apoio (QCA) e ao PDR, na vertente específica de um acordo de concertação social e, mais do que isso, porque o primeiro-ministro afirmou aqui, na reunião, que está disposto a que o próprio acordo contemple medidas de acompanhamento e de avaliação do QCA e do PDR, visto que pode acontecer que os cenários macro-económicos e macro-sociais se alterem face ao previsto no PDR e no QCA.	expl
+CP191-4	Dois empresários, um chinês de Hong Kong e outro português, encontram-se para falar de negócios.	obj
+CP191-8	Para que se aproveite o espaço ao máximo, há zonas que têm de ser encolhidas, o que acontece com a casa de banho.	nsubj
+CP192-4	O pedreiro adiantou que ainda esteve tentado a dirigir-se ao carro e dizer ao fulano que o Carnaval já acabou.	obj
+CP192-6	Mais tarde, o Ford Fiesta voltou a parar no mesmo local à esquina da rua da Pensão Beira Baixa, onde Carlos Miguel almoçou, e também muito próximo de um eucaliptal onde o rapto se consumou.	expl
+CP195-1	Brennan e Laurent Filipe revelam uma maior segurança instrumental, a bateria de Acácio Salero (visiense apostado em desmentir a macrocefalia nacional que no jazz é pouco menos do que ditatorial) mantém um grau de atenção ao que se passa à sua volta absolutamente indispensável à afirmação de qualquer bom jazzman, e o contrabaixo de David Gausden, embora fraquejando quando lhe compete marcar o sentido da marcha, cumpre razoavelmente a sua função colectiva.	expl
+CP195-4	É que é a dançar que Monk se entende.	obj
+CP196-3	Ivanisevic, nº 4 do ranking mundial, encontrou algumas dificuldades para bater o francês Guy Forget (7-5 e 6-4), acabando por se impôr na batalha do serviço.	expl
+CP198-3	Os despojos do escritor francês era um dos 19 cadáveres descobertos em Novembro, na região de Verdun, local da batalha contra o exército alemão onde se sabia que Alain Fournier tinha sucumbido.	nsubj
+CP198-6	Contra a lenda que falava da morte por tortura do escritor, às mãos de soldados alemães, os exames efectuados por Adam demonstram que a morte de Henri Alban Fournier, dito Alain Fournier, se deveu a impactos de balas.	expl
+CP199-5	P. Quer dizer que nunca se acreditou num crescimento de três por cento e que a estimativa da receita foi feita, desde o início, a pensar em dois por cento ou menos?	nsubj
+CP201-2	A taxa de cobertura das importações pelas exportações melhorou, situando-se em 50,9 por cento, contra 45,1 por cento nos cinco primeiros meses de 1994.	obj
+CP201-3	Em Maio verificou-se um aumento de 19,3 por cento nas exportações e uma queda de 4,3 por cento nas importações, o que permitiu uma diminuição de 19,2 por cento no défice comercial mensal, em relação ao mesmo mês de 1994.	nsubj
+CP204-13	A União Nacional era uma grande frente onde Salazar tolerava algum pluralismo orgânico, nomeadamente a Causa Monárquica, que, em 1961, se não fosse o início da guerra em África, teria mesmo aparecido como alternativa à União Nacional.	mark
+CP205-1	Saddam Hussein regozija-se com o derrube de Gorbatchov; Kadhafi, da Líbia, fará o mesmo.	expl
+CP206-3	Segundo se julga, o cinema foi licenciado para exibição de filmes e não para culto, defende.	nsubj
+CP206-4	A finalizar, o protesto solicita uma intervenção do presidente da Junta de Freguesia, a fim de esclarecer esta situação ou, se possível, acabar com as sessões.	mark
+CP207-5	não só as técnicas utilizadas não demonstram nada, como as conclusões se baseiam em falácias, como todo o processo nada tem a ver com Ciência, ao contrário do que as máquinas de propaganda pretendem fazer crer.	expl
+CP207-7	Na descrição que se segue realizo algumas simplificações, bem como uma adaptação do hebraico para o português.	expl
+CP207-15	Se não, repita os passos 3 a 5 variando o que quiser até conseguir alguma coisa interessante.	mark
+CP210-5	Figueiredo, que se recandidata a um terceiro mandato, considera que o seu adversário está a insinuar corrupção e que a sua dignidade foi posta em causa, por isso não tem outro caminho senão esclarecer estes processos para que não fiquem dúvidas.	expl
+CP216-3	O SECRETÁRIO-GERAL da Organização das Nações Unidas (ONU), Butros Butros-Ghali, deixou ontem ao princípio da tarde Luanda com a promessa de que até ao fim de Agosto deverão chegar a Angola as unidades de infantaria que faltam para se completar a Missão de Verificação (Unavem III).	nsubj
+CP217-4	O taxista não se ficou e, com a segurança que a dimensão do seu porte lhe dá, foi atrás deles, exigindo o seu dinheiro.	expl
+CP218-1	A actual administração da TVI, presidida por Miguel Paes do Amaral, líder do grupo SOCI, e a Antena 3 espanhola assinaram ontem um acordo de parceria estratégica, em que se comprometem a duplicar o actual capital social do quarto canal português.	expl
+CP218-2	A Media Capital (do grupo SOCI), que gere a TVI, apresenta assim mais um argumento para a assembleia de credores que se realiza no próximo dia 14.	expl
+CP222-6	Não podemos permitir que a contratação colectiva continue bloqueada, que o desemprego continue a aumentar, que a segurança social, a saúde e a educação continuem a degradar-se.	expl
+CP224-1	Seriam 9h30 quando os três homens, de quem não se conhecem dados identificativos, surgiram de armas na mão e rosto coberto à porta do BNU de Massamá, uma dependência recentemente inaugurada e localizada na denominada Sexta Fase da Urbanização Pimenta e Rendeiro (área que na sua maioria ainda está em construção).	expl
+CP225-3	Sabe-se que o hemisfério direito também é essencial para funções mentais de altíssimo nível, tais como o raciocínio, a memória, o reconhecimento dos rostos, das melodias musicais, etc.	nsubj
+CP230-1	O jogo dos campeões escoceses, apesar das múltiplas tentativas dos futebolistas do Rangers de maior nome, como Hateley e Durrant, não só perdia ímpeto mas morria em qualidade, quando enfrentava o meio-campo do Celtic, onde McStay se exibia a grande altura.	expl
+CP230-5	Mas o jogador russo do Rangers Mikhailichenko começou a evidenciar-se devido à frescura e à rapidez do seu jogo.	obj
+CP231-2	Trabalhadores municipais manifestam-se por subsídios	obj
+CP231-3	Cerca de três centenas de trabalhadores municipais manifestaram-se ontem diante da Câmara Municipal de Sintra, exigindo da presidente socialista Edite Estrela o pagamento das horas extraordinárias e das ajudas de custo e a reposição do subsídio de insalubridade, penosidade e risco.	expl
+CP232-1	Face ao marco, a nota verde não apresentou uma tendência definida, oscilando entre os 1,79 e os 1,80 marcos por dólar, enquanto no âmbito do SME se mantinha a tradicional apatia.	expl
+CP232-2	Em o fecho dos mercados europeus, o marco/escudo transaccionava-se a 102,35/102,36 escudos por marco,tal como tinha já acontecido terça e quarta-feira.	expl
+CP233-2	E.G.: A A.B.P.ganhou bastante e acrescento que nunca houve em Delegação nenhuma,uma tão grande afluência de sócios para a votação,como se verificou nestas Eleições.	nsubj
+CP235-6	Rua onde ainda hoje se concentram algumas das mais antigas casas de mármores e cantaria da cidade,a Avenida de Rodrigues de Freitas conta ainda com duas instituições de especial relevo para a história da cidade,descontado o já referido recolhimento para órfãs: a Biblioteca Pública Municipal do Porto cuja fachada lateral está voltada para a Rua de D. João IV e para o Jardim de Marques de Oliveira (vulgo de S. Lázaro)e a Escola Superior de Belas-artes do Porto.	expl
+CP237-4	Finalmente,o terceiro dia será dedicado a uma reflexão mais profunda sobre essa entidade a que se chama Europa do ponto de vista da sua cultura e da sua história.	expl
+CP240-1	Desvalorizando, por outro lado, a posição assumida pelo deputado independente José Magalhães, que considera errada a proposta de Manuel Carrilho Se ele disse isso, o problema é dele, foram as suas palavras --, Jorge Coelho reafirmou a sua confiança no ministro da Cultura.	mark
+CP240-2	Se ele apresentou esta solução para resolver aquelas dívidas,é porque deve ser uma boa solução,rematou.	mark
+CP241-9	A estes juntarão-se-,em palco,os cantores/músicos Marta Silva,Marcelo Lafontana e Pedro Ribeiro.	obj
+CP243-1	Agora, perante os olhos da velha Elvira, sentada no centro da sala com os xailes e o casaco que a protegem do frio, encontra-se o vestido verde com os botões com pequenos sabres dourados idealizado pela costureira Danilina.	expl
+CP243-2	Revê-se no Mercedes de Goebbels, apreendido na Alemanha e entregue ao marechal Oslikovsky, sentado com a filha pequena, Lora, no assento posterior.	expl
+CP243-16	Falou da praia de Soci e do Castelo dAria, no cimo da colina de Dorzacos, quando o chefe da orquestra bebia copos de água gaseificada, apontou o pequeno restaurante do Ermitage em Moscovo, onde se comiam trutas.	expl
+CP243-18	O seu vestido escuro durante o funeral de Estaline, quando, apesar da multidão que se apinhava ao longo dos muros, para ela havia espaço, para que ninguém sequer lhe tocasse.	expl
+CP243-20	Um aviso fugaz no grande mercado das aves, quando a indiferença da multidão lhe permitia observar com tranquilidade um peixinho circunscrito à água de uma garrafa e já ninguém era atraído pelo seu perfume, que ainda então se evaporava da carne rosada e abundante.	expl
+CP243-23	Mas a senhora lembra-se de quando era nova? pergunta-lhe de súbito.	obj
+CP245-6	Parecia um pouco volumoso para tão pouca coisa, mas logo se colocou a hipótese do extracto ir acompanhado de algum folheto de publicidade a um novo produto verdadeiramente arrasador.	nsubj
+CP248-5	Como num gesto final de rendição, o cabo deu-me os binóculos que trazia e afirmou: um presentepara si.	nmod
+CP249-5	No campo do Lyon, o Mónaco não foi além de um empate sem golos, o que impediu a equipa de Rui Barros de se isolar no primeiro lugar.	expl
+CP251-2	Diga-se, também, que há quem pense o contrário.	nsubj
+CP251-4	Ao lado de Luís Miguel Cintra e de Leonor Silveira, apresentados como os guardiões da casa de Oliveira, Deneuve e Malkovich eram os estranhos seduzidos pela obscuridade palavra de Deneuve, lembrando-se de Buñuel.	expl
+CP251-5	E como disse a actriz, há certas coisas que não se devem desvendar.	expl
+CP252-7	No último parágrafo das seis longas páginas, conclui-se por uma visão convergente sobre a necessidade de reformar positivamente o sistema político no sentido de assegurar melhor democracia e melhor desenvolvimento, na concretização de uma alternativa política ao PSD e ao Governo.	nsubj
+CP253-1	A 45 anos de governação do Partido Nacional, quatro dos quais sob a batuta de Frederik Willem de Klerk, deverá seguir-se agora um período indeterminável de preponderância política do Congresso Nacional Africano (ANC), criado em 1912 para conseguir o fim do racismo.	expl
+CP253-3	E alguns observadores vêem em semelhante vantagem o perigo de uma tentação hegemónica, se bem que a Constituição interina a aprovar durante as próximas semanas preveja a representação no governo de todos os partidos que consigam pelo menos cinco por cento dos votos.	mark
+CP256-3	Palma Inácio, ex-comandante operacional da LUAR, numa entrevista ao Expresso, afirma que não reconhece, aos que contra ele se colocam, envergadura moral para o ofender e lembra que o ELP de Spínola foi a organização mais terrorista de Portugal.	expl
+CP257-2	Os arqueólogos chamados ao local avaliaram o achado como sendo da época de Júlio César, mas só agora, após diversas investigações das arqueólogas Ana Arruda e Catarina Viegas, acompanhadas por técnicos do Instituto Português do Património Arquitectónico e Arqueológico, se chegou a um consenso pleno.	nsubj
+CP260-1	O sistema encontra-se disponível no mercado português e faz parte do pacote proposto aos franchisados.	expl
+CP261-2	A Deco tem uma posição oposta e o organismo visado limita-se a propor uma leitura atenta do relatório de actividades desenvolvidas.	expl
+CP262-2	É para esta região que se viram os olhos dos partidários do sim, ansiosos por uma votação que compense a quebra anunciada pelas sondagens noutras zonas do país.	expl
+CP262-5	se o não na primeira pergunta do referendo for maioritário na mais populosa das oito regiões propostas, isso significará, quase de certeza, a certidão de óbito do modelo nascido do acordo entre o PS e o PCP.	mark
+CP263-2	O horror de tudo se perder	nsubj
+CP263-3	Pense-se em Kingsley Amis, Malcolm Bradbury e Albert Finney.	expl
+CP263-5	Pense-se no romance que o primeiro escreveu The Green Man --, que o segundo adaptou e o terceiro interpretou.	expl
+CP263-6	Pense-se num enredo mirabolante, centrado num herói desfeito, o anti-herói Maurice Allington, e na maneira como o impensável o fantasma de Thomas Underhill o cerca.	expl
+CP263-7	No fim, obtém-se uma série de televisão.	expl
+CP265-4	A América tem de preparar-se para o futuro.	obj
+CP267-1	Segundo a Comissão de Afectados pela Barragem do Lindoso, entidade promotora da concentração, o objectivo perseguido mantém-se: prosseguir no seu protesto contra o que entendem ser uma atitude de chantagem da EDP.	expl
+CP268-2	Em vésperas de Carnaval, a Associação Portuguesa para a Defesa do Consumidor (DECO) mostra-se preocupada com a utilização de explosivos nas brincadeiras carnavalescas, responsável todos os anos por inúmeros acidentes, sobretudo com crianças em idade escolar.	obj
+CP268-6	Por exemplo, lembra também a DECO, entre os brinquedos preferidos pelas crianças nos festejos carnavalescos encontram-se os estalinhos, considerados brinquedos ou artifícios pirotécnicos que podem rebentar por choque ou através de um detonador.	obj
+CP268-7	Encontram-se em todo o lado e, no entanto, o seu fabrico é proibido por lei.	obj
+CP270-2	O Japão respondeu que concorda com as sugestões norte-americanas e que apoia uma acção concertada para travar a valorização do iene, considerada como brutal a ambígua já que se pode conduzir à diminuição do excedente comercial japonês pode também pôr em causa o crescimento mundial, na opinião do secretário do Tesouro dos EUA, Lloyd Bentsen.	mark
+CP271-6	Mas não se arrependeram.	expl
+CP274-1	Em Portugal desde 23 de Maio, Manuel António viveu em Lisboa, cerca de três meses, deslocando-se depois para o Porto.	obj
+CP274-10	Este último documento terá sido adquirido no Centro Comercial Dallas, no Porto, por 15 contos e destinava-se a ser usado numa viagem a França.	expl
+CP275-10	Espera-se ainda a aprovação, por parte da Comissão, da terceira parte do plano de ajuda à companhia francesa Air France, cujo montante global é de cerca de quatro milhões de dólares (cerca de 605 mil contos).	nsubj
+CP276-5	m segundo lugar, e trata-se de uma conclusão menos taxativa, é de admitir que tenha diminuído a posição relativa da Região Norte no contexto do espaço sócio-económico português.	expl
+CP279-1	A perspectiva de as duas empresas competirem entre si sem se terem em conta os incómodos resultantes para os aveirenses acabou por ditar uma solução de consenso, tendo a autarquia funcionado como intermediária para o bom entendimento entre as partes.	expl
+CP279-2	E a possibilidade de as ruas de Aveiro se transformarem num estaleiro permanente, com um operador a abrir valas onde o seu concorrente as tinha fechado uns dias antes, não seria de todo inadmissível, até porque a legislação permite a livre concorrência entre os concessionários da TV por cabo.	expl
+CP279-3	Segundo o acordo estabelecido, a TV Cabo Mondego, que entrou já em força no mercado local de assinantes, utiliza as fibras ópticas da rede telefónica já instaladas pela Portugal Telecom, enquanto a Pluricanal se servirá, mediante uma comparticipação financeira, das condutas do gás natural.	expl
+CP282-2	Parece-me que nela se continuam a misturar alhos com bugalhos e a não hierarquizar adequadamente nem as convicções de fé nem as razões.	expl
+CP283-1	Numa reunião com comerciantes e moradores da vila velha, realizada terça-feira à tarde, os vereadores da CDU refutaram as acusações feitas pela presidente do município de estarem a atrasar obras importantes, garantindo não estar contra ou a favor da construção do silo na Volta do Duche que se encontra em banho-maria --, mas fizeram depender uma posição favorável da realização de um estudo mais vasto para toda a vila que prove a necessidade daquele investimento.	expl
+CP287-1	Esta medida foi conseguida com a colaboração activa da Associação dos Operadores Portuários do Sul (AOPS) e da Associação dos Agentes de Navegação e Empresas Operadoras Portuárias (Anesul), e insere-se na política de modernização do sistema de informações da comunidade portuária em Setúbal.	obj
+CP289-1	Já antes do século XIV se havia iniciado o capítulo da história que une Portugal à famosa Flandres, cuja referência povoa os nossos livros de História do secundário, marcando a memória com nomes quase míticos, como o de Antuérpia.	expl
+CP291-2	A ESCOLA de Excelência escreve-se em maiúsculas.	expl
+CP295-3	A administração sempre foi bastante conservadora nas suas aplicações de capital, que se traduzem principalmente por investimentos no sector do petróleo e pela gestão de uma carteira de títulos no valor de dois biliões de dólares nos Estados Unidos, composta por acções e obrigações.	expl
+CP295-5	Recorde-se que as receitas são obtidas na sua quase totalidade em dólares, que depois é necessário converter para a moeda nacional.	expl
+CP296-3	Mas quem não se fiar nestas aparências descobrirá que, nesta amálgama de sonoridades informes ou nesta acumulação de nuvens (cinzentas) com formas caprichosas toma forma um discurso feito de premonições, ameaças, trovões e relâmpagos, mortes anunciadas.	expl
+CP296-8	Assim, todas as palavras com que Mateus (Manuel Wiborg) contribui para as conversas de caserna anunciam ou recordam o estupro e o assassínio de Sandra, bem como o suicídio com que ele se vai autopunir no final do espectáculo.	expl
+CP299-1	Não possui hoje Vendas Novas praça de toiros, razão por que a corrida aconteceu numa desmontável, mas António Morais, no seu livro A Praça de Toiros do Campo Pequeno, ao referir-se às outras praças do país, diz que José Valério construiu uma praça em Vendas Novas em 1862, tendo nela havido festas de toiros até 1875, ano em que soldados da Escola Prática de Artilharia, por descuido, provocaram o seu incêndio.	obj
+CP299-3	Desta feita, redimiu-se a Escola Prática, ajudando à montagem da praça instalada no campo da feira e nela fizeram as cortesias José Maldonado Cortes, Nuno Pardal, o praticante José Francisco Cortes e o amador José Soudo, a quem saudamos o regresso após convalescer do gravíssimo percalço que lhe aconteceu na praça da Malveira.	expl
+CP299-4	Lidou-se um curro de toiros de José Luís Sommer de Andrade, que o Grupo de Forcados amadores da Moita pegou.	nsubj
+CP300-3	Para os operadores, também aqui as valorizações se ficaram a dever à reentrada de novos investidores, nomeadamente fundos de investimento internacionais.	expl
+CP301-2	Recorde-se que Edberg, antes de Roland Garros, estava no 45º lugar, mas as excelentes exibições na terra batida parisiense e na relva londrina permitiram-lhe o salto.	expl
+CP302-2	Cerimónia e combate em que a mística grotowski-barbiana, as artes marciais orientais, a música e a poesia italiana e um projecto intercultural se cruzam em boa harmonia.	expl
+CP303-5	O actor disse estar a produzir The Stars Fell on Henrietta, um filme realizado por James Keach, com Robert Duvall, e projecta rodar Golf in the Kingdom, que tem por tema o golfe, um desporto de que se confessa adepto.	expl
+CP305-1	Desde Maio deste ano que Joaquim Correia, escultor natural do concelho da Marinha Grande - que doou os seus trabalhos para integrar o núcleo do museu no Convento de Santo Agostinho - chegou mesmo a ameaçar desvincular-se do compromisso com a autarquia, caso o processo não fosse desbloqueado até ao final do ano.	expl
+CP305-3	Joaquim Correia justificou a sua posição cautelosa sobre o assunto, adiantando que o processo de reconversão do Convento de Santo Agostinho em museu se arrasta há oito anos.	expl
+CP308-1	Jean Alesi obteve ontem a pole position provisória para o Grande Prémio de Espanha, que se disputa amanhã no circuito da Catalunha (Barcelona).	expl
+CP308-4	Depois do segundo e terceiro lugares no GP de San Marino, há duas semanas, e dos bons resultados conseguidos nos testes realizados nos dias seguintes, também no circuito de Ímola (Berger foi o mais rápido dos 16 pilotos que estiveram em pista, batendo Schumacher e Hill), a Ferrari mostra em Barcelona que a sua competitividade está a aumentar, reforçando a ideia de que se poderá bater em igualdade de circunstâncias com a Benetton e a Williams, as duas equipas motorizadas pela Renault.	nsubj
+CP308-5	Gerhard Berger tem-se mostrado um dos menos entusiasmados com os últimos resultados, uma posição reforçada ontem pelo próprio Jean Todt, director desportivo da Scuderia:	expl
+CP309-1	Entretanto, Bernardo Vasconcelos, médico do Benfica, confirmou ontem que, na sequência do ocorrido no último Benfica-Sporting, João Pinto será operado, embora ainda não se conheça exactamente a extensão da lesão.	nsubj
+CP309-3	Também não se sabe quando ou onde ocorrerá a intervenção cirúrgica.	nsubj
+CP309-6	Pode ir até seis meses, mas se não for necessária ligamentoplastia será menos tempo.	mark
+CP310-1	Burlões aproveitam-se do Kuwait	expl
+CP310-2	Um guineense e uma portuguesa que se dedicavam a angariar trabalhadores para o Kuwait, cobrando uma taxa de dez contos, foram detidos pela Polícia Judiciária.	expl
+CP311-2	Quanto aos 75 mil contos que a Secretaria de Estado diz agora ter disponibilizado para a operação de salvamento do peixe, ninguém sabe onde, como e por quem foram utilizados, até porque das centenas de toneladas ali existentes apenas se salvaram cerca de duas dezenas.	expl
+CP312-1	Cumprindo a promessa de se deslocar ao Porto na primeira terça-feira de cada mês, para reuniões de trabalho com os responsáveis autárquicos e os agentes culturais da cidade, o ministro recebeu ontem, entre outros, o director do Teatro Nacional de S. João, Ricardo Pais, a responsável do Teatro Rivoli, Isabel Alves Costa, e ainda representantes do Teatro ArtImagem e do Museu de Imprensa, cuja primeira fase será inaugurada pelo Presidente da República na próxima sexta-feira.	expl
+CP312-3	Neste último ano, o que é que o PSD propôs em matéria cultural?, perguntou o ministro, aludindo ao primeiro aniversário da liderança de Marcelo Rebelo de Sousa, que se celebrava à mesma hora em Santa Maria da Feira.	expl
+CP314-1	Num país em que ainda segundo estatísticas das Nações Unidas mais de metade da população tem menos de 15 anos, foi estranho para muitos observadores que o número de eleitores potenciais se estimasse em 5,8 milhões, para uma população total calculada em dez.	expl
+CP314-4	O que se sabe, concretamente, é que neste momento o número de portadores do cartão de eleitor em Angola já ultrapassou os 4,3 milhões e o alargamento do prazo de registo até 10 de Agosto permitirá recensear as pessoas que vivem nos lugares mais remotos do território.	nsubj
+CP316-4	Depois, sentaram-se o guarda-redes Veiga e o belga Lucien Huth, treinador dos guardiões encarnados.	expl
+CP317-1	Se a primeira volta das eleições foi marcada por um inenarrável caos organizativo, a segunda correu relativamente bem.	mark
+CP318-4	Em cada volta desta roda avança-se 10 centímetros e são trucidadas cinco toneladas de rocha.	nsubj
+CP322-5	Estabelece-se que não há lugar à suspensão ou demissão do médico veterinário coordenador ou dos executores no decurso do programa sanitário anual, a não ser por motivo de força maior, devidamente justificado e aceite pela direcção regional de agricultura, com posterior homologação pela Direcção Geral de Veterinária.	nsubj
+CP322-6	Consagra-se também o direito desta última efectuar visitas de inspecção e auditoria técnica às OPP e explorações nelas integradas, bem como aos produtores individuais, impor as correcções tidas como necessárias ou propor medidas sancionatórias.	nsubj
+CP323-4	Depois desta fase, os participantes dividem-se em círculos menores, por grupos linguísticos, de modo a produzir sugestões para os documentos finais.	expl
+CP324-1	Perdoa-nos, Erich Honecker era o título de primeira página do antigo jornal do Partido Comunista soviético, Pravda, segundo o qual os actuais dirigentes da Rússia teriam aberto um precedente para si próprios ao entregar o seu antigo amigo e camarada.	iobj
+CP326-5	Isto deve-se possivelmente ao facto de Pedro Pessoa ter feito a prova com dorsal trocado.	expl
+CP326-6	Casos semelhantes a este são frequentes nas corridas de estrada que se efectuam em Portugal e dificultam e falseiam a elaboração das classificações individuais e colectivas.	expl
+CP327-1	Magalhães Mota, que se confessou muito perturbado ao tomar conhecimento da morte do seu grande amigo, evocou um encontro de ambos, há cerca de um mês, na Buchholz, livraria lisboeta que o professor Miller Guerra frequentava assiduamente.	expl
+CP327-3	Quando folheávamos os livros acabados de sair, Miller Guerra lembrou-se, a propósito da situação política actual, de uma frase de Camus  É preciso imaginar o Sísifo ditoso  e acrescentou que a democracia tem este aspecto:	expl
+CP328-4	Outra pessoa com melhor currículo candidata-se ao mesmo emprego.	expl
+CP329-3	Mas se tivermos em conta a nossa dimensão, ninguém em tão pouco tempo cobriu o país como nós.	mark
+CP333-4	O Governo indiano considera que dispõe de meios suficientes para realizar com sucesso as operações de socorro, mostrando-se reticente, segundo um responsável da distribuição da ajuda internacional, no que respeita a receber pessoal estrangeiro.	expl
+CP334-2	Ministério que, aliás, acusa de ser culpado de parte dos problemas que se vivem na Costa da Caparica.	expl
+CP338-2	Se não houver, de facto, uma substancial alteração na conduta dos centros de saúde nesta área, a saúde escolar tenderá a ser o que já é fora dos concelhos de Lisboa, Coimbra e Porto: a medicina curativa das urgências hospitalares, a que os pais recorrem quando o filho está doente.	mark
+CP339-3	Representantes das 60 famílias que ocupam ilegalmente casas na urbanização do Vale de Arcena, delegados do Centro Regional de Segurança Social, responsáveis da Câmara Municipal de Vila Franca de Xira e da empresa proprietária dos fogos, a Eurocapital, reuniram-se, na sexta-feira, naquela cidade, para discutirem a forma como será feito o levantamento individual que determinará quais os moradores que ali poderão continuar a residir no caso de terem disponíveis as verbas pedidas por cada casa.	expl
+CP340-1	Nesta avenida de luxo, cortada longitudinalmente por um canal, perfilam-se, de um lado, os bancos (além dos alemães, cerca de cem bancos estrangeiros operam na capital da Vestefália); do outro, os estabelecimentos comerciais Cartier, Armani, Gucci, Van Cleef, etc.	expl
+CP341-4	Entretanto, está a disputar-se a Taça de Portugal, competição por equipas, na praia Grande, até o dia 12 de Agosto.	expl
+CP341-6	Paulo Silva (Fluorescente) foi o vencedor do Campeonato Nacional de bodyboard, que também se realizou na Figueira da Foz.	expl
+CP342-2	Subir ao monte Garizim, no primeiro dia de neve do ano, quando as pedras e os abetos se escondem sob um manto de neve, é ascender ao paraíso, tão grande é a beleza celestial da paisagem.	obj
+CP342-4	O seu desejo é sentar-se no Conselho Palestiniano, onde Yasser Arafat reservou uma cadeira para um dos três candidatos do mais pequeno e mais antigo povo do mundo os samaritanos.	expl
+CP345-1	A segurança é a antecipação a todos os níveis para ver, ao longe, e ser-se capaz de tudo prever um mal-estar, uma sacanice dos outros.	nsubj
+CP345-9	Tudo bem, se for capaz de passar em poucos minutos da vigília ao sono e vice-versa.	mark
+CP347-2	Os da casa estão ainda muito longe de uma boa forma física e a partir dos 25 minutos do primeiro tempo refugiou-se quase sempre na defesa.	expl
+CP348-3	Para Alberto João Jardim, só a autonomia política da Madeira e de Porto Santo juntos permitiu grandes saltos nos últimos anos2 e seria suicídio para Porto Santo se essa solidariedade e unidade fossem quebradas.	mark
+CP350-2	O procurador adiantou que já lhe foi entregue um parecer sobre o caso, mas só deverá pronunciar-se dentro de 15 dias.	expl
+CP350-3	Foi peremptório, no entanto, ao afirmar que, se o Supremo Tribunal Administrativo declarar a anulação do empréstimo, a central sindical tem de devolver o dinheiro, mesmo que este já tenha sido gasto.	mark
+CP351-1	A extrema direita fez uma campanha eleitoral moderna, servindo-se do processo direct mailing americano enviando os seus panfletos xenófobos, do tipo Hamburgo tem de permanecer um estado alemão, pelo correio, em especial a milhares de jovens eleitores.	expl
+CP352-1	Soares lembrou o que já viu nesta viagem e mostrou-se mais uma vez preocupado com os problemas da agricultura, que está em muito mau estado, questionando: O que será o futuro do nosso mundo rural?	expl
+CP353-4	Você fala constantemente daqueles que se dizem amigos de Borges, dos que lhe vinham pedir que escrevesse os seus prólogos, e garante que a estão a acossar.	expl
+CP354-2	Abriu-se a Porta de Damasco	obj
+CP355-5	Sabe que se não chegar a acordo, é chumbado.	mark
+CP355-8	A nata dos reformistas foi excluída ou auto-excluiu-se.	obj
+CP355-9	Os mercados inquietam-se.	expl
+CP357-8	Aliás, há no poema uma alusão explícita à cor (brancos os arcos, para não falar na implícita dos alabastros e dos blocos de gelos) e várias imagens cinéticas: de que esvoaçam, por baixo passam, se despedaçam, caudais de choro, trémulos astros ...	expl
+CP358-7	Isto porque, nestas condições, e atendendo ainda a que Portugal e Espanha produzem e vendem, grosso modo, a mesma gama de bens e serviços, deixar o escudo apreciar-se relativamente à peseta reduz a capacidade concorrencial das nossas empresas no país, em Espanha e em terceiros mercados, ao mesmo tempo que facilita a penetração das exportações espanholas no mercado nacional e em mercados nossos clientes.	expl
+CP359-2	Nacionais-comunistas aliam-se contra Ieltsin	expl
+CP359-3	Os principais opositores do Presidente russo, Boris Ieltsin, vão reunir-se hoje em Moscovo para definirem uma estratégia que os leve ao poder.	expl
+CP362-3	Na proposta de relatório elaborada pelo relator, Silvino Teixeira (CDU), constata-se que desde 1982, início da elaboração do PDM, até Março de 1993, a autarquia esteve totalmente alheada da génese, definição, estudo e acompanhamento do plano.	nsubj
+CP364-1	Num país com mais de sete mil ilhas e onde os golpes de Estado se foram sucedendo quase mensalmente nos anos 80 e onde a guerrilha fundamentalista islâmica avança na zona meridional do arquipélago, os incidentes de ontem permitiram à comissão de eleições dizer que o dia foi relativamente calmo.	obj
+CP365-3	Havia bichas para tudo, desde a tabacaria até aos bares, onde as provisões mostravam uma perigosa tendência para se esgotar.	expl
+CP365-5	Atrasos que, segundo as informações recolhidas junto dos balcões da TAP e da ANA, não se deviam à greve dos pilotos, mas ao elevado volume de tráfego e a um elemento que tem mais poder sobre os céus que os pilotos: o nevoeiro.	expl
+CP366-2	É confrangedor olharmos hoje em dia para os meios de comunicação social e verificarmos o caos financeiro em que se encontra atolada aquela casa de tão nobres tradições.	expl
+CP366-6	Tem contado também com o completo alheamento do Parlamento, que tão pressuroso se mostra, por vezes, a discutir assuntos de lana caprina e nada faz para esclarecer este monstruoso escândalo!	expl
+CP367-2	A partir de agora, as guerras como a de Angola ou da Bósnia são praticamente impossíveis de travar de fora e qualquer intervenção cirúrgica ou não, em nome da ONU ou não acarreta um grau de incerteza tão grande que, ao ser accionada, não só pode eternizar os fogos que se pretendiam extinguir como ainda desencadear incêndios em zonas dantes poupadas.	expl
+CP368-3	Só da Serenata Monumental e do Sarau não se falou:	nsubj
+CP368-7	Só se o Fado não aceitar é que a Comissão assume a realização dos dois eventos.	mark
+CP370-4	Na sua opinião, Manuel Martins, que é também líder da Concelhia do PSD local e que agora se apresenta novamente como candidato à Câmara, afunilou o PSD a nível local e não está à altura de conduzir este partido para o futuro.	obj
+CP373-3	Lamentamos profundamente que as verbas para as autarquias voltem a ser atribuídas em função de uma lei desadequada e injusta, mas infelizmente os partidos não se entenderam quanto à promulgação de uma lei que cumpra a Constituição da República e que promova uma distribuição equitativa dos dinheiros do Estado, criticou Mário de Almeida.	obj
+CP375-2	Entre os extremos, vê-se também uma colecção de embarcações da tradicional Bayliner, a refinada Caravelle, Celebrity, Searay, Argus, Chaparral, Rinker, Fairline, Gobbi, Sealine, Nimbus e Cobalt, a última considerada o Rolls Royce dos mares.	nsubj
+CP375-3	Como atracções extra, apresenta-se o Balt, um pequeno barco de 5,30 metros, com motor de 50 cavalos, vocacionado para o uso em rios, por 3679 contos, e a Cobia, uma linha de barcos para pesca com consola central.	nsubj
+CP375-4	Nos veleiros, as opções não são tantas, sendo a principal novidade representada pelo Jeanneau 24, de 24 pés, que se pretende organizar em classe nacional para futuros campeonatos, além dos populares e práticos veleiros McGregor e dos conhecidos GibSea, barcos de cruzeiro seguros e confortáveis.	nsubj
+CP376-3	Já em território iraquiano contam em relatos que têm surgido nos últimos meses, sobretudo na imprensa britânica o pesadelo que deixaram para trás: quilómetros e quilómetros de terrenos lamacentos onde anteriormente existiam pântanos, rios, lagos, culturas agrícolas; aldeias destruídas, populações massacradas, animais e plantas mortos em consequência do que se suspeita serem ataques com armas químicas.	nsubj
+CP377-1	As bases de dados piratas existentes em Portugal dedicam-se à afixação e difusão de cópias ilegais de programas sujeitos a protecção, de resultados de experiências de penetração em sistemas informáticos, de informação acerca de protecções, de portas de acesso e de passwords de entrada nas redes Telenet, Telepac, Itapac e, em alguns casos, números de cartões de crédito.	expl
+CP381-2	Não foi verdade, por exemplo, que os próprios livreiros se manifestaram contra a realização de concertos e debates, considerando que isso era desmobilizador dos potenciais compradores?	expl
+CP382-1	O Comissário europeu para o audiovisual apelou anteontem a uma mudança de atitude da indústria europeia do sector, de modo a adaptar-se à globalização mundial das redes de distribuição.	expl
+CP384-11	Porque sabem ser concisos, sem falsas simplicidades, porque são inteligentes, sem armar grandes espalhafatos, porque conseguem ironizar e autoparodiar-se sem fazer figuras tristes.	obj
+CP385-4	A luta é de todos, o que prejudica os colegas, prejudica-me a mim, disse Maria Teresa Feio, educadora de infância de Albergaria, enquanto se preparava para participar na manifestação organizada pela Federação Nacional de Professores (Fenprof), ontem, em Lisboa.	expl
+CP388-3	A derrapagem da economia acentua-se.	expl
+CP388-7	Com este estado de coisas, iniciou-se uma forte pressão dos mercados sobre a peseta.	expl
+CP388-11	Tão periclitante, que se sobrevier nova tempestade cambial, o SME muito simplesmente poderá acabar e dar o lugar à tal UEM acelerada para as economias mais fortes, e mais lenta para os que ainda têm muito que convergir.	mark
+CP390-5	Às vezes cheguei a ser radical e sectária, mas aprendi que a gente só interfere se estiver dentro do barco, declarou a ex-prefeita à imprensa paulista, ao justificar a sua presente decisão.	mark
+CP391-3	O mundo está a tornar-se amigo das mulheres, mas as salas dos conselhos de administração não.	expl
+CP392-4	De acordo com o processo, Craveiro Lopes fora detido, meses antes, por aqueles polícias por factos susceptíveis de integrarem ilícito criminal, após o que terá dito aos microfones ser inconcebível que, nas mãos de homens sem qualquer escrúpulo, se deposite poder.	nsubj
+CP392-6	O tribunal considerou, porém, que as afirmações de Craveiro Lopes são objectiva e subjectivamente difamatórias e susceptíveis de atingir senão a essência da personalidade destes, pelo menos o património do seu bom nome, do crédito e da confiança por eles adquiridos enquanto pessoas, cidadãos e agentes da autoridade numa comunidade pequena onde todos se conhecem.	expl
+CP392-7	Em declarações à Lusa, Craveiro Lopes disse que se limitou a tornar públicas situações de perseguição que ainda perduram.	expl
+CP392-9	Se hoje tiver de fazer e dizer o que disse, não hesitarei.	mark
+CP394-4	Já se definiu uma vez como moço de recados de Deus.	expl
+CP395-1	Dentro dos filmes (curtas e médias metragens de 17 países) sobre temáticas actuais destaca-se a presença de Black Harvest de Bob Connoly (Austrália), Aspen de Frederick Wiseman (EUA), Face Value de Johan Van Der Keuken (Holanda) e Das Ungehobelte Pack de Nana Swiczinsky (Áustria).	expl
+CP395-4	Também Portugal se encontra representado com a estreia mundial de Crenças e Lendas de João Soares Tavares, obra inscrita na retrospectiva RTP, homenageada nestes III Encontros.	expl
+CP397-2	Não é porque todos os condutores fiquem subitamente atacados de uma febre Fittipaldi quando se sentem como que rodeados por algodão doce.	expl
+CP398-3	as duas estações que constituem o consórcio em causa Antena 1 e Rádio Renascença assumiram, desde o início dos contactos que estabeleceram entre si, que os programas a realizar por cada uma das partes se norteariam pelas características que as marcam: a RR, rádio privada, a Antena 1, rádio de serviço público;	expl
+CP398-5	até Setembro de 1998 vamos transmitir 104 (cento e quatro) programas, pelo que me parece ser cedo para se proceder a uma análise das emissões;	nsubj
+CP399-1	Com participação de elementos do grupo, neste caso Tó Pereira, será lançado pela Tribal um CD só com trabalhos da Kaos (os temas incluídos deverão repartir-se entre os primeiros lançamentos e os mais recentes) misturados numa megamix de Tó Pereira.	expl
+CP399-2	Ainda deste, aqui sob o nome de DJ Vibe, irá ser lançado já em Janeiro um maxi-single já anunciado pela Kaos, a que se juntarão os dos Urban Dreams e Tó Ricciardi.	expl
+CP400-2	Já a exploração das áreas comerciais, que se vão distribuir por três pisos o rés-do-chão, o primeiro piso e um mezzanino está ainda por definir a quem irá ser atribuída.	expl
+CP401-4	Já se quiser falar, ainda por serviço manual, para Trindade e Tobago, Tortola, Estados Unidos, Jamaica ou Austrália, o custo por minuto será de 34000.	mark
+CP403-1	Cavaco queixa-se do Semanário	expl
+CP406-7	Militantes comunistas encontraram-se em público e exigiram a antecipação do XIV Congresso.	expl
+CP407-1	Com uma carteira de títulos obrigatória para o estudo da obra nemesiana Vitorino Nemésio. A Obra e o Homem, ed. Arcádia, 1978, Temas Nemesianos, ed. Angra, 1981, e Vitorino Nemésio à Luz do Verbo, ed. Vega, 1988, além de ter prefaciado vários livros para a Imprensa Nacional-Casa da Moeda, que está a publicar as Obras Completas --, Martins Garcia encontrou-se pela primeira vez com Vitorino Nemésio num exame.	expl
+CP407-3	Actualmente a leccionar Teoria da Literatura e Literatura Portuguesa na Universidade dos Açores (doutorou-se, em 1985, com a tese Fernando Pessoa:  Coração Despedaçado ), tem sido a par de David Mourão-Ferreira, António Manuel Machado Pires, Fátima Morna e Maria Margarida Maia Gouveia um dos investigadores que mais tem contribuído para que Nemésio não caia no esquecimento.	expl
+CP408-1	Contactado pelo PÚBLICO, o médico confirma ter entregue os medicamentos a um senhor que se calhar facilitou e despejou [ o lixo ] de qualquer maneira.	case
+CP408-2	Esta é, para David Paiva, uma justificação suficiente para não se considerar directamente responsável pela situação criada.	expl
+CP408-12	Ou seja, podem não cumprir o fim para o qual são indicadas mas não deixam, por isso, de constituir perigo se forem ingeridos.	mark
+CP411-3	E a quota do tomate, perguntou, a dada altura do caos em que se transformou a discussão sobre uma reforma que apenas contempla os sectores das culturas arvenses, do leite, da carne bovina e do tabaco.	expl
+CP411-6	O representante do Governo voltou a insistir nos insinuantes ataques à CNA, uma organização tutelada pelo PCP, como se este dado fosse relevante para a matéria em causa;	fixed
+CP411-8	o delegado da CAP insistiu nas utopias da dependência dos agricultores, face ao Estado, como se os actuais preços garantidos na Europa não fossem igualmente uma dádiva política;	fixed
+CP411-9	o homem da CNA, repetiu a confrangedora ideia que o documento inicial da reforma protegia as explorações extensivas e que o documento final as penalizava, quando, afinal, poucas linhas se alteraram nesta questão.	expl
+CP413-3	Em cerca de 600 sismos no continente, só em dez a 12 por cento se conseguia calcular os parâmetros sísmicos.	nsubj
+CP413-9	Com a rede digital detectaram-se sismos de magnitude inferior a dois.	expl
+CP414-8	E aí tem de se haver com o computador, que lhe cobra os dois!	expl
+CP414-14	É tão gira que a empresa que a comercializa se chama Coisas Giras.	obj
+CP417-2	Mostrando dúvidas quanto à interpretação da lei que revogou a obrigatoriedade do PR ouvir o CEMGFA na recondução de um chefe de ramo, Sampaio, disse o líder do PSD-Madeira, terá agido bem, já que, sublinhou, uma carta daquelas não se escreve ao Presidente da República.	nsubj
+CP417-4	Depois, Jardim aproximou-se da tese defendida pelo PCP, da exigência da demissão de Veiga Simão, ao defender que o actual ministro da Defesa, com Marcelo Caetano já dera cabo da Educação.	expl
+CP419-1	A Grã-Bretanha estará preparada para impor o seu domínio directo sobre Gibraltar, para controlar a banca e o sistema legal respectivos, numa tentativa para acabar com as alegações de que a colónia se transformou num centro de lavagem de dinheiro, informou ontem o jornal Sunday Telegraph.	expl
+CP420-1	Pouco a pouco, foi-se esquecendo em grande parte o objectivo primordial que para ali levara norte-americanos, paquistaneses, italianos e outros soldados de meio mundo: distribuir comida a muitos africanos que estavam perigosamente à beira da morte.	expl
+CP420-2	E a situação passou a ser, em primeiro lugar, a de um confronto cada vez mais agudo entre a força expedicionária estrangeira e as milícias locais, muito em particular a de Aidid, que se tem feito passar por um nacionalista e um paladino da cultura islâmica.	expl
+CP420-4	O ataque aéreo de ontem, em que participaram nove helicópteros, e a operação terrestre que se lhe seguiu fizeram com que somalis furiosos tivessem morto um fotógrafo da agência Reuter, o anglo-americano Dan Eldon, de 22 anos, e outro da Associated Press, o alemão Hansi Krauss, de 30, estando ainda por confirmar a morte de mais um fotógrafo, Hos Maina, e de um operador de som da Reuters Television, Anthony Macharia, ambos quenianos.	expl
+CP421-2	O gás também constitui um dos restos da supernova e encontra-se em expansão sob o efeito da onda de choque gerada pela explosão.	expl
+CP425-4	Segundo o assessor científico do primeiro-ministro indiano, Atal Behari Valpayee, trata-se de um Agni melhorado, com um alcance de 2500 metros, num estado avançado de desenvolvimento e cuja produção já recebeu a aprovação do Governo.	expl
+CP425-5	As sanções não nos afectarão neste domínio, disse ainda Kalam, referindo-se às penalizações económicas impostas contra a Índia pelos EUA, Japão e Canadá.	expl
+CP429-2	Deitou-lhe para cima sangue ou tinta vermelha, não se percebia bem.	nsubj
+CP429-10	Pegou no papel e na caneta e foi-se embora.	expl
+CP431-4	Leu-se o poeta Borja da Costa e o cântico que Xanana Gusmão escreveu na montanha para a Mulher Timor.	nsubj
+CP431-8	Depois, num cúmulo de música e emoção, cantou-se Peace Mission, o hino composto e ensaiado para o primeiro dos dois dias de festa.	nsubj
+CP431-9	Venham e juntem-se à missão de paz.	expl
+CP434-4	A defesa desta estratégia de guerra total no plenário das Nações Unidas não assenta exclusivamente no impulso que a questão timorense ganhou com a atribuição do Nobel a Horta e a Belo Ramos Horta já tinha sugerido esse passo num memorando que fez chegar ao Palácio das Necessidades meses antes de se conhecer a escolha de Oslo --, mas o certo é que o Nobel da Paz timorense constitui um reforço importante.	nsubj
+CP441-2	Mais tarde, quando estiverem criadas condições económicas, proceder-se-á à criação de um mercado comum de mão-de-obra.	nsubj
+CP441-4	Também se prevê a criação de uma moeda única, embora, quem o deseje, possa ter a sua própria divisa.	nsubj
+CP442-2	Ao sair da penumbra, arrastando uma coisa parecida com névoa cinzenta e oleosa, suspensa a dois palmos da cabeça, João Carlos andou três ou quatro passos e parou com um suspiro, como se as suas pernas utilizassem um sistema de suspensão a ar.	fixed
+CP442-5	Os olhos dele saíam para fora da cara e quase chegavam ao nível da cana do nariz, no caso de se apanhar de perfil a figura perdida e magríssima de João Carlos, que tanto podia ter vinte e poucos anos (estragados), como muitos mais, e de facto tinha.	nsubj
+CP443-4	Em Frankfurt, registou-se uma subida de 0,05 por cento, com o índice DAX a fechar a 2.176,26 pontos, devido à baixa que atingiu Wall Street na quarta-feira.	expl
+CP444-2	Nas breves declarações que prestou aos inúmeros jornalistas que se acotovelavam à entrada do Palácio, Vance ainda teve tempo de alertar para a importância do novo acordo ser, de facto, respeitado no terreno:	obj
+CP444-5	Antes, tinha-se recusado a comentar quais as suas próximas iniciativas caso o acordo não resulte.	expl
+CP445-8	Se a Federação Internacional do Automóvel, que já aprovou os planos de alteração ao circuito, aceder aos sonhos dos chineses, estes garantem a presença de 200 mil espectadores.	mark
+CP448-3	Cinco desses aparelhos estão equipados com um sistema de iluminação, para que a entrada nocturna de embarcações se possa fazer com toda a segurança.	expl
+CP449-1	Iliescu tinha anunciado que se deslocaria amanhã ao vale de Jiu, mas ontem os serviços presidenciais disseram que a viagem fora cancelada.	expl
+CP450-3	Pedia-se 62,50m, que quase ninguém fez, mas aí não residiu o problema:	nsubj
+CP450-5	No segundo ficou a mais de dez metros do seu recorde nacional (63,70m) com 53,60m, e só no derradeiro intento (a qualificação só tem três) se aproximou um pouco mais do que vale, com 56,02m, mas não chegou.	expl
+CP453-6	Entretanto, ontem, a Coreia do Sul, encorajada pelos sinais tornados até agora públicos sobre o que se vai passando na semana de luto no vizinho Norte, indicando uma aparente passagem calma de poderes de pai para filho, decidiu levantar parte do alerta especial em que tinha colocado as suas tropas, na sequência do falecimento do Grande Líder.	expl
+CP455-4	O sistema antigo só se mantém para os Centros de Entre-os-Rios, São Pedro do Sul e Foz do Arelho.	expl
+CP456-1	Nós, dentro de Espanha, sempre manifestámos que deveria haver interesse por Portugal, que sempre teve um certo receio, porque a história foi o que foi, comenta ao PÚBLICO Jordi Pujol, se temos uma identidade própria e não temos medo, muito menos os portugueses, que têm um Estado próprio.	mark
+CP457-3	De resto, decidiu-se ainda aumentar os elementos da Comissão Arbitral da Liga, que serão nove em vez de sete.	nsubj
+CP458-5	Trata-se de uma separação politicamente profícua, já que, ao longo de os sécs. XVI a XIX, o homem terá interiorizado a necessidade de vigiar a maior ou menor conformidade entre rosto, preceitos éticos e poder social, ao mesmo tempo que lhe pedem que seja singular e autêntico.	expl
+CP459-2	Tal como a rainha Isabel II, John Major limitou-se a acompanhar os factos.	expl
+CP459-3	Mas se o silêncio pode favorecer a recuperação da imagem da coroa, a indecisão é mortal, tanto em política como em economia.	mark
+CP459-5	Como não pode continuar a afirmar a prioridade da luta contra a inflação deixando a libra desvalorizar-se.	expl
+CP460-2	Trata-se de um jovem de 20 anos, que terá confessado os crimes e a venda dos objectos roubados para a compra de heroína.	expl
+CP460-9	A PSP sabia que os assaltantes se deslocavam numa carrinha Renault Express, facto que a levou a mandar parar o veículo onde seguiam.	expl
+CP462-5	A comissão mista deverá iniciar amanhã os seus trabalhos que, espera-se, estejam terminados no fim da semana.	nsubj
+CP462-8	Em seguida, se for aplicado como previsto o princípio da rotatividade, a Turquia deverá passar a ter o seu primeiro chefe de Governo islamista.	mark
+CP465-4	Quem o diz é o secretário de Estado da Administração Interna, Armando Vara, que passou o dia de ontem a inteirar-se dos efeitos da intempérie em Bragança, o distrito mais atingido, mas onde já não há aldeias isoladas.	expl
+CP466-5	Um texto em torno do sagrado matrimónio no qual se discute as possibilidades de encontrar um homem que não seja casado, nem maricas e tenha emprego.	nsubj
+CP467-4	O Hospital de Santo António, no Porto, deverá pedir ainda esta semana à Lipor para ali depositar as várias dezenas de toenaladas de cinzas resultantes da queima de lixos hospitalares que, há um ano e meio, se acumulam em contentores de plástico.	expl
+CP468-4	Na cadeia era bem-comportado e ocupava-se em trabalhos de faxina.	expl
+CP468-5	Suicidou-se a 7 de Agosto.	expl
+CP469-1	O caso está a ser analisado pela Direcção Regional de Educação do Centro e o Coordenador da Área Educativa (CAE) já admitiu não haver condições objectivas para que os professores executem as suas tarefas e continuem as actividades lectivas, sobretudo enquanto o director do Colégio do Mondego se encontrar ausente no estrangeiro.	expl
+CP470-3	Era Oto, um ex-controlador de tráfego aéreo em Bissalanca que se juntara à guerrilha.	expl
+CP470-5	Vai para Conakry, fala com o nosso secretário-geral Amílcar Cabral e vai ver que tudo se vai resolver.	expl
+CP470-10	Sentados a uma mesa trapezoidal encontravam-se cinco indivíduos de grand boubou [ vestimenta muçulmana ] até aos pés, com os seus gorros típicos, todos muito grandes e com ar sério.	expl
+CP473-4	O que Américo Amorim não confirma, recusando-se a pagar qualquer prestação de serviços.	expl
+CP476-2	Como ali é afirmado, não cabe exclusivamente à classe política dar respostas sobre as interrogações que o futuro levanta, antes exige a participação activa da sociedade civil, que tem igualmente responsabilidades e deveres de que não pode nem deve demitir-se.	expl
+CP476-3	Gomes Motta, respondendo às perguntas dos jornalistas, iria mais longe ao afirmar que os partidos não esgotam a actividade cívica do país e, afastando qualquer mal-estar que o congresso possa provocar nas hostes socialistas por eventualmente ofuscar alguns dos seus projectos, esclareceria ainda que esta iniciativa e as do PS em certa medida completam-se.	expl
+CP478-1	O relatório adianta que todos os relatos de tortura e maus tratos se referiam a pessoas que tinham sido detidas sob suspeita de terem cometido delitos criminais, tendo em muitos dos casos sido libertadas sem serem inculpadas.	expl
+CP479-1	R. É lógico que os directos só podem existir se houver regras claras.	mark
+CP482-3	As notícias revelam, salvo raras excepções, um cariz sensacionalista, que alimenta sobretudo a ideia de cura mágica ou o desejo de encontrar bodes expiatórios para a explicação do fenómeno, permitindo, por exemplo, que se fale de eficácia do(s) tratamento(s) de formas pouco honestas, por ignorância ou por manipulação deliberada.	nsubj
+CP482-5	Um exemplo recente de como se pode confundir a opinião pública ocorreu no programa de TV Falar Claro, no passado dia 22 de Junho.	nsubj
+CP484-1	O que espanta, porém, não é que se pretenda fazer marcha atrás relativamente a um referendo que devia ter sido realizado há já muito tempo.	nsubj
+CP484-2	Bem vistas as coisas, os portugueses dificilmente compreenderiam o facto de serem agora chamados a pronunciar-se sobre algo que há muito foi decidido à sua revelia.	expl
+CP484-3	Pelo que, muito provavelmente, voltariam a abster-se de ir às urnas.	expl
+CP484-9	No pior dos cenários, o país volta a abster-se e a regionalização tem assegurados mais 25 anos de permanência no fundo falso da gaveta da democracia.	expl
+CP485-2	Referem-se a normas de segurança e de saúde e higiene, regras de iluminação, etc.	expl
+CP485-4	É o caso da organização do tempo de trabalho e disposições sobre mulheres grávidas, cuja aprovação não se espera para a presidência britânica, não entrando, assim, em vigor a 1 de Janeiro de 1993.	nsubj
+CP486-2	13 de Maio A oposição apela de novo à população para que se manifeste contra o Governo a partir do dia 17.	expl
+CP488-2	Embora se constatem riscos em algumas zonas, as nossas expectativas são de uma recuperação global, disse a mesma fonte.	expl
+CP490-2	Casa Branca distancia-se de Carter	obj
+CP490-3	A Administração da Casa Branca decidiu ontem manter algumas distâncias face às declarações do antigo Presidente democrata norte-americano Jimmy Carter após a sua visita a Pale o bastião da liderança sérvia da Bósnia nos arredores de Sarajevo --, ao recordar que os sérvios bósnios continuam a ser considerados os agressores no conflito que se prolonga há mais de dois anos e meio nesta república balcânica.	expl
+CP491-2	Distribuídos por vários escalões segundo a idade, aos concorrentes basta pertencer ao universo de cerca de 30 mil reformados do município, podendo inscrever-se na altura do baile, a divulgar brevemente por todos as associações e grupos de idosos.	expl
+CP494-2	A advertência foi feita ontem em Tóquio pelo secretário norte-americano do Tesouro, Lloyd Bentsen, depois de se ter encontrado a seu pedido com o primeiro-ministro Morihiro Hosokawa e o ministro das Finanças Hirohisa Fujii.	expl
+CP495-3	Quase quatro anos depois, três dos animais ainda se encontram em boa saúde, tendo o quarto morrido há uns meses.	expl
+CP495-4	Todos os elementos de um grupo de animais que não tinha sido vacinado com o HIV2 morreram da sida dos macacos, nos meses que se seguiram à sua infecção pelo SIV.	expl
+CP495-6	Tratar-se-á de vacinas preventivas que poderão ser eficazes contra qualquer estirpe do HIV2.	expl
+CP496-5	A exposição formada sobretudo por objectos provenientes de colecções particulares inicia-se cronologicamente no século XVII e vem até aos nossos dias.	expl
+CP496-6	Entre as jóias apresentadas contam-se colares de brilhantes e esmeraldas (séc. XVIII e XIX), peças de ouro popular, trenedeiras, crisólitas, laças, condecorações das ordens de Malta e de Cristo em minas e brilhantes e uma caixa de rapé do Rei Carlos Alberto.	expl
+CP496-7	Assinale-se ainda a presença de um stand da Christies no espaço da mostra, bem como de um avaliador oficial daquela leiloeira inglesa.	expl
+CP500-4	Apesar de manifestar sérias dúvidas e muitas reservas sobre a evolução recente da economia brasileira e de criticar abertamente os constrangimentos da burocracia na criação de novos negócios, Belmiro não se poupa a profecias:	expl
+CP502-3	O próprio professor Cavaco, de modesta fortuna, farto de nos aturar, mandou tudo àquele sítio aplicando uma bofetada sem mão aos que vivem da politiquice e retomará a carreira profissional ganhando o dobro, chateando-se pela metade.	expl
+CP503-3	Nunca mais se poderá falar, no futuro, da Poppea de Harnoncourt.	nsubj
+CP505-11	Poder-se-á ir mais longe?	nsubj
+CP506-5	Toda a comédia humana numa dança à beira do precipício, a guerra que se avizinha.	expl
+CP507-2	Na Óscar Monteiro Torres, o troço compreendido entre a Rua Oliveira Martins e a Av. de Roma volta a ter sentido único, circulando-se da Oliveira Martins para a Av. de Roma.	nsubj
+CP509-2	Segue-se a reunião com o secretário-geral do partido no poder (RCD, Rassemblement Constitutionnel Democratique, Liga Constitucional Democrática), e a entrevista com o ministro de Estado e do Interior, Abdallah Kallel, tido como braço direito do Presidente e o número dois do Governo.	expl
+CP510-1	Um dos resultados práticos desta fusão é que Michael Eisner, presidente da Walt Disney, se tornou da noite para o dia o homem mais poderoso do sector.	expl
+CP512-1	A circular justifica a iniciativa por terem surgido alguns problemas no tratamento de Testemunhas de Jeová, quando é imperativo ou há a eventualidade de se administrar sangue, como medida indispensável à manutenção da vida.	nsubj
+CP512-2	Em declarações ao PÚBLICO, Francisco Costa, membro da comissão de ligação do Hospital, um órgão de contacto entre os hospitais e as Testemunhas de Jeová, disse conhecer o documento, que, no essencial, reitera uma prática utilizada anteriormente pela direcção do hospital, à excepção do que se passava com o tratamento de crianças.	expl
+CP513-4	Se o acordo for cumprido, tal como ele foi escrito, a consequência vai ser mais recessão, maior aperto.	mark
+CP513-8	As metas quanto à inflação é conseguir que esta, até ao final de 1992, se situe nos 12 por cento ao mês.	expl
+CP514-1	A confirmarem-se os confrontos, serão o primeiro incidente fronteiriço grave desde a morte de oito diplomatas e um jornalista iranianos no Afeganistão, no princípio de Agosto, o acontecimento que agudizou a crise entre os dois países.	expl
+CP514-2	Desde então, Teerão, que viu derrotados os seus últimos aliados na guerra civil afegã, e Cabul, com a confiança renovada e o apoio do Paquistão, envolveram-se numa escalada de ameaças verbais, concentrando ao mesmo tempo frente a frente poderosos efectivos militares os maiores desde o fim da guerra entre o Irão e o Iraque, em 1988.	expl
+CP517-7	Uma situação complicada porque Hélder se tem mostrado, neste início do campeonato, como um dos melhores jogadores do Benfica.	expl
+CP518-4	(Atitude basicamente budista em relação a todas as coisas da vida, porque as desagradáveis causam repulsa, e as agradáveis tristeza quando já se as não tem).	nsubj
+CP518-6	Claro que se evoca aqui um amor justo e totalmente abrangente, com base em regras éticas universais.	nsubj
+CP518-8	Não há que sentir revolta, desânimo nem tristeza, devendo procurar-se ver sempre o outro lado da moeda.	nsubj
+CP521-1	Em verdade vos digo que Indiana Jones e os seus émulos ainda estão na fase do desmame se os compararmos com alguns heróis do passado, do serial ou do filme de aventuras.	mark
+CP521-2	Neste último caso, o destaque vai para um filme de guerra, Jornada Trágica, que terá menos a ver com o conflito a que se referia do que com o western ou a floresta de Sherwood.	expl
+CP521-8	O filme chamou-se Objectivo Burma e, embora mais sério, resultava no mesmo.	expl
+CP522-1	Realce ainda para o mau dia de Marco Pantani, que apenas veio a Espanha para se preparar para o Mundial da Colômbia.	expl
+CP524-3	Um momento histórico é como pode classificar-se a presença do Castelo da Maia na final-four da Liga das Taças em voleibol, que entre hoje e amanhã decorre na cidade de Cuneo, no Norte de Itália.	expl
+CP525-1	A criação de um Conselho Nacional do Ambiente seria um passo decisivo para criar um fórum onde se cruzassem todas as forças que atravessam horizontalmente as questões de ambiente e desenvolvimento.	expl
+CP527-7	Era uma dupla terrível, que se completava pela potência do holandês e o jogo mais técnico do jovem português.	expl
+CP529-3	Teixeira da Mota, porta-voz do BFE, limitou-se a dizer, sobre este assunto, que, após seis meses de efectiva gestão da actual administração, concluídos em Agosto de 1992, o banco considerou o processo encerrado e que o comprador confirmou ao BFE, nesse mesmo mês, a plena viabilidade e eficácia do contrato celebrado entre as partes.	expl
+CP530-6	Em termos de totais, na Bolsa de Lisboa intermediaram-se 10,592 milhões de contos, mais 258,62 por cento.	expl
+CP532-1	Se for aprovada a versão final do anteprojecto de lei de liberdade religiosa que hoje será apresentada publicamente --, os crentes que o desejarem podem passar a indicar que destino pretendem para uma quota equivalente a 0,5 por cento do imposto sobre o rendimento das pessoas singulares (IRS).	mark
+CP532-7	Desde há poucos anos, em ambos os países optou-se por a possibilidade de cada pessoa indicar, na declaração de rendimentos, qual o fim que pretende dar aquela percentagem 0,8 em Espanha, 0,523 em Itália.	nsubj
+CP533-3	Destaque: Grande parte da imaginação da infância passa-se na descoberta e na contestação da mentira das regras que o mundo lhe impõe.	expl
+CP535-4	No relatório citam-se os elevados encargos sociais das empresas, a generosidade dos subsídios de desemprego, o muito elevado salário mínimo e as regras de protecção de emprego, consideradas muito rígidas, como factores desmotivadores da criação de postos de trabalho.	expl
+CP536-1	Entretanto, a Junta de Freguesia de Riba de Ave foi recebida anteontem por Agostinho Fernandes, a quem se manifestou preocupada com a situação e propôs o encerramento da ETRSU até que seja reparada a avaria.	expl
+CP538-1	Não é de admirar que Hollywood se interesse por este mercado, mesmo após o relativo insucesso de Super Mario Bros.	expl
+CP538-5	Segundo o presidente da empresa, Kenzo Tsujimoto, o que se ganha na produção do filme é o conhecimento e a experiência de que a Capcom necessita para fazer videojogos no futuro.	nsubj
+CP539-3	O desafio posto à organização da exposição é então levar os munícipes de uma cidade a apaixonarem-se perdidamente por um edifício ao ponto de saírem para a rua em sua defesa.	expl
+CP540-1	A grande dúvida que circula entre a comunidade timorense é a razão que teria levado esta mulher doente Wendi tem esclerose múltipla a escolher o jornal Kompas para prestar tais declarações, pois se, em tudo isto, existe um fundo de verdade, um periódico indonésio seria a última escolha para alguém que quer ter o mínimo de credibilidade, comentam.	mark
+CP544-6	Cada um dos acusados arrisca-se agora a uma pena máxima de cinco anos de prisão e a uma multa que pode ir até aos 250 mil dólares (45 mil contos).	obj
+CP544-8	Mary Jo White considerou no entanto que as empresas não estavam protegidas pelo facto de a sua sede se situar fora dos Estados Unidos.	expl
+CP545-2	No que concerne à Dívida Pública corrente, realizaram-se três leilões de Bilhetes do Tesouro.	expl
+CP548-4	Pretendemos definir com o máximo rigor os custos médios de cada estudante, conforme a região onde se encontra, pois actualmente não existem dados concretos sobre o assunto, esclareceu Miguel Rodrigues, que é também presidente da Associação Académica da Universidade de Aveiro.	expl
+CP548-6	Já no próximo dia 25, os dirigentes associativos irão reunir-se com o ministro Couto dos Santos para discutir, mais uma vez, o problema do pagamento das propinas universitárias.	expl
+CP549-1	De facto, os indícios acumulam-se nesse sentido.	expl
+CP549-2	Não só por aquilo que se viu ontem nas fortalezas tradicionalmente inexpugnáveis do PCP, mas também pela receptividade que a campanha de Torres Couto está a encontrar e, sobretudo, pelo que as sondagens começam a indicar.	nsubj
+CP550-7	De acordo com Manuel Cunha, o actual presidente da Junta de Freguesia, durante as obras, a empresa responsável necessitou de retirar saibro da zona onde o muro se encontrava para efectuar um aterro.	expl
+CP551-3	Se os Quinze conseguirem resolver estes três problemas, resta apenas à cimeira de Madrid escolher o nome da moeda única, tendo em conta que a denominação ecu, expressa no Tratado de Maastricht, é rejeitada pela Alemanha, que prefere euro.	mark
+CP553-1	R. O PC serviu-se da extrema-esquerda, como ponta-de-lança, mas depois foi vítima da sua impreparação e do seu espontaneísmo.	expl
+CP555-2	Isto porque, de acordo com a lei, nas presidenciais é eleito o candidato que obtiver mais de metade dos votos expressos ou seja, pelo menos 50 por cento mais um --, excluindo-se desta contabilidade os votos em branco e os nulos.	expl
+CP558-1	Nono mês do calendário lunar islâmico, durante o qual mil milhões de pessoas se abstêm de comer, fumar, ouvir música ou de ter relações sexuais, o Ramadão é o mês sagrado muçulmano.	expl
+CP558-4	É o que se teme agora, segundo os panfletos, aparecidos sobretudo em mesquitas não controladas pelo Estado, dentro das quais as orações têm sido acompanhadas por murmúrios pouco comuns.	nsubj
+CP559-1	Traumatizado, refugio-me no Canal 1, onde se estreia Tudo pelos Outros, com Vítor Norte a mostrar que estaria muito melhor num palco.	expl
+CP559-5	Zapo e rezapo e os momentos de sincronismo repetem-se com enlouquecedora constância: as mesmas lágrimas, as mesmas fungadelas, o mesmo bem-fazer, os mesmos familiares abraçados uns aos outros.	expl
+CP560-3	O ex-governador do Tennessee Lamar Alexander será o seguinte a declarar-se, dias depois.	expl
+CP562-2	Os diplomatas brasileiros queixam-se da falta de recursos, já que são obrigados a cobrir muitas despesas com dinheiro do próprio bolso.	expl
+CP564-3	Está a ser pedido aos idosos que se sacrifiquem duas ou três vezes mais do que o resto das pessoas.	expl
+CP566-2	Assim, se na guerra do primetime a novela da SIC consegue vencer tangencialmente o mano-a-mano com Fera Ferida, já o principal serviço noticioso diário da estação, Jornal da Noite, não tem idêntica estatura, perdendo por larga margem para o Telejornal do Canal 1.	mark
+CP566-9	Quem é visto, mais do que seria de esperar, é a saga erótico-comemorativa dos vinte anos da Playboy, que consegue aguentar-se no Top 20 da SIC com 5,1 (quase tanto como a volta ...)	expl
+CP567-1	Ao longo de uma obra original em que tem procurado figurar a génese e os momentos mais marcantes da nossa modernidade filosófica e estética, o filósofo Manfred Frank (ainda desconhecido do leitor português, mas já muito traduzido em França e na Itália) serve-se, entre outros, do mito do judeu errante, nestas duas vertentes, para seguir um percurso que, na literatura, conduz da viragem para a Idade Moderna e das primeiras viagens pelo desconhecido até à contemporânea deriva pelos mares da interioridade e à condição niilista deste nosso século, preço da emancipação crítica em relação às promessas de estabilidade da Razão e de uma modernidade que um dia viria a falar com língua bífide, afirmando no discurso científico o que negava no poético.	expl
+CP571-1	A partir da Zambujeira, as praias favoritas são acessíveis através dos montes, que se atingem atravessando o ribeiro nas traseiras do café Fresco.	expl
+CP572-2	No início desta semana, no entanto, um diplomata indonésio admitiu a possibilidade da visita começar em finais de Outubro, o que, a confirmar-se, apanhará a Comissão Eventual praticamente no grau zero da preparação da visita.	expl
+CP577-5	Na localidade de Flamengos, onde ainda estão mais de 200 pessoas a dormir em tendas, Sampaio apelou ao bom senso e solidariedade típica do povo açoreano para compreender que não se podem construir todas as casas ao mesmo tempo.	expl
+CP577-7	Aqui temos de compreender que não se pode ter tudo ao mesmo tempo.	nsubj
+CP579-4	Com os olhos na Rússia, tecnicamente em violação do texto assinado em 1990, os países-membros do tratado sobre as armas convencionais na Europa voltam a reunir-se a partir de hoje, em Viena, para tentar limpar definitivamente o continente de armas convencionais.	expl
+CP581-1	Outra ideia exposta por Soltwedel foi a de que o mercado de trabalho, apesar de envolver pessoas, deve funcionar como qualquer outro mercado, acrescentando que os europeus têm de se livrar da ideia que os salários não têm nada a ver com o trabalho realizado.	obj
+CP581-4	Na sua óptica, isto deve-se a todo o tempo em que a indústria europeia esteve protegida.	expl
+CP581-5	Depois de tanto tempo debaixo do guarda-chuva, é evidente que a Europa se vai molhar.	expl
+CP584-2	Este, vencedor da ordem de Mérito de 89 e 17º do ranking mundial, posiciona-se agora como o principal favorito à vitória no Open português.	expl
+CP584-11	Seguir-se-ia uma recuperação de grande categoria, na qual alcançou cinco birdies, o que lhe permitiu manter as aspirações a um lugar entre os 65 finalistas dos dois derradeiros dias da competição.	expl
+CP585-5	Tenho dito aos meus que devem preocupar-se com esse dia, não por mim, mas por eles.	expl
+CP585-11	mas se a lembrança for de saudade, então acho que pode ser uma boa coisa.	mark
+CP587-2	A sua equipa, encabeçada pelos coordenadores técnicos Bernardo Manuel e Abreu Matos, também se mantém, e a tónica é antes a do seu reforço, com a entrada de Fernando Mamede para o quadro técnico, com funções ainda para definir, e de um incondicional do atletismo do clube, António Frade, como seccionista.	expl
+CP587-7	Vítor Mendes realça também o significado dos títulos na perspectiva que defende de o atletismo do clube não se especializar só no meio-fundo, como chegou a ser superiormente equacionado:	expl
+CP588-6	Seria necessária uma nova conferência intergovernamental sobre a União Política Europeia mesmo antes da revisão do Tratado, agendada para 1996 e, em seu entender, o alargamento da Comunidade aconselharia a que esta se dotasse de uma verdadeira constituição com metas e com princípios.	expl
+CP591-2	O Dow Jones passou novamente a barreira dos 2.900 pontos para se situar pouco acima dos 2906 pontos na sessão de quarta-feira.	expl
+CP596-1	Há mais de uma semana que o cessar-fogo entre sérvios e muçulmanos está a ser mais ou menos respeitado e, à semelhança das restantes frentes de combate, a situação nesta região tem-se mantido calma.	expl
+CP596-2	Apesar de em Brcko, 54 quilómetros a noroeste, se terem registado violentos confrontos no fim-de-semana.	expl
+CP596-5	A refeição é subitamente interrompida pela aparição de um jipe NIVA 600 de onde saem dois soldados armados andar armado nesta região, seja-se civil ou militar, é medida obrigatória com os boletins de voto para o referendo dentro de um grande envelope.	expl
+CP597-1	Na Videoteca de Lisboa, às 22h30, realiza-se o II Encontro da Associação de Vídeo, Arte e Novas Tecnologias Interactivas PT.	expl
+CP598-3	A entidade patronal da Guial, a empresa têxtil de Barcelos cujos trabalhadores se mantêm em greve desde a passada quinta-feira, requereu ao Tribunal Judicial de Barcelos a ilegalidade da medida tomada recentemente pelos trabalhadores e que consistiu no impedimento da saída de quatro carrinhas da companhia carregadas de mercadoria.	expl
+CP601-3	Já antes José Borrell tinha criticado acidamente a comunicação social, a propósito das insistentes perguntas sobre se a ponte abria ao tráfego imediatamente ou não:	mark
+CP603-3	O Grupo Champalimaud, a Petrogal, a TAP-Air Portugal, a Marconi, a Salvador Caetano, a Tertir, a Somec e a Soares da Costa são algumas das que mais investiram e, presume-se, maiores interesses têm a defender.	nsubj
+CP603-4	Se a isto acrescentarmos o que está a ser perdido passageiros e mercadorias na TAP, mercadorias na Portline e na Transinsular, dormidas nos hotéis (Hotti e 24 de Setembro), operações na banca (Banco Internacional da Guiné-Bissau e Totta & Açores), turistas nos clubes de caça (como o de Capé) --, as verbas perdidas causarão vertigens.	mark
+CP604-2	Esperavam, pois, encontrar uma cidade em estado de sítio, mas depararam-se com uma estranha normalidade.	expl
+CP604-4	Quando se trata de falar é que já é mais difícil.	expl
+CP604-9	E a maior dessas atrocidades passou-se há 60 anos, em Guernica, para sempre imortalizada no famoso quadro de Pablo Picasso.	expl
+CP606-9	Contudo, uma única pergunta: o novo Presidente ficar-se-á por aqui?	expl
+CP606-21	Trata-se de facto de apostas.	expl
+CP607-2	Essa mesma colectânea deu mais recentemente origem a um reedição em dois CD duplos, que se encontram esgotados no nosso mercado.	expl
+CP608-4	O vice-primeiro-ministro e ministro dos Negócios Estrangeiros iemenita, Abdel Kader Bajamal, deverá deslocar-se hoje à Arábia Saudita para tentar desbloquear a querela, disse à AFP um diplomata em Sanaa, capital iemenita.	expl
+CP609-1	Foi ministro de Jacques Chirac (1986-1988) e agora é considerado o seu principal rival, embora ainda não se tenha candidatado oficialmente às presidenciais.	expl
+CP609-5	Balladur nasceu em Esmirna (Turquia), em 1929, e formou-se na Escola Nacional de Administração, de onde saiu a elite da função pública francesa.	expl
+CP609-10	O presidente cessante da Comissão Europeia, Jacques Delors, não se apresentou ainda como o candidato da esquerda à sucessão do seu correlegionário Mitterrand.	obj
+CP610-1	A equipa do Sporting apresentou-se no Municipal de Chaves com Capucho a ocupar a posição de Cadete.	obj
+CP610-3	A falta de profundidade atacante, a azelhice no remate aspecto em que apenas Juskoviak esteve diferente para melhor foram razões para o nulo que se verificava na primeira parte.	expl
+CP610-6	Henrique Calisto decidiu-se, por isso, a mexer na equipa trocando Saavedra por Omer.	expl
+CP610-7	Face à passividade de Saavedra, o novo treinador do Chaves procurou injectar sangue novo na dianteira, esperando que a sua equipa se tornasse mais agressiva na frente de ataque.	expl
+CP613-3	Por outro lado, Soares encontra-se com agricultores em A-dos-Cães, no domingo, 31, em Manique do Intendente, na terça-feira seguinte, e ao fim da tarde do mesmo dia, em Vila Franca.	expl
+CP613-4	A 5, no Barreiro, visita a Sociedade Agrícola Lavradiense, a 9, na Azueira, Mafra, encontra-se de novo com agricultores, na Central Fruteira e a 10 visita a Adega Regional de Colares.	expl
+CP615-1	Como o PÚBLICO noticiou, a Unicre remeteu para a DGCP a fundamentação da nova taxa, onde se refere que os custos do serviço, por operação, é de 15850.	nsubj
+CP615-8	Num sector como o dos combustíveis, em que as margens de comercialização são esmagadas e sujeitas a preços fixados administrativamente, uma taxa fixa poderá, na opinião de Pais Antunes, contribuir para que as companhias se encostem sistematicamente aos preços máximos.	expl
+CP617-3	Se o seu último disco, Feels Like Rain, já garantia a proximidade da ressurreição, Slippin In confirma-a.	mark
+CP617-4	E, mesmo ao cair da folha, 1994 tornou-se um ano de alegria.	expl
+CP618-4	A decisão foi tomada ontem, depois de um encontro com uma representação dos moradores que se queixam do tráfico de droga na zona, atribuindo-o à comunidade cigana ali instalada há mais de 20 anos.	expl
+CP623-7	não precisa de se preocupar.	expl
+CP624-1	Quanto a queijos, nem sequer se pode dizer bem ou mal:	nsubj
+CP624-7	Depois de três dias a visitar a feira as opiniões dividiam-se um pouco, sobretudo entre professores e alunos.	expl
+CP626-1	A maior área queimada verificou-se no distrito de Santarém, com oito mil hectares, enquanto em Bragança arderam apenas 64 hectares.	expl
+CP626-3	Entretanto, o violento incêndio que deflagrou terça-feira no concelho do Fundão, entre as povoações de Barco e Lavacolhos, voltou a reacender-se na madrugada de ontem, após ter sido considerado extinto na quarta-feira, segundo informação dos bombeiros locais.	expl
+CP627-3	Netanyahu garantiu ao Presidente sírio, Hafez Assad, que encontrará nos israelitas parceiros razoáveis e cooperantes se escolher o caminho da paz.	mark
+CP630-2	Chegou a pensar-se numa consulta genuína	nsubj
+CP638-4	Sendo a fotografia um lugar de registo dos corpos, parece que, este ano, do conjunto de exposições se desprende mais uma atitude de registo, a participação do fotógrafo na construção e selecção da imagem do que a afirmação das próprias imagens, do seu corpo.	expl
+CP639-3	No essencial, tratava-se da adjudicação de serviços de promoção de imagem e de obras sem concurso público nem visto do tribunal de contas (ver PÚBLICO de 21 de Abril).	expl
+CP640-2	Procurei na última semana contactar o presidente da concelhia socialista, mas, encontrava-se no estrangeiro, espero vir a concretizar esse contacto ainda esta semana conclui Carlos Arrojado.	expl
+CP645-7	O Governo Regional dos Açores comprometeu-se a pagar os juros de um empréstimo a contrair pela Câmara de Santa Cruz da Graciosa e empresários locais, visando a compra de um barco de passageiros orçado em 54 mil contos.	expl
+CP645-8	A embarcação, de 30 lugares e 14 metros de comprimento, destina-se ao tráfego entre as ilhas do grupo central do arquipélago, viajando prioritariamente entre a Graciosa e a Terceira.	expl
+CP648-7	Adivinha-se que a prazo, enquanto as dívidas do clube concentrarem a atenção dos dirigentes e as contas não possibilitarem o pagamento da rescisão do contrato.	nsubj
+CP649-3	Não é de literatura do que aqui se trata, embora a história, densa e trágica, nos envolva desde a primeira página.	nsubj
+CP650-4	O conselho foi ontem dado pelos técnicos da OCDE, no seu mais recente relatório sobre o estado da economia norte-americana, em que se avisa as autoridades do país a reduzirem os gastos com a Segurança Social com o objectivo de assegurar, a longo prazo, a saúde financeira federal.	nsubj
+CP651-2	Enquanto isso, os universitários do Norte têm estado a reunir-se e a estudar cada um dos princípios apresentados pelo titular da pasta da Educação.	expl
+CP653-3	Assim, entre os 28 expositores contam-se as autarquias, as empresas construtoras, os bancos, as imobiliárias, as seguradoras e as associações como a dos inquilinos e a dos proprietários, entre outras.	expl
+CP656-5	O documento é pouco favorável aos republicanos que só na Páscoa se pronunciaram oficialmente sobre ele.	expl
+CP658-6	Para que possa não responder às violações marroquinas, a parte sarauí exige que a comunidade internacional lance um alerta a Marrocos para que cesse as provocações e para que se comnporte de forma responsável, respeitando os seus compromissos, declarou a Polisário, organização que luta pela independência do território do Sara Ocidental, num comunicado divulgado em Argel.	expl
+CP660-1	Quando a advogada lhe perguntou porque é que o carro dos portugueses não teria sido interceptado, Cardiell afirmou que pensava estarem combinados com a polícia, tendo em conta a forma como as coisas se passaram.	expl
+CP660-2	Se nos tinham localizado, podiam ter actuado quando ainda estávamos com os portugueses, afirmou.	mark
+CP662-4	Inicialmente religião dos pobres, a nova mensagem depressa se estende a todas as camadas sociais e será vigorosamente divulgada pelos pequenos grupos iniciais, que depois dão origem a novas comunidades.	expl
+CP662-6	Trezentos anos após a morte de Jesus, o cristianismo iria tornar-se a religião oficial do Império.	expl
+CP663-4	A agência referiu que um indivíduo não identificado e que se exprimia mal em turco telefonou de um país estrangeiro para afirmar que o grupo tinha em seu poder o tenente-coronel Mike Couillard, 37 anos, e o seu filho Matthew, dez anos.	expl
+CP664-3	A história remonta a 1983, altura em que o Governo do Bloco Central, através do Ministério do Equipamento Social, titulado pelo socialista Rosado Correia, assinou com a Câmara de Fafe um protocolo no qual se comprometia a custear um centro coordenador de transportes até ao montante de cem mil contos e a financiar em 90 por cento a construção de uma via circular à cidade, como contrapartidas à desactivação da linha férrea entre Guimarães e Fafe.	expl
+CP665-5	Em Paços de Brandão inicia-se também o XIX Festival de Música de Verão.	expl
+CP667-2	E logo aos 4, as cerca de 500 pessoas que se deslocaram ao Pavilhão das Antas assistiram ao primeiro golo apontado por Pedro Alves.	expl
+CP668-3	O respeito que se impõe.	expl
+CP670-1	A privatização do BFE processar-se-á por concurso público de 65 por cento do capital do banco.	expl
+CP670-2	O preço mínimo por acção é de 1980 escudos, valor que se encontra próximo da oferta pública de aquisição final feita pelo Banco Português de Investimento, em Fevereiro, o que atribui ao BF um valor global de 158,5 milhões de contos.	expl
+CP675-5	O Milan finalista, com o Barcelona, da Liga dos Campeões Europeus é o clube que mais jogadores fornece à selecção transalpina, com sete futebolistas, seguindo-se o Parma, com cinco, a Juventus e o Lázio de Roma, ambos com três.	expl
+CP676-2	Espantada com o facto, resolvi aproveitar e fazer algumas chamadas que se encontravam pendentes há dois dias.	expl
+CP676-5	Finalmente alguém me entendeu, pois de imediato me disse que deveria tratar-se de ... uma avaria na central!	expl
+CP679-2	O dólar subiu para valores acima dos 1,41 marcos, aproximando-se cautelosamente dos 85 ienes e mostrando grande firmeza.	expl
+CP679-4	O índice FTSE-100 da Bolsa de Londres subiu 0,92 por cento, enquanto o CAC-40, de Paris, valorizou-se 1,43 por cento.	expl
+CP680-5	Para o secretário geral da ASGFIM torna-se, no entanto, necessário proceder a certas alterações dentro do sector, por forma a torná-lo mais competitivo.	expl
+CP681-3	A vitória, por 3-0, do Estrela da Amadora frente ao Desportivo de Chaves é indiscutível, como também é indesmentível que aquilo que se viu ontem na Reboleira pouco teve a ver com futebol.	nsubj
+CP681-5	O jogo dos visitantes descreve-se com uma palavra: paupérrimo.	expl
+CP684-2	Quase metade dos valores registados destinam-se ao país vizinho e, desse montante, cerca de 95 por cento terá sido aplicado na indústria.	expl
+CP684-3	O investimento líquido nacional em títulos estrangeiros, por seu turno, elevou-se a 298 milhões de dólares quando no ano anterior praticamente não tinha expressão.	expl
+CP689-2	O presidente desculpou-se, lembrando-lhe, mais uma vez, que tudo aquilo é provisório.	obj
+CP690-3	Finalmente, o ministro acabou por admitir que esta questão terá que ser analisada futuramente, não deixando de considerar que a abolição terá que se verificar, mas sem definir qualquer horizonte temporal, sustenta o presidente da Assembleia Municipal.	obj
+CP690-6	A única justificação para não haver a abolição de portagens é de que, ali, se recebe muito dinheiro, conclui o presidente da Assembleia Municipal.	nsubj
+CP692-3	O Presidente da Assembleia da República solicitou a vários juristas ligados ao seu gabinete que se pronunciem sobre a legalidade da forma como tem sido descontada no vencimento de deputados do PSD a quantia correspondente às multas aplicadas por faltas de comparência.	expl
+CP692-4	Barbosa de Melo foi sensível às reclamações de alguns parlamentares da maioria que a ele se dirigiram pondo em causa tais descontos sem deles terem sido previamente informados e, segundo o PÚBLICO apurou, admitiu mesmo vir a solicitar um parecer à Procuradoria Geral da República.	expl
+CP693-1	Na reunião de ontem, o líder dos sociais-democratas portuenses não deixava qualquer indício sobre a forma como irá conduzir todo o processo face às candidaturas que se desenham.	expl
+CP693-5	se o PSD interiorizasse a ideia de que seria uma liderança a prazo estaria a admitir desde já que os resultados das próximas eleições autárquicas iriam redundar num novo desaire eleitoral.	mark
+CP693-10	o PSD tem de se afirmar como uma oposição credível, com uma liderança forte, até porque nas previsões de Menezes também entram as medidas impopulares do governo socialista que estarão aí a chegar ...	expl
+CP694-4	O citado desvio, pela escarpa do Observatório, aproxima-se dos acessos à Ponte do Freixo e à auto-estrada.	expl
+CP695-5	Ambos se recusaram a assinar, no final de 1996, o tratado de interdição total de testes nucleares (CTBT, segundo o acrónimo inglês).	expl
+CP696-3	O também ex-jornalista da RTP lembrou que se está a voltar à ideia de que o accionista deve interferir na vida das empresas, mas referiu que o jornal para ser credível, não pode ser portador de recados do seu proprietário.	nsubj
+CP697-1	Freneticamente, o Governo tem-se empenhado em gastar centenas de milhares de contos em propaganda para nos convencer das vantagens do aumento em 50 por cento da capacidade (seis faixas) da ponte em termos rodoviários e noutra inquestionável vantagem que é a futura implantação nela do caminho-de-ferro.	expl
+CP697-6	Não se estará a comportar o Governo como aqueles babados paizinhos que estragam os filhos com guloseimas?	expl
+CP700-1	Confrontado com o pedido da mudança toponímica, o município viseense, através do seu líder, Fernando Ruas, oficiou a Junta no sentido de dar o nome de Luís Martins a uma outra avenida que atravessa a freguesia e que se situa num troço da Entrada Nacional 2 gerido pela Câmara o que não agradou aos elementos da autarquia repesense.	expl
+CP703-4	Era aí que se fixava a maior parte das substâncias cancerígenas e a maior parte dos cancros dos fumadores surgiam nestas regiões.	expl
+CP704-4	Pinochet passeou-se por Portugal, tudo numa visita oficialmente privada.	iobj
+CP705-2	O próprio Gorbatchov considerara imoral a expulsão de Honecker mas a posição política em que se encontra actualmente o Presidente soviético não é a mais propícia para fazer fazer as suas opiniões.	expl
+CP708-3	O alegado violador foi detido em sua casa, depois de a vítima ter denunciado o caso às autoridades policiais quando se encontrava no Hospital Distrital de Barcelos para receber tratamento.	expl
+CP708-5	No momento em que regressava a casa, o indivíduo lançou-se sobre ela, tapou-lhe a boca, agrediu-a e atirou-a ao chão.	expl
+CP711-3	Apesar de a economia norte-americana estar a dar mostras de um arrefecimento, as acções cotadas em Wall Street continuam a valorizar-se de uma forma progressiva e continuada.	expl
+CP714-10	Mais tarde inscreveu-se numa escola de música e não perdia tudo quanto era festinha.	expl
+CP715-1	Nestes últimos dias, os bracarenses apenas têm estudado pormenores do jogo, pois, quando duas equipas de nível semelhante se encontram, os pormenores é que decidem, reforçou Donner, que vai iniciar o jogo com uma defesa 3x2x1, agressiva quanto baste.	expl
+CP716-1	José Saldanha mostra-se ainda muito surpreendido com a suspensão de que foi alvo a ETEM por parte da Direcção-Geral de Armamento (DGA) e acusa este organismo de não assumir as suas responsabilidades.	expl
+CP717-4	Uma medida que, no entender da entidade sindical, só peca por tardia e vai alterar o decreto-lei de 1979 que regulamentava a actividades desses professores, estabelecendo-se agora novas condições e regras para o exercício do ensino da língua portuguesa no estrangeiro.	nsubj
+CP719-4	Os Cocteau Twins fecharam a 18ª edição do Printemps de Bourges, infelizmente sem aquilo a que se pode chamar uma chave de ouro.	nsubj
+CP720-6	Depois, verifica-se uma enorme discrepância de valores na sua avaliação para efeitos fiscais, sempre gravosa, sem atentar sequer nas flutuações do mercado e das próprias leis.	nsubj
+CP720-7	Ignora-se qual o princípio que preside a tão injusta como iníqua privatização;	nsubj
+CP720-8	mas, se o objectivo foi libertar os terrenos, evitando a estagnação, seria necessário que as autarquias respondessem às solicitações, o que não acontece.	mark
+CP721-4	Aproveitaria para lhe mostrar o estado lamentável de um enorme casarão, esventrado e em tosco, na sequência do incêndio da Faculdade de Ciências (há 18 anos!), de reinstalação sempre adiada e pomposamente referido como Museu Nacional, que pouco deve à tutela, mas ao qual se reconhece uma obra científica, cultural e pedagógica notável.	nsubj
+CP722-1	De resto, os comerciantes espanhóis parecem estar mais atentos ao que se passa no Algarve do que os colegas portugueses.	expl
+CP722-4	Fiéis aos seus pubs em Albufeira, continuam os ingleses, mas longe vão os tempos em que com um libra em 1988 valia 285 escudos, hoje fica-se pelos 230 faziam figura de reis e senhores.	expl
+CP723-1	A primeira das críticas ontem apresentadas foi para o novo sistema retributivo, que os enfermeiros consideram nunca se ter adaptado à carreira de enfermagem.	expl
+CP723-3	Quanto a horas extraordinárias, os enfermeiros salientam não terem acesso às vultuosas verbas que nelas se consomem e que para alguns profissionais da saúde funcionam mais como complementos disfarçados de vencimento do que como resposta a necessidades efectivas.	expl
+CP725-6	P. Mesmo que seja eleito, não se desvinculará do partido?	expl
+CP727-6	Eles não se ficarão por aí.	expl
+CP729-5	Rebentou um pneu e ouviu-se um grande estrondo.	nsubj
+CP730-3	Depois, tornou-se local de convívio da mais alta qualidade.	expl
+CP733-4	As reacções foram cautelosas e os EUA, porque nos maus filmes de terror os mortos-vivos conseguem sempre levantar-se, exigiram uma autópsia.	expl
+CP734-3	Duarte Pacheco alega que o Carregado é a zona do concelho de Alenquer com maior índice de crescimento industrial e é também um dos maiores centros populacionais da região, pelo facto de se situar num dos maiores nós rodoviários do país, acrescido das ligações fluviais e ferroviárias.	expl
+CP735-1	O ministro português da Administração Interna avistou-se ontem com o ministro holandês da Justiça para receber os dossiers sobre a imigração e do Grupo de Trevi que transitam da presidência holandesa da Comunidade para a portuguesa.	expl
+CP735-3	A passagem do testemunho, entre Haia e Lisboa, em matéria de política interna comunitária apenas se fez agora por indisponibilidade da agenda do ministro holandês da Justiça.	expl
+CP736-3	É claro que as contas podem todas complicar-se, caso holandeses e ingleses empatem e polacos vençam noruegueses.	expl
+CP736-5	A decisão do Grupo ficaria então muito complicada, com três equipas com hipóteses de chegar ao fim com 14 pontos e a ser preciso recorrer ao foto-finish para saber quem se apuraria.	expl
+CP737-1	O objectivo genérico destas iniciativas, patrocinadas pela União Europeia, é o desenvolvimento de uma política global de redução da insegurança, à volta de quatro eixos fundamentais: respeito pelos direitos humanos, participação activa dos cidadãos na definição e aplicação da política de segurança requerida, aposta em soluções de partenariado envolvendo os sectores público e privado e preocupação com a segurança do cidadão, para evitar que ele se torne autor ou vítima de crimes.	expl
+CP738-3	Esta nova equipa propõe-se fazer um trabalho honesto e claro.	iobj
+CP739-8	Diz o jornal, referindo-se à comissão política de ontem, que Nobre Guedes sublinhará que o presidente do PP nunca mentiu no decurso do processo de constituição das listas.	expl
+CP740-3	Mas também há muitas outras que poderiam ser como a Ana e se desmobilizaram.	expl
+CP741-5	Quando se descobriram os vestígios arqueológicos, fez um protocolo com o Ippar [ Instituto Português do Património Arquitectónico e Arqueológico ], porque não percebia da matéria.	expl
+CP743-3	Os Encontros Acarte propunham-se responder a esse duplo anseio: informar o público e estimular os autores portugueses, na perspectiva de os despertar para as estéticas do pós e neo-modernismo.	iobj
+CP743-6	Mas a afirmação da sua identidade nunca se fez pela adopção de uma linha estética única.	expl
+CP743-8	O público tem o direito a escolher o que lhe interessa e não creio que seja necessário conduzi-lo pela mão como se fosse um indigente.	fixed
+CP744-1	Smidovitch, com um fomos aonde planeámos ir, declinou confirmar, no entanto, se a fiscalização abrangera sedes de ministérios, quinta-feira vedadas categoricamente ao pessoal da ONU pelo regime de Bagdad.	mark
+CP744-2	Sobre se haviam encontrado algo suspeito também não adiantou pormenores.	mark
+CP744-4	As inspecções, recorde-se, começaram em Abril do ano passado, pouco depois do fim da Guerra do Golfo e resultaram dos acordos de cessar-fogo então assinados.	expl
+CP747-1	Mesmo para um simples curioso pela fotografia, a exposição À Prova de Água, comissariada por Jorge Calado, que ontem abriu no Centro Cultural de Belém, impõe-se como imprescindível, largamente ultrapassando o âmbito local --	expl
+CP747-2	é mesmo de supôr que se trata de uma das mais importantes exposições fotográficas dos últimos anos, a nível internacional.	expl
+CP747-3	O tema da água, ligado aos oceanos como proposta genérica da Expo-98, permite abordar esse elemento em todos os seus estados, liquído, físico e gasoso, e obviamente relaciona-se com o próprio processo fotográfico.	expl
+CP750-4	Será durante um encontro a realizar no Museu Olímpico, em Lausana, na Suíça, onde os representantes das 11 cidades se irão reunir pela primeira vez.	expl

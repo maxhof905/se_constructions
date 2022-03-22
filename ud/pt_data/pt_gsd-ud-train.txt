@@ -1,0 +1,949 @@
+rain-s8	Agora, a equipe está se acostumando com a forma do time jogar e isso nos traz uma diferença muito grande.	obj
+rain-s9	À véspera do anúncio do desempenho do Produto Interno Bruto (PIB) no terceiro trimestre pelo IBGE, com aumento trimestral estimado em torno de 1 % a 1,1 %, contra 0,5 % no período anterior, o cenário dos economistas se volta para o resultado da economia em 2013.	obj
+rain-s11	Se nenhuma providência for tomada, a população vai voltar a usar lamparinas à noite e geladeira a querosene.	mark
+rain-s23	Não teríamos condições financeiras de dar esse atendimento, se não fosse o programa.	mark
+rain-s59	Zé Maria acorda na delegacia e se desespera.	expl:pv
+rain-s89	Mas a atleta também poderá, de acordo com o técnico, se deparar com obstáculos naturais, como os patos que habitam o Serpentine.	expl:pv
+rain-s92	Aécio afirma que se trata de uma questão central.	expl:pv
+rain-s123	No 2 º tempo, o Sampaio foi se soltando e aos 24 minutos, novamente Eloir, agora pela ponta direita, levantou na área e outra Arlindo Maracanã desviou de cabeça para fazer 2 a 0, num gol bem parecido com o primeiro.	obj
+rain-s140	Na Casa Branca, agradeceu o empenho das equipes de salvamento e se recusou a falar de política.	expl:pv
+rain-s146	O delegado também vai verificar se há registro de desaparecimento feito por parentes.	mark
+rain-s147	A tensão nos mercados elevou o bônus espanhol a dez anos a quase 7 %, ao se situar pela primeira vez desde a criação do euro em 6,92 %.	expl:pv
+rain-s154	Como explica o diretor executivo do Sindicato das Indústrias Sucroalcooleiras de Mato Grosso (Sindalcool), Jorge dos Santos, as chuvas que se mantiveram sobre o Estado até meados de junho, favoreceram o desenvolvimento do milho, mas prejudicaram a qualidade, o rendimento da cana.	expl:pv
+rain-s165	Novos mercados, incluindo o mercado de entretenimento doméstico, serão fontes importantes de crescimento para a Intel, enquanto cada vez mais aparelhos se conectam à internet e impulsionam a demanda por centros de dados poderosos, disse o vice - presidente de finanças da maior fabricante de chips do mundo.	expl:pv
+rain-s192	Acho que o MEC precisa se esforçar para esclarecer que o Enem é recurso de seleção.	expl:pv
+rain-s204	Hoje, durante pronunciamento, Alberto rebateu as acusações, disse que a intenção da denúncia era a de prejudicar a imagem da comunidade e que a dupla que apresentou denúncia se passou por representante de direitos humanos.	obj
+rain-s208	Não seria justo destruir o que se fez com tanta luta, disse.	expl:pv
+rain-s212	O grande destaque da goleada do Sampaio Corrêa sobre o Comercial / PI, ontem, à tarde, no Nhozinho Santos, foi o experiente Arlindo Maracanã, que fez dois gols, ambos de cabeça, sendo um no primeiro tempo e o outro no segundo tempo e por pouco não fez o terceiro, para se tornar o artilheiro do Fantástico desde domingo e pedir música.	expl:pv
+rain-s221	Na cena inicial do romance, quando José Arcadio leva os meninos o pequeno José Arcadio e Aureliano para ver o gelo e ao ser perguntado por um deles se aquele é o maior diamante do mundo, ao que ele responde que não, que aquele é o grande invento do nosso tempo, podemos entender o que Cortázar dizia ser o sentimento do fantástico, um estranhamento originado das coisas banais da vida e do cotidiano, onde a percepção do olhar e das crenças, pode inverter o sentido da realidade.	mark
+rain-s239	Quando segmentos da sociedade se debulham em lágrimas diante da questão da maioridade penal, essa condição não é levada em conta.	expl:pv
+rain-s247	Quando foi lançado, o canal tinha o objetivo de fazer com que todos os setores da empresa se comunicassem de forma mais próxima com seus clientes.	expl:pv
+rain-s254	Quem não tem, esses sim acabam virando bois de piranha para que a justiça se refestele e brade em tom alto que está cumprindo seu papel.	expl:pv
+rain-s273	Apesar do histórico, Tenório não se acha a referência.	nsubj
+rain-s287	São Paulo Enquanto na Alemanha, fabricantes de aparelhos eletrônicos se reúnem para apresentar suas novidades em tablets e smartphones durante a IFA 2012, rumores acerca dos próximos lançamentos da Apple continuam a reinar na internet.	obj
+rain-s289	Esta capela encontrava - se implantada no topo sul do Rossio e daí foi removida para o seu local actual no Parque da Cidade.	expl:pv
+rain-s294	A atleta de 29 anos, que já havia revelado que iria se retirar da natação ao fim da temporada, conseguiu neste sábado avançar para a final dos 50m livre no Mundial de Piscina Curta de Istambul, na Turquia.	obj
+rain-s306	O autor se aprofunda num dos temas mais recorrentes em sua trajetória como escritor, e neste novo livro, Lucado descreve a Graça como a melhor ideia de Deus, pois nada escapa de seu alcance, nada tem tanta capacidade de modificar substancialmente o ser humano como ela, e sendo o oposto de qualquer outra proposta religiosa ou filosófica, a Graça expõe a própria dinâmica de vida proposta por Deus, explica a nota divulgada pela asessoria de imprensa da Editora Thomas Nelson.	expl:pv
+rain-s318	Nessa época, o produtor e tecladista Pat Leonard (que havia trabalhado com o Pink Floyd no ano anterior, no álbum A Momentary Lapse of Reason, também estava entre aqueles que se surprenderam com a performance de Gilbert durante a turnê do Giraffe, e convidou - o para formar uma banda.	expl:pv
+rain-s320	Di Rupo também disse que não se machucou, e que as manchas na roupa não eram de sangue, mas de cereja, aproveitando para elogiar a maravilhosa cor vermelha.	obj
+rain-s321	Constatou - se que cada habitante já produz o equivalente a um quilo de resíduos, e a quantidade não para de crescer.	expl:pv
+rain-s343	De acordo com publicação do Ministro Ives Gandra da Silva Martins Filho, a história da origem do Ministério Público do Trabalho se confunde com a da Justiça do Trabalho, que surgiu no Conselho Nacional do Trabalho (Decreto n º 16.027/23), órgão de caráter administrativo instituído no âmbito do Ministério da Agricultura, Indústria e Comércio.	expl:pv
+rain-s348	Depois de se aventurar por estilos como o sertanejo, Roberto Carlos prepara agora, aos 71 anos, sua estreia no funk carioca.	obj
+rain-s361	Após o jogo, promovido pelo Soccerex, o Galinho não se furtou em criticar a saída do técnico Mano Menezes da seleção brasileira, ocorrida na última semana.	expl:pv
+rain-s363	Com a afiliação à Record, a emissora passou a se chamar RIC TV.	expl:pv
+rain-s365	A perseguição variou em intensidade nas várias regiões do império: as repressões menos violentas ocorreram na Gália e Britânia, onde se aplicou apenas o primeiro édito;	expl:pv
+rain-s386	A Diretoria Estadual de Investigações Criminais também está mobilizada para apurar as causas dos ataques e a Polícia Civil instaurou inquérito para verificar se há alguma relação entre eles.	mark
+rain-s396	Haddad diz ter convicção de que o julgamento do mensalão, que se arrasta há mais de 40 dias e poderá ser concluído muito próximo das eleições municipais, não afetará sua campanha.	expl:pv
+rain-s404	A reunião da comissão mista que analisa a Medida Provisória do Código Florestal foi suspensa para se tentar um último acordo com o objetivo de dar andamento na tramitação do texto no Congresso.	expl:pv
+rain-s406	Assim começou a grande carreira de Luíz Gonzaga que culminou com diversas canções lembradas até hoje, como Baião, Siridó, Juazeiro, Qui nem Jiló, Baião de Dois e principalmente Asa Branca, que se transformou em praticamente um hino do nordestino.	expl:pv
+rain-s409	Segundo a vítima, ele se identificava como Rafael do 15 º (batalhão de Duque de Caxias).	obj
+rain-s415	Segundo ela, a facilidade de voltar para o Brasil faz com que muitos tenham dificuldades de se identificar como paraguaios.	obj
+rain-s430	Métricas normalmente nos dizem onde estamos hoje enquanto os KPIs nos dizem o que o futuro pode parecer, se as condições atuais continuarem.	mark
+rain-s457	Aos 32 anos, nascido em Lençóis Paulista, no interior de São Paulo, Rodrigo começou a carreira profissional em 1999 na Ponte Preta, onde jogou até 2003 quando se transferiu para o São Paulo Futebol Clube.	expl:pv
+rain-s463	O prazo para as alegações finais da defesa, de três dias úteis, também foi aberto, e os advogados de Demóstenes poderão se manifestar até sexta - feira (15).	obj
+rain-s466	Não é comprovado cientificamente, mas imagino que isso se deve em parte à menor tolerância a dor que os homens têm.	expl:pv
+rain-s468	Os dados referem - se a novembro e comprovam a demanda de turistas pelo Destino Paraíba em 2012, em relação ao ano passado.	expl:pv
+rain-s469	Penha diz que, se ele devolveu o dinheiro de coração, é claro que ela tem orgulho de Sandro, já que ele deu um bom exemplo para Patrick, que é filho dos dois.	mark
+rain-s473	Agora, parte do roteiro já se repetiu.	expl:pv
+rain-s480	Ao longo de sua história, a Datasul vem se destacando como a empresa brasileira líder no fornecimento de softwares empresariais e conta hoje com aproximadamente três mil profissionais em seu network em todo o Brasil e na América Latina, através de suas franquias de distribuição, sendo a GWA - São Paulo a maior de suas franquias.	expl:pv
+rain-s483	Se não tiver travesseiro, deita ali em cima do bumbum mesmo!	mark
+rain-s488	Relaciona - se à intuição e capacidade de comunicação.	expl:pv
+rain-s489	Quando tinha 5 anos seus pais mudaram - se para Paris, onde começou a trabalhar alguns anos depois no escritório dum advogado.	expl:pv
+rain-s490	Do ponto de vista social e demográfico, assiste - se à gradual transferência das famílias ricas para locais mais amplos e aprazíveis;	expl:pv
+rain-s495	A Rais não se aplica a empreendedores individuais.	expl:pv
+rain-s498	A actual Rainha ainda usa Holyrood quando se encontra na Escócia em ocasiões de Estado (nas outras ocasiões usa o Castelo de Balmoral).	expl:pv
+rain-s500	Andy Palmer, vice - presidente executivo da Nissan, disse que a Nissan se orgulha de entregar uma visão do século 21 para um dos veículos mais emblemáticos de Londres, o Black Cab, que é parte da paisagem de Londres como o Big Ben.	expl:pv
+rain-s504	Mas, se depender da expectativa dos analistas financeiros da iniciativa privada, a contínua redução da taxa deverá ser interrompida, principalmente pelo aumento da inflação que, em setembro, avançou 0,57 % e acumula 3,77 % no ano, com potencial para chegar ao fim de 2012 em 5,42 %, de acordo com o boletim Focus divulgado ontem (8) pelo Banco Central (BC).	mark
+rain-s510	Desta vez, o reconhecimento se deu por conta da realização da Terceira Caminhada do Programa Bem Viver no Parque Mãe Bonifácia, realizada em 7 de dezembro em homenagem ao Dia da Justiça (8 de dezembro), com a finalidade de incentivar os serventuários a cuidar da saúde, praticar exercícios físicos e manter uma alimentação saudável como forma de prevenir o sedentarismo.	expl:pv
+rain-s511	Finalizando as reuniões políticas do período da tarde, Giroto se reuniu com funcionários duma empresa de manutenção de tratores onde o candidato falou sobre suas 15 metas inseridas no Plano de Governo.	obj
+rain-s515	Marco Ariello, sócio da Syntegra Capital, disse que a Moleskine está concluindo a documentação necessária para ser capaz de se beneficiar dum melhor momento que o mercado oferecer.	nsubj
+rain-s530	Entre os participantes da cerimônia noturna estavam Steven Bridges e Michael Snell, que se uniram extraoficialmente há seis anos, mas tornaram o casamento oficial apenas hoje, com a permissão garantida pela nova lei estadual.	obj
+rain-s578	Trojan = Programa que se disfarça dalguma coisa para que seja instalado.	obj
+rain-s588	Andou se machucando.	obj
+rain-s599	A Manchester and Leeds Railway foi uma companhia ferroviária do Reino Unido, que foi inaugurada em 1839, ligando Manchester com Leeds através da North Midland Railway, que juntava - se em Normanton.	expl:pv
+rain-s607	Para eles, a vitória nas urnas não será a garantia de posse no cargo ao qual disputou pois, se posteriormente o candidato que tiver o registro impugnado pelo TSE, os votos serão considerados nulos.	mark
+rain-s619	O Egito acolheu um pacto de reconciliação entre Hamas e Fatah, que se enfrentaram em 2007 numa breve guerra civil que deixou o grupo islâmico com o controle da Faixa de Gaza, e Abbas com responsabilidade pela Cisjornânia.	obj
+rain-s624	Nas últimas eleições foram por volta de 30 candidatos a vereador, esse ano temos um número muito maior, isso só mostra a evolução que Zoinho vem tendo com esse tempo e ainda existe a chance desse número aumentar e existe mais partidos que possam se unir a nós explicou o candidato a vice - prefeito, que falou também da necessidade de renovação que o município precisa.	obj
+rain-s633	Fiat, Ford, Mercedes - Benz e Scania como produtoras e SNS Automóveis como importadora se habilitaram ao novo regime automotivo brasileiro, o Inovar - Auto.	obj
+rain-s635	O tribunal rejeitou o pedido alegando que os requisitos exigidos para isso não são cumpridos, que a entrevista forneça informação que não se pode conseguir doutra maneira ou que seja essencial para a investigação ou preparação do caso.	expl:pv
+rain-s656	Ninguém se contenta com pouco nessa questão.	obj
+rain-s677	Frações molares são uma das formas de se representar a concentração das inúmeras espécies químicas presentes numa mistura.	expl:pv
+rain-s680	No comunicado se acrescenta que a missão da Otan e as Forças Armadas do Afeganistão fizeram uma investigação para esclarecer as circunstâncias do ataque.	expl:pv
+rain-s699	Poderia ter sido em cinco se eu tivesse me controlado mais.	mark
+rain-s706	A partir desta quinta - feira (27) até o dia 11 de outubro de 2011, o Rio de Janeiro se transformará na capital mundial do cinema.	obj
+rain-s708	Entra para a Escola de Música Chopin, em Varsóvia, com 10 anos de idade e se torna um dos mais jovens violinistas a participar da Primeira Competição Wieniawsky de Violino.	expl:pv
+rain-s716	Ela cria a tentadora possibilidade de usar - se terapias celulares para restabelecer o ritmo normal do coração em pessoas que, doutra forma, precisariam de marca - passos eletrônicos.	nsubj
+rain-s717	Tornou - se bibliotecário do Château de Fontainebleau no ano 1849.	expl:pv
+rain-s724	Para mostrar como estes se vestiam e faziam com a bola, Roberto Dinamite, ainda em atividade como atleta, entra em cena com a camisa da seleção brasileira que ostentava três estrelas, a última conquistada em 1970.	obj
+rain-s751	O manto, uma enorme massa de gelo com até 4 km de espessura que cobre a superfície terrestre e se estende até o mar, derrete mais rapidamente do que em qualquer parte da Antártica.	obj
+rain-s788	Em seu primeiro artigo, a primeira frase já dizia O pragmatismo está se tornando respeitável novamente (1961).	expl:pv
+rain-s790	A reintrodução em larga escala do uso das pozolanas levou à procura de fontes alternativas às naturais, tendo - se descoberto que múltiplos materiais ricos em sílica não cristalina exibem as mesmas propriedades cimentantes.	expl:pv
+rain-s808	A Batalha do Carovi feriu - se perto do arroio Carovi, local denominado Capão da Batalha, no atual município de Capão do Cipó, durante a Revolução Federalista do Rio Grande do Sul, no dia 10 de Agosto de 1894.	expl:pv
+rain-s825	Vão lá, levem pra se vestir!	obj
+rain-s836	Se as leis ficarem mais frouxas em relação ao uso da maconha, o maior prejudicado vai ser o adolescente.	cc
+rain-s865	Presente ao julgamento, o conselheiro José Lucio Munhoz se declarou suspeito.	nsubj
+rain-s867	Os corpos frutíferos são pequenos, geralmente com dimensões 5-15 mm largura e 4-8 mm altura, em forma de urna ou vaso, e contêm dum a vários peridíolos em forma de disco que se assemelham a pequenos ovos de ave.	expl:pv
+rain-s877	A RTTL transmite actualmente programas em língua portuguesa e tétum, os dois idiomas oficiais da nação, medida com a qual se pretende promover ambas as línguas junto da população.	expl:pv
+rain-s878	Agradeço aos quase 250 mil recifenses que sonharam junto conosco em construir uma cidade mais democrática, de construir um governo que não olhe pra cima, que governe olhando pra população mais carente e quer transformar a maneira como se faz política nessa cidade.	expl:pv
+rain-s880	Trata - se duma parceria do governo do Estado, Instituto Avon e Fundação Pio XII, gestora do hospital em Porto Velho, que prevê a redução de até 50 % dos casos de câncer no Estado, com a realização de mamografias, gratuitas, numa unidade móvel (carreta), que atenderá a 14 municípios da região da Capital rondoniense.	expl:pv
+rain-s882	Os números referem - se ao conceito ampliado de varejo, que inclui os ramos de veículos, motos e material de construção, e foram divulgados ontem pelo Instituto Brasileiro de Geografia e Estatística (IBGE).	expl:pv
+rain-s895	O Centro da História judiciária (Judiciary History Center), localizado no Aliiolani Hale, foca - se na história legal do Havai e em casos de tribunal marcantes.	expl:pv
+rain-s896	Em 283, após derrotar os quados e sármatas no Danúbio, e aproveitando - se da ausência do imperador Bahram II (r. 276-293) que estava em campanha no Oriente, Caro invadiu o Império Sassânida pela Armênia, anexou a Mesopotâmia, ocupou Selêucia e Ctesifonte e marchou com suas tropas pelo Tigre.	expl:pv
+rain-s904	Segundo o superintendente do Sebrae - SP, a expectativa existe em função dos empresários estarem se preparando para datas importantes em termos de vendas como o Dia da Criança e o Natal.	obj
+rain-s908	Esta reatividade assemelha - se com a dos cloretos de ácidos, embora seja um pouco mais branda.	expl:pv
+rain-s911	Estende - se por uma área de 40,7 km ².	expl:pv
+rain-s933	Os fatos geradores ocorridos a partir de 1 º de setembro já estarão submetidos à alíquota normal, independentemente se o financiamento, eventual entrada ou pagamento antecipado tenham ocorrido até o dia anterior , informou a área técnica da Receita.	fixed
+rain-s934	Por mais que considere a reivindicação dos servidores justa eles pedem a aprovação da Lei 6613 / 2009, que trata do plano de carreira da categoria ressaltou que o movimento de paralisação não deve se sobrepor aos interesses assegurados pela Constituição Federal, de que o Estado Democrático de Direito é peça essencial.	obj
+rain-s947	O motorista apresentaria sinais de embriaguez, mas se recusou a fazer o teste de bafômetro, segundo a polícia.	expl:pv
+rain-s969	As compras de fim de ano devem se intenficar, em Mato Grosso do Sul, nas duas semanas que antecedem o Natal.	expl:pv
+rain-s978	Se o adversário do líder fosse Haddad, o placar seria 48 % a 24 %.	mark
+rain-s1003	Os artefatos haviam sido achados por um alquimista chamado Galio, que tinha se mantido vivo por centenas de anos pelo Elixir da Juventude;	expl:pv
+rain-s1016	Se tivesse ficado no empate sem gols, o time espanhol teria terminado na segunda posição, com os mesmos cinco pontos de italianos e croatas.	mark
+rain-s1028	Ela explica que está tentando organizar tudo e que se Áurea ficar mexendo em tudo, ela não saberá onde estão as suas coisas na hora em que ela precisar.	mark
+rain-s1031	Localiza - se na região central da cidade, abrange os bairros da Pedreira e Fátima.	expl:pv
+rain-s1057	Mais de 360 mil pessoas se refugiaram nos abrigos disponibilizados pelo Governo em colégios, ginásios e outros edifícios públicos.	obj
+rain-s1075	Solicitamos à presidente Argentina Cristina Kirchner (anfitriã da cúpula) ter uma presença nessa reunião para poder explicar pormenorizadamente o que aconteceu aqui na semana passada, afirmou na coletiva depois de reunir - se com seu ex - gabinete no centro de Assunção.	obj
+rain-s1160	Outra opção é ver de perto a vaca 133 Locust (box 2500) que produziu em cinco ordenha 66,71 kg e se sobressaiu no concurso leiteiro Holandês.	expl:pv
+rain-s1165	A cidade está sem um órgão que se preocupe com projetos ordenados.	obj
+rain-s1173	Os cursos técnicos oferecidos dividem - se entre: integrados ao ensino médio (nos quais o aluno faz o ensino médio junto com o técnico no IFSC), concomitantes ao ensino médio (em que o aluno estuda o técnico no IFSC e o ensino médio noutra instituição) e pós - ensino médio.	obj
+rain-s1175	As duas mudanças serão no setor defensivo, o goleiro Harlei retorna ao time titular no lugar de Edson após se recuperar duma tendinite.	obj
+rain-s1180	Segundo ele, a investigação começou com base numa denúncia apresentada pelo Ministério Público na manhã de hoje, quando os promotores Manoel Adilton e Maria Claudia procuraram a corregedoria na companhia duma mulher que se dizia vítima de possível concussão.	expl:pv
+rain-s1196	Apesar da tensão, as autoridades britânicas se esforçaram para manter o clima de festa e receptividade a turistas que estão em Londres.	obj
+rain-s1217	Apesar desse histórico, Simone recebeu críticas dalguns peões por não querer se envolver em brigas e tentar manter um bom relacionamento com todos.	obj
+rain-s1218	Nós tivemos um estúdio na França que se dedicou inteiramente em certificar que o modo multiplayer ficasse sólido e fosse capaz de entregar novas interações ao título, disse Ducharme.	expl:pv
+rain-s1219	Ao ser reconhecido e legitimado pela Igreja, o poder do rei revestia - se dum caráter: ele era rei pela graça de Deus.	expl:pv
+rain-s1240	De olho no potencial de consumo das classes C e D e no setor imobiliário do país, a Next Global, empresa do ex - técnico, tem como objetivo tornar - se grande importadora voltada para os setores de varejo de confecções, de alimentos e para a indústria da construção civil.	expl:pv
+rain-s1252	Questionado sobre se o governo também sinalizaria para uma redução, com a diminuição do preço - teto do leilão, Miranda disse que a decisão é do ministro de Minas e Energia e que a EPE faz o trabalho de levantamento junto ao mercado e leva em consideração também o resultado dos últimos leilões.	mark
+rain-s1258	Caso tenha problemas para se matricular, deve entrar em contato com o MEC, pelo telefone 0800-616161.	obj
+rain-s1263	Mesmo com o número de torcedores do Sport quase tão expressivo quanto os do Figueirense no estádio Orlando Scarpelli, o time da casa tentou se aproveitar do fôlego dos primeiros minutos de bola rolando para criar suas chances e acuar o rival.	expl:pv
+rain-s1271	O resultado, Die Ausdehnungslehre: Vollständig und in strenger Form bearbeitet, que se conhece como Ensino da dilatação;	expl:pv
+rain-s1273	Dopando esses cristais com elementos trivalentes, obtêm - se átomos com sete elétrons na camada de valência, que necessitam de mais um elétron para a neutralização (cristal P).	expl:pv
+rain-s1282	Não há explicações, a não ser que se aceite preguiça e conivência de autoridades e certeza de impunidade como desculpas para não organizar um sistema de revezamento entre as unidades e funcionários que não prejudique os pacientes.	expl:pv
+rain-s1286	Nesse caso o processo é focado nesta transição, para que a pessoa se encontre, ache a carreira correta para ela, diz França, lembrando que mudanças de departamento e de área na mesma empresa também levam profissionais às sessões de coaching.	obj
+rain-s1295	Mais ou menos nessa época, na Dinamarca, foi convidado pelo rei Gorm o Velho para um banquete, no qual conheceu Gunnhild, com quem se casou na noite seguinte.	obj
+rain-s1318	Já quanto à Igreja Católica, vem se renovando em sua postura carismática e política, elegeu a opção pela defesa dos pobres e oprimidos e já não é mais a aliada preferencial dos poderosos.	obj
+rain-s1322	No forma dopada (ela advém do cério e oxigênio), céria é de interesse como um material para células combustíveis de óxido sólido ou SOFCs (do inglês solid oxide fuel cell) por causa de sua relativamente alta condutividade iônica para o oxigênio (i.e. os átomos de oxigênio facilmente movem - se através dele) a temperaturas intermediárias (500-800 ° C).	obj
+rain-s1326	Severino se diz vítima do golpe do creche	expl:pv
+rain-s1331	Antônio Vivaldi, François Couperin, Girolamo Frescobaldi, Dietrich Buxtehude e Luiz Álvares Pinto se encontram, a partir desta terça - feira (3), no I Festival de Música Barroca do Recife.	obj
+rain-s1332	Terra: O que você acha das mulheres que tentam seguir um padrão muito diferente do seu biótipo e estão sempre se achando gordas?	nsubj
+rain-s1333	Agora resta saber se a escrivã vai falar com Helô (Giovanna Antonelli) a respeito.	mark
+rain-s1344	A maioria das diretrizes limitam - se a definir uma aparência comum para os aplicativos desenvolvidos para um determinado Ambiente de desktop.	expl:pv
+rain-s1365	A Continental se fundiu com a United em 2010.	expl:pv
+rain-s1366	Todos se encontram na sede da corporação, no espaço do antigo stand de tiro, fundos do Estádio Municipal Cláudio Tomaselli.	expl:pv
+rain-s1385	A direção do Bourbon Shopping divulgou uma nota de pesar nessa manhã afirmando que estava profundamente sensibilizada pelo falecimento do menino e que se coloca à disposição da família para prestar toda a assistência necessária.	obj
+rain-s1393	O mesmo se verifica no caso de mortes causadas por operações militares.	expl:pv
+rain-s1395	ndo todos os três distritos, Darius pede ao jogador para se encontrar com ele, onde ele revela que só estava usando o jogador o tempo todo para obter mais território.	expl:pv
+rain-s1399	No comunicado, o Fisco ressalta que não se comunica com os contribuintes por e - mail e diz que qualquer mensagem deve ser desconsiderada.	expl:pv
+rain-s1405	A perniciosa contaminação se tornou bem mais abrangente, chegando a inibir qualquer tentativa de reação.	expl:pv
+rain-s1418	Mais uma informação sonegada: durante as marchas, registraram - se simultâneos apagões em várias regiões, coisa que não costuma acontecer.	expl:pv
+rain-s1442	Inclusive para o Botafogo, que soma 50 pontos e está embalado por três vitórias consecutivas, mas só se alimenta de chances matemáticas de disputar a próxima Libertadores.	obj
+rain-s1484	O pai (Papa Woodpecker) tenta criar o Pica - Pau que se mostra um bebê revoltado.	expl:pv
+rain-s1492	Estou sempre sentindo como se eu pudesse comer tudo que está no meu campo de visão, admitiu.	fixed
+rain-s1541	Ou, mesmo que se lembrem, podem estar erradas, já que a posição, por exemplo, pode mudar.	obj
+rain-s1549	Em seguida, a sensual coach afirma que você pode tirar a venda dos olhos dele, pegar a vela que se torna um hidratante e pingar em todo o tórax dele, de maneira bem devagar.	expl:pv
+rain-s1550	Ela fica sabendo da notícia através de sites de fofoca e se questiona por qual motivo Rosário não contou a verdade para ela e também para Cida.	obj
+rain-s1552	Independente do que ocorra politicamente na Venezuela, se o governo venezuelano e o povo da Venezuela querem avançar (na melhora das relações com os EUA), nós consideramos isso possível, disse a porta - voz.	mark
+rain-s1555	Após mudar - se do Texas para Nova York, a atriz interpretou Michelle Bauer Santos em The Guiding Light, uma produção da CBS.	expl:pv
+rain-s1572	Na segunda partida, contra Portugal, mostrou habilidade ao se livrar dum marcador perto da linha de fundo com uma linda finta.	obj
+rain-s1578	Se não houver mais pacientes crônicos para serem vacinados, as doses terão de ser devolvidas para a Secretaria de Saúde do Estado para reforçar as vacinações noutras regiões que têm muitos pacientes crônicos, destaca.	mark
+rain-s1605	Na quinta das oito etapas da temporada, os dois protótipos da Audi voltaram a se enfrentar diretamente na pista durante uma batalha intensa.	obj
+rain-s1612	Ainda não é um projeto, trata - se apenas dum sonho.	expl:pv
+rain-s1616	No início da semana, antes da aprovação final do Parlamento, o presidente disse que considerava o veto às adoções uma resposta emotiva, mas apropriada aos Estados Unidos, porém não confirmou se iria sancioná - lo.	mark
+rain-s1621	Além de provocar alto custo, disse na quinta - feira o presidente, que se baseou numa análise feita pelo Ministério das Relações Exteriores do Paraguai, cujo custo estimado do processo é de US $ 50 mil.	obj
+rain-s1641	Alan White começou a ter aulas de piano aos três anos de idade, mas, encorajado por um tio que era baterista, resolveu dedicar - se à bateria.	expl:pv
+rain-s1643	Se isso acontecer, darei muitas alegrias para o Fluminense e possivelmente, pode vir uma oportunidade na Seleção, que é um dos meus objetivos no ano comentou.	mark
+rain-s1651	Marcelo Serrado, como se sabe, foi escolhido para fazer este papel.	nsubj
+rain-s1661	Já Lídia Sawada defendeu bem o título conquistado em 2011 na mesma competição e se sagrou novamente campeã da categoria scratch feminina, com 87 tacadas, contra 90 do Toshiko Hiramatsu.	expl:pv
+rain-s1667	Com o desenrolar da história, vai amadurecendo e se tornando mais esperta conforme aprende mais sobre os Youkais e suas leis.	expl:pv
+rain-s1676	O clube não esclareceu, entretanto, se o jogador só não poderia falar nesta quarta - feira ou durante os dias que antecedem o jogo contra o São Paulo, no próximo domingo, às 16h, no Morumbi.	mark
+rain-s1695	Em todos os capítulos da novela, verifica - se sempre a existência dum gancho na passagem de cada bloco e não apenas no seu final.	expl:pv
+rain-s1704	Graficamente, conforme relatório enviado a clientes pela equipe da Um Investimentos, O Ibovespa à vista, se confirmar o rompimento do nível próximo aos 59.500 pontos, tem novo ponto de resistência nos 61.500 pontos.	mark
+rain-s1712	Ou seja, o TRT decide se o recurso sobe ou não, pois a lei limita as hipóteses de cabimento de Recurso de Revista.	mark
+rain-s1714	Em 2008, Maré se mudou para os EUA.	expl:pv
+rain-s1717	Se o caso for reincidente, a multa pode ser aumentada.	mark
+rain-s1724	Já o coordenador de projetos Ângelo Michelin, de 29 anos, e a engenheira agrônoma Márcia Petter, de 31 anos, levaram a pequena Sofia, às vésperas de completar um ano, para se vacinar pela primeira vez durante uma campanha nacional.	expl:pv
+rain-s1744	Não há problemas de demanda na China, o que se tem agora é um ajuste momentâneo do mercado, sentenciou o empresário.	expl:pv
+rain-s1745	Os cariocas estão em oitava lugar, dez pontos atrás da zona de classificação para a Libertadores da América e os paranaenses se encontram na décima quinta posição, somente cinco pontos à frente da zona do rebaixamento.	expl:pv
+rain-s1755	Se o time principal é constituído por jogadores medianos mas muito aplicados, o reserva tem pouca gente aproveitável.	mark
+rain-s1756	Como que ele vai chegar em 2014 se não jogar com frequência?	mark
+rain-s1759	O Farroupilha, por outro lado, também se complica, e já é terceiro, com 11.	obj
+rain-s1762	Por outro lado, se o foco for o mercado doméstico, a expectativa de recuperação da economia neste final de ano e a persistência das expectativas de inflação acima da meta, quem sabe recomendassem a manutenção da Selic em 7,5 % ao ano, acrescentam.	mark
+rain-s1765	O treinador disse que se o time mantivesse o resultado, certamente a AFE estaria com um pé dentro das finais.	mark
+rain-s1767	Existem 43 cidades que, se não existisse a terceira companhia aérea do País, não teriam voos.	mark
+rain-s1768	Localiza - se a uma altitude de 88 metros acima do nível do mar e a 55 km de distância de Fortaleza.	expl:pv
+rain-s1774	A equipe composta com artista de 25 países se divide entre palhaços, acrobatas, contorcionistas, malabaristas e ilusionistas.	expl:pv
+rain-s1778	Os sobreviventes franceses, cerca de vinte indivíduos, internaram - se nas matas em terra firme, procurando abrigo entre os aldeamentos indígenas aliados.	obj
+rain-s1794	Ele recebeu ordens para largar a faca e se recusou, disse o porta - voz Martin Speechley.	expl:pv
+rain-s1797	Outros três clubes ingleses estariam interessados no jogador e se antes o Liverpool estava na frente na negociação, agora Chelsea e Manchester United também entraram na disputa e podem deixar os Reds para trás.	mark
+rain-s1807	Fellipe Bastos ainda vive o problema de regularização, Felipe está suspenso pelo terceiro cartão amarelo e Eduardo Costa ainda se recupera duma pancada no pé esquerdo e segue no departamento médico.	obj
+rain-s1810	O que muda nos diversos algoritmos que se baseiam no Método de Ford - Fulkerson é o modo de achar o augmenting path.	expl:pv
+rain-s1833	Depois da atividade da Fazenda do terror, a peoa demorou para conseguir dormir e qualquer barulho que ouvia fora do celeiro se assustava.	expl:pv
+rain-s1841	Conforme vem sendo divulgado pela categoria, entre os dias 10 e 25 de outubro os médicos deixarão de atender os usuários dos planos de saúde e o atendimento somente se realizará caso o paciente pague pela consulta.	expl:pv
+rain-s1856	E essa tendência não se limita ao âmbito federal.	expl:pv
+rain-s1886	Vencer e se afastar da zona de rebaixamento catapultou o time para a 12 ª posição na tabela, onde repousa com dez pontos.	obj
+rain-s1888	Numa tentativa de evitar novos enfrentamentos sectários, as autoridades mantêm o toque de recolher nas aldeias de Mrauk U e Minbya, origem dos atos violentos que depois se estenderam a outras localidades.	expl:pv
+rain-s1892a	De acordo com informação colhidas junto ao PM que comandou o flagrante, Geovane, a menor desceu dum ônibus e quando foi apresentar documentação no portão do desembarque se mostrou muito nervosa e muito preocupada com a bagagem que carregava.Por	expl:pv
+rain-s1893	OAK CREEK, EUA, 7 Ago 2012 (AFP) - Um memorial improvisado criado em Oak Creek, uma pequena cidade do Wisconsin, se converteu no símbolo do drama que vive esta comunidade após o tiroteio que no domingo deixou sete mortos num templo sikh, incluindo o atirador, um ex - militar americano.	expl:pv
+rain-s1906	Apesar das palavras otimistas, o treinador alvirrubro, assim como os atletas, deixou transparecer que um empate na capital paulista será considerado de bom tamanho para o Timbu, que só precisa de mais um ponto para se garantir na Série A 2013.	obj
+rain-s1908	Por sua parte, Lianne Ball declarou que uniu - se aos protestos pela segurança de seus amigos e familiares, e alegou que os EUA não necessitam de armas de assalto entre a população civil.	obj
+rain-s1910	Ao chegar no PlayStation em 2002, os jogos podiam se tornar títulos Greatest Hits após venderem no mínimo 400 mil cópias e estarem no mercado há pelo menos 9 meses.	expl:pv
+rain-s1914	O mesmo se aplica aos jogadores, nenhum é melhor que o outro.	expl:pv
+rain-s1923	Quando se desencadeou a Primeira Guerra Mundial, Botha, ao tempo primeiro - ministro da União Sul - Africana, decidiu enviar tropas contra o Sudoeste Africano Alemão, procurando ocupar aquela colónia alemã.	expl:pv
+rain-s1924	No modelo de Rutherford notam - se dois equívocos:	expl:pv
+rain-s1926	Embate entre Prefeitura e Governo do Estado se reflete na corrida eleitoral, evidenciando a dificuldade de separar a gestão e as campanhas.	obj
+rain-s1937	Durante a reunião, informou - se também que a Egesa teria a receber valor superior a quatro milhões de reais, em razão de serviços já executados, além do total dado em garantia pela empresa, em quantia que ultrapassa oito milhões de reais.	expl:pv
+rain-s1977	O temor se tornou realidade: a Irmandade Muçulmana está no poder no Egito, afirma na primeira página o jornal Maariv.	expl:pv
+rain-s1992	A festa começou por volta das 9h e se estendeu até o final da tarde.	obj
+rain-s1999	Não sei se vai querer me ver em dois meses, mas nos divertimos.	mark
+rain-s2005	O profeta Elias leva quarenta dias para chegar ao monte Horeb, onde se encontra com Deus (1 Rs 19, 8).	expl:pv
+rain-s2006	O júri que definiria se Sombra deve ou não ser condenado pelo crime estava previsto para ocorrer no primeiro semestre de 2013.	mark
+rain-s2008	Finalizada esta atuação, procedeu - se à votação por parte dos jurados e dos colegas.	expl:pv
+rain-s2014	A líbero Fabi, as meio - de - rede Thaísa e Fabiana, a oposto Sheilla e as pontas Paula e Jacqueline, todas elas campeãs quatro anos atrás, tornam - se as primeiras mulheres bicampeãs olímpicas da história do país.	nsubj
+rain-s2021	Estende - se por uma área de 14,74 km ².	expl:pv
+rain-s2051	Ele foi encontrado morto numa sala de aula e, segundo a mesma fonte, se suicidou.	expl:pv
+rain-s2061	Estende - se por uma área de 29,34 km ².	expl:pv
+rain-s2082	Soltz alega que Xuxa se apropriou dos personagens dele na criação da Turma da Xuxinha, na ocasião da comemoração dos 500 anos de descoberta do Brasil.	expl:pv
+rain-s2088	Citou ações do governo federal na área e afirmou que o projeto é falho ao não dividir entre União, estados e municípios os porcentuais para se alcançar a referida meta de 10 %.	expl:pv
+rain-s2093	O Sta Paula eu acompanhei da série bronze até a série ouro, mas a falta de apoio do empresariado local para com o esporte local é muito grande, e sem patrocínio ninguém consegue se manter.	obj
+rain-s2099	Um homem, que aparentava ter 25 anos, tirou a roupa e iniciou uma caminhada pelo canteiro central da Avenida Hermes Fontes, na Zona Sul de Aracaju (SE), na manhã desta sexta - feira (05).	appos
+rain-s2100	Por isso, o assessor de Imprensa do Bahia, Jayme Brandão, se apressou em esclarecer o problema liberando para a imprensa uma entrevista com o artilheiro Souza, que falou sobre o triunfo, o gol que marcou e, principalmente, o porquê dos seus gestos na comemoração.	obj
+rain-s2104	A explicação é que ao se regularizarem como micro ou pequena empresa, os produtores perdem a condição de segurado especial da Previdência Social.	obj
+rain-s2106	Dando continuidade as ações do Proerd (Programa Educacional de Resistência ás Drogas e a Violência) no município de Juína, policiais militares se deslocaram na tarde de quarta - feira (03.10), até a escola 21 de Abril no Bairro Padre Duílio, onde realizaram mais uma palestra de prevenção ás drogas para os alunos do ensino fundamental.	obj
+rain-s2108	Após o surgimento da Internet e de novidades tecnológicas em crescente expansão no mercado, ter inteligência na identificação de ameaças virtuais se torna uma das necessidades básicas de empresas que atuam em diferentes segmentos.	expl:pv
+rain-s2118	Obama sempre deixou claro que se opõe à lei, aprovada em 2010, e que ganhou versões noutros estados.	obj
+rain-s2136	Assim se explica como os lombardos não encontraram uma grande resistência.	expl:pv
+rain-s2152	O ministro revisor do mensalão, Ricardo Lewandowski, defendeu, nesta quinta - feira (6), a tese de que os deputados condenados no mensalão somente podem perder os mandatos se o plenário da Câmara votar pela cassação dos parlamentares.	mark
+rain-s2171	Estende - se por uma área de 4,65 km ².	expl:pv
+rain-s2179	Se cultivarmos esse tipo de filosofia, entendendo sempre que o mais importante é SER e não TER, é um bom caminho para frearmos essa sociedade consumista que vemos estampadas todos os dias por aí.	mark
+rain-s2183	As únicas luzes que você vê são as dos veículos nas ruas se dirigindo para terrenos mais altos, disse um repórter de rádio na cidade de Borongan após o tremor.	obj
+rain-s2185	As condições de navegação na Lagoa dos Patos podem tornar - se desfavoráveis sob condições de ventos fortes, principalmente para embarcações de pequeno e médio porte.	expl:pv
+rain-s2191	Preso na Alemanha por ter incendiado sua própria casa em Munique, o zagueiro Breno, ex - jogador do São Paulo, recebeu na manhã desta terça - feira (07) a visita da sua esposa Renata, que ficou desesperada ao ver a situação em que o jovem jogador, de apenas 22 anos, se encontra dentro da cadeia.	expl:pv
+rain-s2195	Eisner então se tornou Ministro - presidente da Baviera.	expl:pv
+rain-s2198	E esta lei aplica - se igualmente a outras formas de discriminação como religiosa ou racial.	expl:pv
+rain-s2214	Mesmo com a presença de Evra e a cobertura de Vidic, dois titulares, o Everton levava vantagem com o lateral Hibbert se juntando a Osman contra o lateral francês, que apenas eventualmente contava com a ajuda de Welbeck na recomposição.	obj
+rain-s2219	Cachoeira e Andressa se casaram no dia 28 de dezembro numa cerimônia no condomínio de luxo onde moram, em Goiânia.	expl:pv
+rain-s2233	Provavelmente ele se feriu quando entrou em luta corporal com uma das pessoas que foram cumprir o mandado judicial, disse Pignatari.	obj
+rain-s2244	Se assim for, esse marco passado volta à memória em dado momento.	mark
+rain-s2271	As artes marciais mistas, mais conhecidas pela sigla em inglês MMA, reúnem técnicas de diversas lutas, entre elas o jiu - jítsu, o boxe, o judô, o caratê, o kickboxing, o muay thai e o wrestling, luta que usa basicamente o agarramento, arremessos e derrubadas e que é um dos esportes mais antigos de que se tem conhecimento.	nsubj
+rain-s2304	Hissa Abrahão, que havia se lançado candidato a prefeito foi o primeiro a discursar, exaltou a parceria com Arthur Neto.	nsubj
+rain-s2314	O Buffet Infantil Week encerrou no dia 23 de setembro e a segunda edição deve ocorrer em Março de 2013, pois o planejamento é que o evento seja realizado pelo menos duas vezes ao ano, se estendendo também para o ABC paulista e outras cidades do Brasil.	expl:pv
+rain-s2315	Ele se emocionou ao dizer o quanto é importante para ele estar representando o País em sua primeira Olimpíada e afirmou que a seleção irá brigar com todas as forças pela medalha.	obj
+rain-s2317	Nós chegamos a conclusão de que não se precisaria dum ovário inteiro.	nsubj
+rain-s2318	O Outlook ajuda você a encontrar e organizar informações para que se possa trabalhar sem falhas com aplicativos do Office.	expl:pv
+rain-s2320	Carrie contou ainda que foi encorajada por amigos de Harry a se comportar mais escandalosamente.	expl:pv
+rain-s2331	Mesmo que a radioterapia elimine a maioria das células cancerígenas por danificar o DNA e a induzi - las à morte, as poucas restantes podem sofrer mutações que as tornam imunes aos efeitos da radiação e aumentam sua capacidade de se reproduzir.	obj
+rain-s2333	É um tema complicado para o leigo, alerta ele, mas de forma simplificada pode - se dizer que o cirurgião opera um paciente quando conclui que mais de 15 % do músculo cardíaco vai sofrer.	expl:pv
+rain-s2358	Para Correia, do Insper, se o Brasil mantivesse uma média de crescimento anual ao redor de 3 %, conseguiria, pouco a pouco, reduzir a distância para as economias mais bem colocadas no ranking.	mark
+rain-s2387	Mas se foi dado pelo Ministério Público, vou ler.	mark
+rain-s2394	Aposentou - se no Independiente Medellín, num amistoso contra o Boca Juniors, em 1961, onde ele participou tanto como jogador quanto como treinador.	obj
+rain-s2398	Os gastos com benefícios a servidores se mantiveram estáveis em 2011, quando comparado com 2010.	nsubj
+rain-s2410	Anderson também se correspondeu com George Washington.	expl:pv
+rain-s2420	Conforme funcionários do hospital, o homem chegou ao local por volta das 11h acompanhado duma moça, que se identificou como namorada do paciente.	obj
+rain-s2424	O ASA venceu o América - MG na última terça - feira, em pleno estádio Independência, e ficou muito próximo de se garantir matematicamente na Série B em 2013.	obj
+rain-s2435	Acho que isso é uma prova convincente de que essa tecnologia (se converterá numa terapia) para pessoas com lesões na espinha dorsal.	expl:pv
+rain-s2439	cadáveres, lixo, detritos, todo o tipo de sujidade e imundice se instalara pela cidade.	expl:pv
+rain-s2440	Posteriormente, mudou - se para Nova York e fez filmes para a Pathé, Casino e Edison Studios.	expl:pv
+rain-s2441	Denomina - se oblíquo quando não é um cone reto, ou seja, quando o eixo é oblíquo ao plano da base.	expl:pv
+rain-s2464	A partir de então, o cumprimento da norma praticamente se tornou impossível, porque ninguém podia definir onde terminava a conversação e começava a amizade.	expl:pv
+rain-s2468	Ninguém faz frente por decreto, o importante é que se preserve o conteúdo das propostas que nos unem , afirmou o governador.	expl:pv
+rain-s2476	O DNS (Sistema de Nomes de Domínio, na sigla em inglês) converte um endereço amigável para um protocolo IP, endereço numérico que os computadores usam para se comunicar entre si.	obj
+rain-s2484	já se documentou que um Volvo P1800 de 1966 dirigiu mais de 2.8 milhas e esse marco foi registrado no Livro Guinness dos Recordes como o veículo não comercial com o maior número de milhas dirigidas por um único proprietário.	expl:pv
+rain-s2485	O resultado é o musical Bandeira de retalhos, que faz temporada gratuita de hoje ao dia 23 no Casarão, sede do Nós do Morro, transferindo - se no dia 29 para o Planetário da Gávea.	obj
+rain-s2491	Com um belo desempenho no carnaval 2009 a Acadêmicos de São Francisco conquistou o título do carnaval sebastianense sagrando se penta campeão num desfile perfeito, com belas esculturas dando inicio a um nivel de campeã.	expl:pv
+rain-s2493	O campus principal encontra - se em Baton Rouge, a capital daquele estado, e é considerado um dos campi mais bonitos dos Estados Unidos, com grandes carvalhos seculares muitos deles adotados por famílias que contribuem para a sua consevação e magnólias, que é a flor símbolo da Louisiana.	expl:pv
+rain-s2495	Gabrielle e um polícia à paisana, Roy, entram no quarto de Ellie para colocarem microfones escondidos, mas Ellie regressa pois se esqueceu da sua carteira, e Gabrielle e Roy fingem estar envolvidos num caso amoroso para a enganarem.	expl:pv
+rain-s2500	O paralítico do Evangelho (Mc 2,1-12) se identifica, por assim dizer, com sua deficiência.	obj
+rain-s2505	Trata - se duma obra imponente pelo volume e pelos ensinamentos compilados, 861 páginas de textos e ensinamentos e mais um índice de referências com 218 páginas, possuindo trinta e dois capítulos, cada um que discute o simbolismo filosófico de cada grau da maçonaria em detalhes.	expl:pv
+rain-s2511	O BC vem afirmando que grande parte desse endividamento se refere ao crédito imobiliário, que é uma dívida de longo prazo e com baixa inadimplência.	expl:pv
+rain-s2530	Aliás, pode - se até dizer que o Timão dominou o pódio, já que o zagueiro David Luiz ficou com a Bola de Prata.	expl:pv
+rain-s2538	Ao tornar - se uma das empresas signatárias fundadores dos PSI, a SulAmérica reforça seu compromisso com o desenvolvimento sustentável.	expl:pv
+rain-s2542	Em 1940, encontra - se entre o vasto leque de artistas modernistas convidados pelo arquitecto Cottinelli Telmo para a decoração dos pavilhões da Exposição do Mundo Português.	expl:pv
+rain-s2552	Trata - se de alterar a poção de várias formas, até que fique duma certa cor.	expl:pv
+rain-s2557	O primeiro a se interessar foi o Botafogo, que desistiu após a negociação ser vetada pelo técnico Oswaldo de Oliveira, que não via o centroavante como o nome ideal para o ataque do time.	obj
+rain-s2559	Então é muito triste você ver uma pessoa perder algum dedo, um pé, uma perna, o que seja, sabendo que se fossem tomadas algumas medidas um pouco antes, isso poderia ter sido completamente evitado , ressaltou.	mark
+rain-s2561	Tem dois clubes que estão para responder se participarão ou não.	mark
+rain-s2568	Por volta de 1587, o Escrivão José Pedro da Costa (seu sobrenome se justificava por morar em Lisboa, de costa para o rio Tejo), lisboeta de nascimento, baixinho com altura dum metro e cinquenta centímetros, ingressou na para essa carreira por falta de opção.	expl:pv
+rain-s2573	Com 44 pontos, o time de Seattle ocupa terceira posição na Conferência Oeste cinco das nove equipes em cada conferência se classificam para os play - offs.	obj
+rain-s2582	Os analistas foram rápidos em apontar as semelhanças entre o golpe militar líbio de 1969 e com o Egito sob Nasser em 1952, e tornou - se claro que a experiência do Egito e a figura carismática de Nasser havia formado o modelo para o Movimento dos Oficiais Livres.	expl:pv
+rain-s2584	O objetivo, segundo a secretária municipal de Agricultura, indústria e Comércio Neire Colmam, é informar aos produtores de soja, milho e também aos pecuaristas as vantagens de se produzir cana - de - açúcar, tendo a atividade como opção de diversificação da atividade rural.	expl:pv
+rain-s2597	Outro problema seria uma falha de redação: se é ex-cônjuge ou ex-companheiro, como diz a lei, então o fim da união estável já foi decretado, não havendo, portanto, abandono de lar.	mark
+rain-s2604	Ao comentar a decidão de não convocação de Pagot e Cavendish, Dias se disse forçado a acreditar que as especulações sobre a orientação política da CPI do Cachoeira no sentido de não aprofundar as investigações, eram realmente procedentes.	nsubj
+rain-s2625	Alternativamente, se A é uma matriz diagonalizável, então o seguinte prova o mesmo resultado: Seja λ1, λ2, ..., λm os m autovalores da e seja v1, v2, ..., vm os correspondentes autovetores.	mark
+rain-s2645	Nina perguntou se ela também a perdoou já que transformou sua vida num inferno.	mark
+rain-s2667	No PAM, o supervisor se apresentou assim que soube do ocorrido.	obj
+rain-s2668	Em toda e qualquer estação, o mundo da moda sempre chega antes, dando dicas de como se vestir.	obj
+rain-s2671	Se for confirmado o uso de entorpecentes, vou encaminhar o caso para o Ministério Público e chamar as famílias, Lenon Fontes disse ainda que nessas circunstâncias os pais podem perder a guarda da menina.	mark
+rain-s2672	Ele sinaliza que pretende se candidatar ao Senado.	obj
+rain-s2694	O Diretor do Departamento de Polícia Especializada Elizeu Muller de Siqueira destacou que as investigações continuam e que o intuito da Polícia Civil é saber se há mais integrantes que compõe a quadrilha, como foram obtidos os uniformes da PM e quais foram os outros possíveis crimes que a quadrilha cometeu.	mark
+rain-s2696	A dúvida sobre qual das artes podia melhor representar a natureza, por outro lado, se tornou de grande relevo para a crítica na definição das especificidades de cada arte, mas cada uma delas, ao mesmo tempo, passou a buscar uma expansão em seu potencial, imitando efeitos próprios a outras categorias.	expl:pv
+rain-s2738	Na tarde de quarta - feira (2), a vereadora apareceu na Santa Casa de Misericórdia, demonstrando - se atordoada.	nsubj
+rain-s2769	O francês responsável por roubar a medalha de ouro dos Estados Unidos no 4x100m livre e que no dia seguinte se tornou campeão olímpico dos 200m livre, estará na raia ao lado do brasileiro.	expl:pv
+rain-s2783	Apesar de Ohio State, eles se encontraram Jerry DePizzo, de Youngstown, Ohio.	expl:pv
+rain-s2788	Hoje, o local encontra - se praticamente abandonado.	obj
+rain-s2795	O elenco de Amor Eterno Amor está se dedicando às últimas gravações da novela entre hoje (quarta, 05) e amanhã (quinta - feira, 06).	expl:pv
+rain-s2800	A alguns quilômetros de San Gil, o Fonce se encontra com o rio Suárez, cujo lance navegável recebe máxima qualificação, entre quatro e cinco.	obj
+rain-s2801	Disse ter percebido que a situação estava sob controle ao chegar perto de Fernandão e de Dátolo e que, ao entender que não era necessário estar ao lado do companheiro, se afastou.	obj
+rain-s2813	Nessa pesquisa, mesmo que a pessoa escreva numa ortografia ou outra, se a pronúncia for a mesma, ela chegará à informação desejada.	mark
+rain-s2829	Por mais que se alegue que não há má fé (o que é discutível, visto que eles permitiram o uso da marca pela Apple), o prejuízo para o consumidor é motivo suficiente, na minha opinião, para proibir o uso da marca pela Gradiente, mesmo ela sendo a proprietária.	expl:pv
+rain-s2848	Em 2001, tornou - se pesquisador da Universidade Aberta da Catalunha em Barcelona.	expl:pv
+rain-s2859	E o novo treinador da equipe mineira, Marcelo Oliveira, se mostrou interessado em reaver o jogador.	obj
+rain-s2860	Aliviada após as disputas, Daiane mandou um recado para a coordenadora de Seleção da Confederação Brasileira de Ginástica (GBGin), Georgette Vidor, apesar de não admitir que se referia à dirigente.	expl:pv
+rain-s2861	O soldado teria se incomodado com o som de música funk vindo dum bar e, após ser descoberta sua função, executado.	expl:pv
+rain-s2864	Ele diz que servidores, técnicos e professores negociam pautas diferentes, no entanto concorda que a provavelmente a greve não será interrompida se somente os docentes forem atendidos pelo governo.	mark
+rain-s2867	Já o Botafogo, com 23, desperdiçou a chance de se aproximar do pelotão de frente.	obj
+rain-s2868	Estende - se por uma área de 30,05 km ².	expl:pv
+rain-s2872	As chuvas que caem sobre o Rio Grande do Sul desde o último sábado, causando alagamentos e transtornos nalgumas regiões, devem se unir ao vento forte entre a quarta (19) e a quinta - feira (20), de acordo com a Climatempo.	expl:pv
+rain-s2873	A norte, perto da fronteira com a Costa do Marfim, estende - se uma faixa de floresta tropical úmida interrompida por colinas densamente florestadas e muitos rios e ribeiros.	expl:pv
+rain-s2876	A direção comunista salientou que a investigação e o tratamento das graves violações cometidas por Bo mostram que o patido combate a corrupção e é rigoroso com seus membros e dirigentes no que se refere ao conceito de governança do país de acordo com a lei.	expl:pv
+rain-s2879	Ele foi inicialmente usado em conjunto com um transmissor Bluetooth intermediário que se conectava à uma saída de áudio padrão e codificava o áudio de entrada para um formado compatível com Bluetooth, que era assim enviado por sinais sem fio para fones de ouvido Bluetooth que decodificavam e executavam o áudio.	expl:pv
+rain-s2884	Antecipou sua autocrítica perante o plenário do Parlamento do país: Nós, os espanhóis, não podemos escolher se vamos fazer ou não vamos fazer sacrifícios.	mark
+rain-s2888	Rezende disse que as operadoras vencedoras do leilão de 4G comprometaram - se a compartilhar as torres.	expl:pv
+rain-s2893	Consegui fazer isso, agora espero que as portas se abram para a ginástica do Brasil , apontou o campeão, em entrevista nos estúdios do Terra em Londres.	expl:pv
+rain-s2898	O atleta paulista, de 39 anos, tornou - se o maior medalhista olímpico do Brasil, com dois ouros, duas pratas e um bronze, mesmo número de medalhas do também velejador Torben Grael, que tem dois ouros, uma prata e dois bronzes.	expl:pv
+rain-s2952	Uma voz se ouviu do céu falar com a Virgem Santíssima, então oito homens acreditaram em Cristo e cairam de joelhos diante de Santa Tatiana, implorando - lhe que perdoasse os seus pecados.	expl:pv
+rain-s2970	Para se inscrever, o artista deverá ser residente no município de Paulínia, preencher a ficha e apresentar cópias dos seguintes documentos: RG, CPF, Titulo de Eleitor e comprovante de endereço.	obj
+rain-s2988	Sempre tivemos isso, pois queremos que nossas histórias sejam enraizadas na realidade, como se elas pudessem acontecer no mundo em que vivemos , disse Goyer.	fixed
+rain-s3001	Ao saber sobre a morte, José Anacleto da Silva, pai da vítima, dirigiu - se ao local do crime e revelou que o filho havia deixado de usar drogas há três meses e que o jovem não costumava cultivar inimizades.	obj
+rain-s3023	Já não se viam mais a boas trocas de passes e as oportunidades claras de gol, mas sim jogadores indo ao chão e muita reclamação.	expl:pv
+rain-s3039	Foi então, que ele bateu na porta e disse que Deus havia dito a ele que eu seria sua esposa e que ele iria se casar comigo.	obj
+rain-s3046	Ele começou sua carreira cantando na rádio Dirceu de Marília, no Estado de São Paulo, e logo se tornou apresentador dum programa infantil.	expl:pv
+rain-s3063	Mas nem tudo o que se vê na propaganda eleitoral deles está de acordo com a lei.	expl:pv
+rain-s3072	Situa - se a cerca de treze quilómetros da sede do Concelho Vinhais.	expl:pv
+rain-s3079	Não podemos mais desperdiçar pontos em casa para se manter no pelotão da frente , continuou ensinando.	obj
+rain-s3083	Hoje, ao idealizar uma cozinha, já se pensa em deixá - la aos olhos das visitas, explica.	expl:pv
+rain-s3097	A apresentação do orçamento no Parlamento foi antecedida duma reunião entre o governo e a troika e também duma outra entre o primeiro ministro Samaras e a poderosa associação dos armadores, onde se congregam as maiores fortunas do país e cujos titulares são conhecidos pelas isenções e fugas aos impostos.	expl:pv
+rain-s3099	Com o decorrer do tempo a Fazenda do Alegre passou a servir de apoio às embarcações que se dirigiam à Vila Rica (atualmente Ouro Preto) e cidades vizinhas.	expl:pv
+rain-s3103	Maria e Bertoni aproveitam a imprensa para se promover.	obj
+rain-s3110	Me parece que em nível sistêmico tudo ocorreu adequadamente, mas a gente sempre verifica para ver se tem alguma coisa para acontecer , disse o diretor do ONS.	mark
+rain-s3111	Entre os principais estabelecimentos de ensino gaúchos destacam - se a Universidade Federal do Rio Grande do Sul e a Pontifícia Universidade Católica do Rio Grande do Sul, ambas na capital;	expl:pv
+rain-s3131	Assange se refugiou na embaixada do Equador no Reino Unido em 19 junho deste ano.	obj
+rain-s3153	Ainda não se sabe donde partiram os tiros que atingiram a moradora, embora PMs do 41 º BPM (Irajá) aleguem que os disparos foram feitos por criminosos.	nsubj
+rain-s3157	A agropecuária se destacou em 2011 como o setor que mais cresceu no Brasil foram 3,9 %, ante o aumento de 1,6 % da indústria e 2,7 % de serviços;	expl:pv
+rain-s3161	Houve um crescimento de 6 %, se comparado ao mesmo período de 2011.	mark
+rain-s3165	Nesta casa ela se reencontrará com Keisuke Haibuki que é apaixonado por ela desde o ginasial.	expl:pv
+rain-s3176	Integrou a Seleção Brasileira de Voleibol Feminino que sagrou - se medalha de ouro na Olimpíada de Londres 2012.	expl:pv
+rain-s3182	Com o posterior declínio da Polônia e a crise na produção de grãos que se seguiu ao Dilúvio, as batatas começaram a substituir o tradicional uso dos cereais.	expl:pv
+rain-s3201	Se encontrarmos bons sócios, com experiência em refino coisa que não temos certamente sentaremos para conversar.	mark
+rain-s3207	O programa fala de como é distribuição das oficinas dentro do Caje e eles queriam dizer que acham preconceituosa a forma como a mídia se refere a eles.	expl:pv
+rain-s3210	No próximo domingo, dia 26 de agosto, data em que se comemora o aniversário de 113 anos de Campo Grande, haverá uma extensa programação.	expl:pv
+rain-s3229	Eduardo e Taís também se divertem com Socorro Paquetá.	obj
+rain-s3232	Quando chega em casa lê embaixo dela uma nota que diz Se você leu esta mensagem em voz alta e colocou chocolate quente na caneca, uma fada do amor (muglox) aparecerá e realizará todos os seus desejos.	mark
+rain-s3233	Certifique - se de que inseriu sua principal conta de e - mail.	obj
+rain-s3255	A utilização das pentoses também poderá se dar no uso em aplicações biotecnológicas, em alimentos e medicamentos, agregando valor comercial ao bagaço.	expl:pv
+rain-s3256	BRASÍLIA, DF, 18 de dezembro (Folhapress) Por telefone, a presidente Dilma Rousseff desejou na tarde de hoje que o colega da Venezuela, Hugo Chávez, se recupere rapidamente da quarta cirurgia contra o câncer.	expl:pv
+rain-s3271	Se ao longo da vida política (ou seja, a vida toda, pois o político morre político) ele ter e vivenciar a sua missão, cada vez mais ele fortalecerá a sua imagem perante a população.	mark
+rain-s3282	Acho que qualquer cristão deve passar seu tempo rezando antes de se recusar a votar num homem de família com valores morais, experiência em negócios, que é contra o aborto e que, na convicção cristã, tem preocupações sobre o homossexualismo, argumenta a mamãe Pitt em sua carta.	expl:pv
+rain-s3292	Fundada em 1970 por João Uchôa Cavalcanti Netto, com a implantação do curso superior de Direito, tendo - se convertido em universidade no ano de 1988.	expl:pv
+rain-s3300	Assim, como defendido por Argyris (1999), o processo de aprendizagem dá - se pelo conhecimento tácito, sendo esta a chave da administração.	expl:pv
+rain-s3324	Eu não tenho que falar nada e se soubesse, também não falaria para vocês (imprensa) ressaltou.	mark
+rain-s3328	Mais tarde, tornou - se caixeiro viajante, percorrendo o território americano, depois como motorista de táxi nas cidades de Nova Orleans e Dallas.	expl:pv
+rain-s3350	Não se pode determinar dum modo absoluto o caráter de cada tom, pois isso depende de reações subjetivas de cada indivíduo.	expl:pv
+rain-s3358	E mais, se proibir, ai que vai piorar tudo.	mark
+rain-s3360	A FIM (Federação Internacional de Motociclismo) anunciou que criará um sistema de punição aos pilotos que se envolverem em problemas disciplinares nas provas da MotoGP, 2 e 3 a partir do próximo ano.	obj
+rain-s3362	Fumando um charuto no bar dum hotel de luxo na capital paulista, o ex - deputado disse estar sereno com o processo e pediu que os ministros do STF não se contaminem pelo sentimento político criado pela aproximação do término do processo na justiça.	expl:pv
+rain-s3363	Muitas brasileiras têm oferecido seus serviços em sites internacionais e se dizem dispostas a viajar para países em que a prática é permitida, e algumas já moram no exterior.	expl:pv
+rain-s3371	O esquimó dá a mulher dele para dormir com os visitantes e ainda acha que, se o visitante não aceitar, é um destrato com ele.	mark
+rain-s3373	Com a acção de Tossa de Mar, foram assim lançadas as bases para o desenvolvimento do conceito de cidade antitouradas, que se espalhou por várias outras cidades.	expl:pv
+rain-s3375	Logo após, é preciso espalhá - la sobre uma superfície quente, até formar uma pasta de aproximadamente trinta centímetros de diâmetro, que deverá ser assado até se tornar beiju.	expl:pv
+rain-s3389	Isso seria possível porque a eliminação dos dois tributos se refletiria na queda dos preços dos alimentos e, portanto, elevaria a renda da população.	obj
+rain-s3406	A comédia não convencional Intocáveis, sobre um milionário tetraplégico e seu cuidador ex - presidiário, transformou - se no maior sucesso do cinema francês, dentro e fora da França.	obj
+rain-s3408	Nesse primeiro encontro vamos conversar sobre os possíveis projetos que desenvolveremos e desde já convido os colegas que tenham interesse em compor nossa comissão para se juntar a nós, acrescentou Luiz Assumpção.	obj
+rain-s3437	Diversas autoridades estão no Palácio para se despedir de Niemeyer e cumprimentar os familiares.	expl:pv
+rain-s3448	É bom destacar que receber honorários não é crime, mas se as contas apresentadas tiverem sido fraudadas, a coisa vai feder, principalmente para ex e atuais dirigentes do Sintero.	mark
+rain-s3450	No segundo jogo, a seleção bateu a Colômbia por 7 a 1 e se classificou para o confronto que definiria o classificado do grupo.	obj
+rain-s3475	Investidores estão apostando que a TAM, que responde por mais de 50 por cento da receita da Latam, vai se beneficiar da tentativa da controladora de entrar para o grupo de três únicas companhias aéreas do mundo com grau de investimento: Qantas, Southwest Airlines e Deutsche Lufthansa AG.	expl:pv
+rain-s3476	Já outros jogadores estão se despendindo	obj
+rain-s3479	Agora estou preocupada se vão me entregar o documento.	mark
+rain-s3502	Baseados no equívoco de que quem traça as políticas, sejam quais forem, são os economistas, os técnicos, os cientistas e não os governantes, muitos deles e não os menos capazes, diga - se ainda esperam que seus institutos façam algumas coisas.	expl:pv
+rain-s3504	No total, cerca de 140 jogadores prestigiaram a competição, onde se destacaram os donos da casa e também os representantes da Sogipa, ambos com quatro vitórias na classificação geral.	expl:pv
+rain-s3511	A Avenida Miguel Sutil foi transformada num enorme buraco onde, há mais de vinte dias, não se vê nenhum operário trabalhando no trechão da entrada do Hospital Jardim Cuiabá trevo do bairro Santa Rosa.	expl:pv
+rain-s3522	Muita gente foi afetada, se atrasou, mas a maioria compreendeu e nos deu apoio, disse o líder sindical.	expl:pv
+rain-s3555	Se a população fosse consultada, jamais a gente teria insistência no modelo rodoviário, jamais o transporte para a zona oeste seria sobre rodas, mas sobre trilhos.	mark
+rain-s3563	O venezuelano fez o tratamento em Cuba e disse ter se apegado à fé cristã para superar a doença.	obj
+rain-s3566	O Tocantins não se destaca apenas por estar entre os 40 estandes instalados no campus da UFRGS (o segundo, a partir da entrada para o evento) pelos , mas, sobretudo pelos trabalhos importantes que retratam as experiências vividas no Estado.	obj
+rain-s3573	Ninguém foi preso pelo crime e não se sabe qual a motivação dos disparos.	nsubj
+rain-s3576	Deve - se jogar no lixo todo objeto que possa acumular água, como potes, latas e garrafas vazias.	nsubj
+rain-s3584	Se a pessoa está bem, sem sintomas, não precisará utilizá - los.	mark
+rain-s3585	Ele mesmo se encarregou de fazer o terceiro, aos 15, aproveitando passe de Tello e vacilo da defesa do Real Sociedad.	obj
+rain-s3590	A primeira corresponde à encosta dissecada do Planalto onde se estabeleceram alemães e italianos;	expl:pv
+rain-s3603	Felipão pretende continuar morando em São Paulo, ao contrário do que ocorreu com Mano Menezes, que se mudou para o Rio de Janeiro.	obj
+rain-s3617	Encantor sempre se uniu a diferente parceiros e aliados nas tentativas de prejudicar o Deus do Trovão.	obj
+rain-s3622	Ainda segundo os operários, algumas aves estão se alimentando das espécies que ficaram boiando.	obj
+rain-s3625	Mantido pelo empresariado, sua atuação se pauta pela legislação específica: a Lei 11.788/2008 para o estágio e a Lei 10.097/2000 para a aprendizagem.	obj
+rain-s3628	Entretanto, o fato da vistoria teria se espalhado e abalado a reputação da empresa.	expl:pv
+rain-s3635	Imediatamente após o parto a criança passa por extensas modificações fisiológicas à medida que se habitua à sua respiração independente.	obj
+rain-s3654	Ainda não pensei se vou procurar emprego como cabeleireira ou camareira.	mark
+rain-s3665	Frizzo se reuniu com o elenco para uma conversa nesta terça, mas, segundo ele, não foi para falar sobre o tal ato de indisciplina.	obj
+rain-s3669	Situa - se a poucos quilômetros de Putrajaya, que é a nova capital administrativa, e forma com ela o centro do Multimedia Super Corridor.	expl:pv
+rain-s3670	Deste lance, aos 6, até o primeiro gol, passaram - se 15 minutos de futebol pouco vistoso.	expl:pv
+rain-s3680	De acordo com o avô de Timmy, Pappy, o original Chip Skylark foi um famoso cantor nos anos 20, e o cantor pop que geralmente se apresenta em séries do seu neto.	expl:pv
+rain-s3686	Provavelmente essa diferença se deve ao fato de que na capital as pessoas aderiram mais às campanhas antifumo e hoje bebem menos do que antigamente.	expl:pv
+rain-s3731	Porém, com o tempo foram se desgastando, havendo a necessidade de sua recuperação em 2007.	expl:pv
+rain-s3765	Esta tarde, estudantes da UFPE reunem - se na Praça do Derby.	obj
+rain-s3768	Vamos tentar, mas não perderemos a direção se não conseguirmos.	mark
+rain-s3812	Se fizer bem feitinho, não dá problema, disse.	mark
+rain-s3819	Tinha um pouco duma mulher do baile, um pouco da puta que eu fui conhecer, mais um pouco da mulher que não faz programa, mas se vende.	obj
+rain-s3840	Sempre buscando se posicionar bem, Luis Fabiano ainda tentou mais uma vez num cruzamento de Osvaldo, mas Bruno novamente apareceu bem.	nsubj
+rain-s3848	Sheldon se corrompeu quando fazia uma operação na ilha de Panau.	expl:pv
+rain-s3850	Pode - se gostar mais ou menos do que está na tela, mas O ditador tem um problema grave: falta humor.	expl:pv
+rain-s3861	Com relação ao roubo de provas, isso é um crime, não é um problema de gestão ou logística , disse, referindo - se a episódio de 2009 em que provas do Enem foram roubadas na gráfica que imprimiu o exame.	expl:pv
+rain-s3873	O indulto é uma segunda chance para quem se mostra capaz de retornar ao convívio social.	expl:pv
+rain-s3878	Assim, pode se dizer que a pergunta sobre o que será quando crescer trará uma ponderação e planejamento que minimizem conflitos, sofrimentos e doenças psicológicas na vida idosa.	expl:pv
+rain-s3908	Estende - se por uma área de 13,77 km ².	expl:pv
+rain-s3909	As remunerações são baixíssimas, especialmente se levarmos em consideração a responsabilidade que a atividade médica envolve.	mark
+rain-s3912	Ou seja, é mais fácil lembrar - se do produto anunciado em propagandas livres de conteúdo sexual.	expl:pv
+rain-s3926	Até que em 2011 a cantora Tifanny deixou escapar que Jonathan Knight revelou - se homossexual após seu namoro com ela.	expl:pv
+rain-s3932	Cogitou - se a princípio que era utilizado para realizar contagens, porque há uma série de traços talhados, divididos em três colunas, ao longo de todo o comprimento da ferramenta.	expl:pv
+rain-s3951	Consideram - se compostos combustíveis, para os efeitos desta Lei, os hidrocarbonetos líquidos, sólidos ou gasosos como o óleo diesel, álcool hidratado, gasolina, gás liquefeito de petróleo GLP, gás natural veicular GNV, querosene, aguarrás, benzina, solventes em geral e carvão.	nsubj
+rain-s3957	Oh foi o terceiro atleta classificado para as Olimpíadas pela Coréia do Sul, mas se aproveitou das eliminações de Dong - Hyun e Kim Bubmin para manter o favoritismo do País e faturar sua primeira medalha olímpica desde que começou a participar da competição ele já havia estado em Sidney, 2000, Atenas, 2004, e Pequim, 2008.	expl:pv
+rain-s3970	O advogado de João Paulo Cunha, Alberto Toron, argumenta que o STF não pode antecipar o cumprimento duma pena que pode não se confirmar.	expl:pv
+rain-s3971	Ela afirma que o que mais causou indignação foi o fato da direção não ter avisado com antecedência e se negado a justificar os motivos.	expl:pv
+rain-s3993	Ataliva Roca encontra - se a 45 km da capital da província.	expl:pv
+rain-s4007	Ainda não se sabe qual será o segundo ponto.	expl:pv
+rain-s4009	Seguindo esta tendência, o índice S &amp; P 500 valorizou - se 1,15 % a 1.447 pontos, da mesma forma, o índice Dow Jones, que mede o desempenho das 30 principais blue chips norte - americanas, subiu 0,87 % a 13.351 pontos.	expl:pv
+rain-s4010	Imagem que nos leva a gastar o que não temos e comprar inutilidades apenas, apenas, para impressionar pessoas que pouco se importam conosco.	expl:pv
+rain-s4037	A cidade proporciona fácil acesso aos portos de Belém e de Vila do Conde e ao sul do Pará, além de ser próxima ao Polo Industrial na Vila dos Cabanos, que se localiza a 30 km.	expl:pv
+rain-s4056	Quando a conexão abandona o provedor de origem e cai noutro provedor, qualquer priorização é perdida, exceto se houver algum acordo comercial ou técnico para mantê - la.	fixed
+rain-s4061	Não sei para onde iam me levar , acrescentou ele, que não soube dizer se o guarda que o derrubou estava entre os que o agrediram.	mark
+rain-s4079	Resolveu - se adotar como verdade de fé a doutrina proposta por Cirilo, concedendo a Maria o título de Mãe de Deus, e os nestorianos foram considerados hereges.	expl:pv
+rain-s4087	No topo você vê se é bom ou não.	mark
+rain-s4088	No mesmo ano em que parou de jogar, tornou - se técnico da Seleção Iugoslava, permanecendo no cargo, até 2003, já da Seleção Servo - Montenegrina.	expl:pv
+rain-s4107	Está numa região de contato entre as fitofisionomias Savana e Formações Pioneiras, localiza - se na Bacia do rio Araguaia, inteiramente no bioma Cerrado.	expl:pv
+rain-s4123	Armstrong sempre negou ter usado substâncias proibidas durante sua carreira brilhante, mas se recusou a questionar as acusações da Usada.	obj
+rain-s4140	Estende - se por uma área de 52,08 km ².	expl:pv
+rain-s4146	O presidente Café Filho esteve no município, desfilando pela Avenida Paraná, assim como a futura deputada federal Edna Lott, em campanha pelo pai à presidência da República, apresentando - se na Arol, a Associação Recreativa e Operária Londrinense, um clube de afrodescendentes.	obj
+rain-s4152	No vácuo, \ kappa vale 1 e \ epsilon = \ epsilon_ {0}, e a equação acima se torna a mesma da encontrada para a densidade de energia no vácuo.	expl:pv
+rain-s4161	Após um encontro preparatório no Cairo, delegações de 25 países reuniram - se em Belgrado de 1 a 6 de setembro de 1961, na Primeira Conferência dos Chefes de Estado e de Governo Não - Alinhados, em grande medida por iniciativa do presidente jugoslavo Josip Broz Tito e mais Nasser, Sukarno, Chu En - Lai e Nehru.	obj
+rain-s4165	Não foi surpresa o comentário de estrangeiros que visitaram nossa cidade nos últimos dias: É muito difícil dirigir e se deslocar em Porto Alegre.	obj
+rain-s4170	E ao que parece está circulando pela internet um suposto boato de que estão trabalhando na produção dum quarto jogo, o qual (embora ainda em versões beta) poderá ter o nome oficial Myth IV: The Wind Age, que possivelmente se passará antes da Era do Lobo (Myth III), na chamada Era do Vento quando Moagim ainda era Tireces o Imortal, que derrotou o Nivelador desta era, o ser diabólico que atende pela alcunha de Sorangath The Flayed (Sorangath o Desolado).	expl:pv
+rain-s4191	Para saber qual é o tipo de lubrificante ideal para a sua moto e o prazo de troca, deve - se consultar o manual do proprietário.	expl:pv
+rain-s4196	Entregue ao departamento médico do clube, o atleta não sabe se terá condições de entrar em campo no sábado.	mark
+rain-s4204	Como foi no meio da rua, um grande número de populares se aglomerou no local.	obj
+rain-s4205	Os cartagineses, porém, asseguraram - se os serviços dum general espartano, Xantipo.	iobj
+rain-s4216	No ano de 2007, porém, perdeu sua autonomia administraviva, subordinando - se ao Batalhão de Choque, onde atualmente constitui é companhia.	obj
+rain-s4255	O Planalto das Cezaredas deve o seu nome ao facto de no seu centro geográfico, se encontrar uma pequena povoação chamada Casal das Cesaredas, clara reminiscência da colonização Romana.	expl:pv
+rain-s4283	Se o governo não estiver presente e não caminhar no mesmo passo, a solução não virá.	mark
+rain-s4284	Ao não inscrever suas metas debaixo deste arcabouço de regras, o país está escolhendo não se reger por este tipo de regras e, para isto, temos que desenvolver todo entendimento de como será a verificação da promessa desses países.	obj
+rain-s4291	O Ministério das Relações Exteriores confirmou que trata - se duma brasileira e informou, via assessoria de imprensa, que presta assistência à família.	expl:pv
+rain-s4309	Franco afirmou que o Paraguai, um país que em âmbito econômico depende em vários aspectos de seus dois grandes vizinhos, Brasil e Argentina, estuda aprofundar relações comerciais com outros blocos do mundo, mas preferiu não se estender muito sobre a questão porque esse é exatamente o jogo no qual não quer cair, disse.	obj
+rain-s4317	No ano seguinte foi contratado para o que se tornou um trabalho de dois anos supervisionando a construção dum projeto residencial de Wright para a sogra de Lautner.	expl:pv
+rain-s4334	Mas, se teve lance do Barcos, julguem - no também.	mark
+rain-s4353	Segundo o BC, essa mudança ocorre para apenas se adaptar ao crescimento natural do mercado, e não soube informar quantos bancos poderiam ser beneficiados com o novo parâmetro.	obj
+rain-s4360	Além de identificar possíveis indícios de câncer, o atendimento no ônibus também se mostra importante por formalizar uma parceria entre o programa e o município, onde o paciente tem garantido o atendimento continuado caso apresente algum sintoma.	expl:pv
+rain-s4370	Nós, mulheres, devemos ser respeitadas por nossa opinião, principalmente, se ela for a respeito do nosso próprio corpo , afirma a jovem.	mark
+rain-s4372	Estende - se por uma área de 15,04 km ², com 11 830 habitantes, segundo os censos de 2007, com uma densidade 786,6 hab / km ².	expl:pv
+rain-s4378	A Europa vai se recuperar e estará melhor do que nós quando terminar a crise, assinalou Gurría.	expl:pv
+rain-s4398	Dum trimestre para outro a prioridade de gasto do brasileiro se modificou, acompanhando a recuperação de curto prazo da economia nacional em geral, diz.	obj
+rain-s4404	Casou - se com o compositor Edward Solomon em 1884 e criou os papéis de várias de suas óperas em Londres, mas em 1886 ele foi preso por bigamia.	obj
+rain-s4440	No total, 18 viaturas do Corpo de Bombeiros, com cerca de 70 homens, se deslocaram até o local.	obj
+rain-s4450	Obama e Calderón, anfitrião da reunião que começará na segunda - feira em Los Cabos, se reunirão antes do início da cúpula para revisar os progressos na relação bilateral, explicou em entrevista coletiva o conselheiro adjunto de Segurança Nacional da Casa Branca, Ben Rhodes.	obj
+rain-s4477	Diz - se que em várias ocasiões, tentaram apagar a imagem feito que nunca teve sucesso, apesar do material que foi usado obviamente ser pouco permanente.	expl:pv
+rain-s4496	Além de ter de se preocupar com os buracos, curvas e o tempo, é preciso coletar os peixinhos que pulam dos buracos e bandeiras, que rendem pontos ao jogador;	obj
+rain-s4519	Uma mangueira que transportava amônia se rompeu e misturou a substância com nitrito.	expl:pv
+rain-s4521	E para o Mercosul uma porta gigantesca se abriu.	expl:pv
+rain-s4528	Do aeroporto, o meia seguiu para o hotel em Ipanema, onde se encontrou com o presidente do clube, Maurício Assumpção.	obj
+rain-s4569	Analistas estimam que a GVT vale entre 7 bilhões e 8,5 bilhões de euros (até 10,42 bilhões de dólares) e a avaliação da Vivendi ocorre depois que as conversas iniciais do grupo francês para se desfazer da unidade de videogames Activision Blizzard encontraram poucos interessados, ante o preço buscado pela Vivendi, afirmaram as fontes.	expl:pv
+rain-s4573	Segundo o relatório, o grupo de Cachoeira se infiltrou no governo de Goiás, e há fortes indícios de que foram realizados pagamentos diretamente ao governador.	obj
+rain-s4591	De aí, dirigem - se ao núcleo anterior do tálamo através do feixe mamilo - talâmico de Vicq Dazyr.	obj
+rain-s4593	Conhecida pelos seus nevões, a cidade de Akseki situa - se na parte ocidental dos Montes Tauro, a uma altitude de.	expl:pv
+rain-s4595	A agência reguladora ainda pode aplicar uma multa de R $ 2 milhões adicionais ao julgar a última das 25 infrações, que se refere ao processo de abandono do poço.	expl:pv
+rain-s4599	O supersessionismo fraco não se insere em nenhuma das três categorias e, ao invés disso, está associado diretamente com o judeo - cristianismo.	expl:pv
+rain-s4601	Mesmo se os dois conjuntos de leis diferem pouco na prosa, eles diferem muito no espírito.	fixed
+rain-s4618	A Secretaria de Saúde anunciou que vai abrir um procedimento administrativo para verificar de fato o que aconteceu e se houve ou não uma conduta inadequada por parte da médica, para só depois tomar as providências necessárias.	mark
+rain-s4620	O governo se diz dos trabalhadores, mas na prática não vai dar espaço para a negociação.	obj
+rain-s4623	Leandro Amaro se atrapalhou, o Timbu roubou a bola.	obj
+rain-s4640	E no domingo (21), para fechar o evento, a dupla Chitãozinho e Xororó se apresenta, relembrando vários sucessos.	obj
+rain-s4644	Mas fica o alerta de que quase do eleitorado, 47 % se colocou a favor da mudança.	obj
+rain-s4651	Foram eles precisamente quem colocou na posição - chave a vice - presidência Federico Franco, o Judas que agora se apropriou do poder em consequência do golpe parlamentar, militar, judicial y eclesiástico.	expl:pv
+rain-s4663	A qualidade das respostas, nalguns casos, vai se aprimorando gradualmente.	expl:pv
+rain-s4664	Funcionários da LG espalhados pela coletiva não cansavam de dizer que o Full HD com 1.080 linhas de resolução se tornou o padrão de mercado.	expl:pv
+rain-s4683	Logo após o ponto que definiu o título, ela se jogou no chão visivelmente emocionada e foi abraçada pelas companheiras.	obj
+rain-s4692	O motorista do caminhão não se feriu.	obj
+rain-s4695	Que não se perca a oportunidade que a lei está dando de reconhecimento da relevância social desse trabalho e de sua dignificação, de mudança social da realidade de muitas pessoas.	expl:pv
+rain-s4706	No mesmo período de 2011, o resultado foi de 230.619, levando - se em conta os dados ajustados, ou seja, que já incluem as informações do mercado de trabalho formal enviadas pelas empresas fora do prazo.	expl:pv
+rain-s4718	Com o nível de detalhamento que existe hoje, sabendo - se exatamente onde cada pessoa confirma sua escolha, há candidatos que pressionam eleitores a garantir determinado número de votos nas seções onde estão cadastrados.	nsubj
+rain-s4730	A jurisprudência visualizava essa forma de compensação nos casos em que a mulher se dedicava exclusivamente ao lar e ás crianças, dando suporte às atividades do companheiro, bem como naqueles casos em que a mulher dava total ajuda ao comércio do companheiro, atuando como secretária de sua empresa, enfermeira para o médico, sem perceber nenhuma remuneração em espécie pelo trabalho ou qualquer vínculo empregatício.	obj
+rain-s4757	No entanto, El Mountawakel assegurou que se aproximam momentos - chave para os organizadores dos primeiros Jogos Olímpicos realizados na América do Sul.	expl:pv
+rain-s4760	À todos foi dado colchões com almofadas de fibras de carbono com um fio que estava ligado ao chão que se estendia para fora do quarto.	obj
+rain-s4765	A canja é particularmente recomendada no tratamento da diarreia de modo a combater a desidratação, sobretudo se é feita de modo a ficar muito líquida e salgada.	mark
+rain-s4769	Umberto se irrita com a demora da dançarina.	expl:pv
+rain-s4770	O político liberal Mohamed ElBaradei, que na noite de quinta - feira aderiu a um apelo de vários políticos pela revogação do decreto, afirmou pelo Twitter que Mursi virou de ponta - cabeça todos os poderes do Estado e se nomeou o novo faraó do Egito.	nsubj
+rain-s4789	Registre - se agora mesmo e experimente o UltimoInstante Gratuitamente por 7 dias.	obj
+rain-s4812	O torcedor do Corinthians acostumou - se a ver Emerson ao lado de Jorge Henrique no ataque este ano, os titulares da conquista da Copa Libertadores.	obj
+rain-s4818	O que eu vi hoje foi um desrespeito sem limites Com essas palavras o deputado Benedito de Lira (PP - AL) definiu a ação de integrantes do Movimento Sem Terra (MST) que bloquearam a BR - 314, em protesto contra a proibição de se manifestarem em Marechal Deodoro, município alagoano onde a presidente Dilma inaugurou uma nova fábrica da Braskem.	obj
+rain-s4821	Ocasionalmente se organizam passeios fluviais que partem de Las Flores até a ponte Pumarejo e voltão até Bocas de Ceniza para terminar sua viagem no ponto de partida.	expl:pv
+rain-s4835	E se perderam ao longo das campanhas.	expl:pv
+rain-s4852	Das oito empresas que se credenciaram para participar da licitação, apenas quatro foram habilitadas, sendo que uma delas entrou com recurso e conseguiu parecer favorável para que apenas três empreiteiras continuem participando da concorrência pública.	obj
+rain-s4858	A entrada alemã deste ano, foi a primeira a utilizar adereços em palco, tendo levado um telefone para a sua actuação (visto a sua música intitular - se Telefone, Telefone em português).	expl:pv
+rain-s4861	A morena se esbalda com a água fresca e limpa, deixando para trás a seca que enfrentou por dias a fio na cruel caatinga.	obj
+rain-s4862	Os MEI são microempreendedores individuais que, para se enquadrarem nos moldes da Receita e usufruírem da legislação imposta, precisam ser optantes do Simples Nacional, terem renda máxima de R $ 60 mil / ano, terem apenas um empregado, exercer atividades constantes no anexo XIII da Resolução CGSN (sobre serviços prestados pela empresa) e não participarem como sócio doutra empresa.	obj
+rain-s4866	A Aiguille du Fou é sobretudo conhecida pela sua face sul excecionalmente a pique e lisa, pelo que esta via só foi aberta 50 anos depois de se ter vencido o cume, utilizando a escalada artificial, sistema estudado e preparado por John Harlin e Tom Frost no Parque Nacional de Yosemite.	expl:pv
+rain-s4872	Bruce Wayne torna - se, então, a máscara que usa para disfarçar sua dor e sua verdadeira natureza.	expl:pv
+rain-s4880	Três grandes lojas se instalaram recentemente na cidade.	expl:pv
+rain-s4898	Ao fim da cúpula, no dia 2, será divulgada uma declaração conjunta, na qual os 32 representantes do grupo dois estão suspensos: Paraguai e Síria se manifestam sobre os principais temas em discussão no momento.	expl:pv
+rain-s4908	Mas o tempo que ele precisará dedicar a sua academia acabou se tornando um empecilho.	expl:pv
+rain-s4933	A belíssima atuação de jogadores como Ginóbili e Scola ajudou os brasileiros a se conformarem com a derrota.	obj
+rain-s4939	O terremoto de 9 graus na escala Richter que sacudiu o arquipélago em 11 de março de 2011 bloqueou boa parte das linhas telefônicas do país, mas a internet resistiu, se transformando num recurso crucial para coordenar a ajuda em meio à crise.	expl:pv
+rain-s4975	O ciclo de trabalhos em Porto Alegre, como se sabe, foi encerrado.	nsubj
+rain-s4976	A ele se deveram várias iniciativas em prol da educação e do desporto no antigo Distrito da Horta.	expl:pv
+rain-s4994	Se é verdade que a questão do suicídio foi colocada nos mesmos termos que foram reportados, é algo no mínimo surpreendente, disse.	mark
+rain-s4996	O presidente da CBF, José Maria Marin, foi perguntado, sem rodeios, se aconteceu o contato.	mark
+rain-s5010	Odenville localiza - se a aproximadamente 225 m acima do nível do mar.	expl:pv
+rain-s5023	E se depender da opinião de Neymar, os dirigentes alvinegros continuarão enfrentando dificuldades no mercado do futebol.	mark
+rain-s5032	O sonho se tornou realidade.	expl:pv
+rain-s5033	Não tem superado o custo por unidade desta próxima geração de Veículos Aéreos Não Tripulados (Unmanned Aerial Vehicle, UAV), ainda que se conheça que os atuais Reaper e Sky Warrior valem 22 milhões de dólares a peça.	expl:pv
+rain-s5044	Dessa nova fase de sua carreira destacam - se as canções Vai ser assim, de sua autoria e lançada em 1970, e Pouco a pouco, em parceria com César Augusto, sucesso de 1983.	expl:pv
+rain-s5046	Até 1980 estima - se que cerca de 2140 descrições são geralmente aceitas, descritas por 134 autores.	expl:pv
+rain-s5047	Desde sua descoberta Naasa - Hablood tornou - se uma importante atração tourística e um ponto de referência na Somália.	expl:pv
+rain-s5050	Serafim tinha negócios desde a década de 30 na cidade de Andradina, e se auto - proclamava em tom de brincadeira a única pessoa lúcida, que é pioneira da cidade.	nsubj
+rain-s5062	Até hoje a companhia não incorporou - se à obra, mas o projeto conjunto continua mantido, segundo Graça.	expl:pv
+rain-s5065	No recente episódio da briga com o governo e com a Prefeitura da Capital, o PSD emitiu comunicada dando todo o apoio e se solidarizando com Hermínio.	obj
+rain-s5066	De acordo com gerente, identificado como Wallace Lemos Marinho, o assaltante entrou na loja se passando por cliente e anunciou o assalto, rendeu as quatros pessoas que estavam no estabelecimento, pulou o balcão da loja, levou toda a renda, que não foi divulgado pelo proprietário, e fugiu levando um carro modelo Strada de cor cinza e placa não divulgada, duma empresa de retífica.	obj
+rain-s5076	Segundo Donninson, parte da população teme que se as condições econômicas não melhorarem, a relativa estabilidade da região poderia ficar ameaçada.	mark
+rain-s5077	No domingo (26), Affonsinho e a banda Take Five se apresentam na Praça da Liberdade, às 11h.	obj
+rain-s5083	Analistas esperam que o dólar se mantenha mais estável neste início de mês, após variações mais acentuadas no final de agosto devido à expectativa de que o Banco Central não rolasse contratos de swap cambial que vencem nesta segunda - feira.	nsubj
+rain-s5098	Há também opções para se divertir sem gastar.	obj
+rain-s5115b	1927 Fixou - se no Rio de Janeiro.	obj
+rain-s5118	Heráclio dedicou - se então a reorganizar o exército bizantino.	expl:pv
+rain-s5135	Diferentemente de hoje, quando Haddad se apresenta como candidato da mudança, naquela época o petista era o nome da situação.	obj
+rain-s5145	A fronteira se estende entre duas fronteiras tríplices da Moldávia e Romênia com a Ucrânia.	expl:pv
+rain-s5150	Na última semana, o ex - jogador de Juventus e Real Madrid, atualmente conselheiro do presidente merengue Florentino Pérez, declarou que estava se preparando para virar treinador.	obj
+rain-s5162	Apesar da evolução, tanto o técnico Ney Franco quanto o departamento médico da equipe tricolor se mantêm cautelosos sobre o retorno do meia, contratado junto ao Santos, aos gramados.	expl:pv
+rain-s5179	o antigo traçado será aproveitado, durante alguns anos, para composições de mercadorias, prevendo - se que será completamente desactivado aquando da construção dum novo terminal de mercadorias por parte da Rede Ferroviária Nacional.	expl:pv
+rain-s5181	Assim, fez - se nobre com o decreto imperial de 2 de Dezembro de 1854.	expl:pv
+rain-s5193	O lampejo pode ser executado também quando a ave se depara com uma ameaça em potencial (humanos próximos demais, serpentes)	expl:pv
+rain-s5198	A maioria dos israelenses apoia a criação dum Estado palestino, apesar de não ter esperanças de que se chegue a um acordo de paz, segundo uma pesquisa realizada pelo jornal israelense Hayom divulgada nesta sexta - feira.	nsubj
+rain-s5202	Trata - se da Lei Municipal 217 / 2009, que obriga os professores da rede municipal a ministrar, em sala de aula, a leitura diária dum trecho da Bíblia, de livre escolha, seguida duma oração.	expl:pv
+rain-s5207	Nos meses de março e abril, acadêmicos realizaram protestos semelhantes, chegando até mesmo a se deslocarem para Cuiabá para reunião com alguns deputados e secretários.	obj
+rain-s5220	Para Tombini, o ritmo da atividade econômica no Brasil irá se acelerar ao longo de 2012, sustentado pela demanda interna e pela flexibilização das condições monetárias e financeiras.	expl:pv
+rain-s5223	Se a listagem ocorrer este ano, será o terceiro maior IPO dos Estados Unidos em 2012, atrás do Facebook e da unidade mexicana do Banco Santander.	mark
+rain-s5236	Ficou como se estivesse tudo bem , disse Gomes que, apesar de frustrado, vai participar do Rio + 20 em atividades paralelas.	fixed
+rain-s5242	Aliás, mesmo se vencerem, os dois times permanecem entre os últimos quatro colocados da competição.	mark
+rain-s5252	Os buracos que se formam na areia dentro da água, surpreendem os banhistas, provocando acidentes.	expl:pv
+rain-s5253	Se o julgamento for conforme esperamos, ou seja, conforme os autos do processo, não há razão para condenação.	mark
+rain-s5281	Todo mundo se jogou no chão após os primeiros disparos e houve uma pausa depois.	obj
+rain-s5289	Hoje com o rádio, a televisão e a internet tornou - se impossível a preservação duma só forma de pensar.	expl:pv
+rain-s5307	O resultado de novembro se deve principalmente a estabilidade nas despesas em 68,926 bilhões de reais no mês passado e a uma queda de 18 por cento na receita líquida do governo central sobre outubro, para 64,633 bilhões de reais.	expl:pv
+rain-s5347	Mesmo assim, ao se despedir, fez menção à sua provável ida para a cadeia.	expl:pv
+rain-s5361	Eles também vão ter que se preocupar com a gente , declarou o volante.	obj
+rain-s5367	A única coisa que fazia desde que descobri a doença era esperar os resultados dos testes, que deviam mostrar se o tumor que tinha no coração não produziu metástase.	mark
+rain-s5380	Na última sexta - feira (15), representantes da Consultoria em Planejamento em Administração Pública e LTDA (Consulplan) vencedora da licitação para organizar o concurso --, se reuniram na Casa de Leis para discutir detalhes.	obj
+rain-s5397	Eles deverão se apresentar na sede do Samu, no Bairro Alvorada, até este dia 11, das 13h às 19h, a fim de retomarem os serviços no local.	obj
+rain-s5414	Por outro lado, a esperança vem da certeza de que a equipe pode se recuperar no Campeonato Brasileiro, um dos poucos títulos que ainda faltam à geração de Neymar.	obj
+rain-s5419	Desde o anúncio da proposta de tirar os emagrecedores do mercado, sociedades médicas se posicionaram contra a ideia.	obj
+rain-s5424	Brahimi, enviado especial da Liga Árabe e da ONU para a questão síria, reuniu - se no fim de semana com Assad em Damasco, e disse que o governo local havia acatado a sugestão de trégua durante o Eid.	obj
+rain-s5439	A Confederação Brasileira de Futebol (CBF) afastou os árbitros Nielson Nogueira Dias (PE) e Flávio Rodrigues Guerra (SP), além do bandeirinha Bruno Boschilia (PR), que irão passar por um período de reciclagem após se envolverem nas maiores polêmicas da rodada de número 30 do Campeonato Brasileiro.	obj
+rain-s5445	Isso é resultado de muito trabalho, quando uma equipe faz isso se torna muito difícil de ser derrotada.	expl:pv
+rain-s5448	A 30 de agosto de 1994, é lançado o álbum de estreia, Definitely Maybe, que obteve o primeiro lugar nas vendas do Reino Unido, tornando - se no álbum de estreia que mais depressa vendeu no Reino Unido até àquela altura.	expl:pv
+rain-s5451	O maior dilema dos operadores (agora, por lei, chamados de empacotadores e distribuidores) é que ainda não se sabe quais são os canais brasileiros de conteúdo qualificado.	expl:pv
+rain-s5486	Rosângela (Paloma Bernardi) e Jéssica (Carolina Dieckmann) continuam a se estranhar.	obj
+rain-s5491	Marco Maia disse que não é possível perceber se as negociações feitas até o momento indicam para a votação ou não da matéria, mas pessoalmente defendeu a aprovação da MP com as alterações feitas pela comissão mista.	mark
+rain-s5494	Entrou, na função de aprendiz, na Gray s Inn (uma das ordens de advogados do Reino Unido) em 1830, porém logo abandonou sua carreira no Direito para dedicar - se ao posto da academia, e começou a escrever sobre os temas clássicos.	expl:pv
+rain-s5517	Neste contexto, a reciclagem de resíduos eletrônicos pode se transformar num novo eldorado para investidores.	expl:pv
+rain-s5522	Um ciclo de Kondratiev tem um período de duração determinada de 20 (Vinte) anos subdivididos em 5 (cinco) anos, que corresponde aproximadamente ao retorno dum mesmo fenômeno, segundo Marx, se não houver a ação do chamado capitalista, que renova o sistema, não o deixando sucumbir.	mark
+rain-s5537	O governo de Merkel deve receber primeiro um sinal verde do Parlamento antes de que o ministro das Finanças alemão, Wolfgang Schaeuble, possa se comprometer numa reunião na sexta - feira a pagar a parte da Alemanha do empréstimo.	obj
+rain-s5540	Já o candidato Carlos Amastha (PP), coligação Um novo caminho é possível, grava programa eleitoral, faz reunião com coordenadores de campanha e se prepara para o debate.	obj
+rain-s5597	por exemplo, com apenas dez espécies se tem mais de dois milhões de árvores não enraizadas possíveis.	expl:pv
+rain-s5599	Em seguida, referindo - se aos príncipes (governantes), declara - os companheiros dos ladrões.	expl:pv
+rain-s5605	Bacelar disse que se trata duma denúncia requentada e irresponsável e que é vítima de perseguição do jornalista Paulo Celso Pereira, antes na revista Veja e agora no jornal O Globo.	expl:pv
+rain-s5624	No início do depoimento, o relator da comissão, deputado Odair Cunha (PT - SP), perguntou se o número no Cadastro de Pessoas Físicas (CPF) que consta na CPMI é dela.	mark
+rain-s5629	O pódio se situava a 22 metros de altura, e tinha 50 metros de comprimento até a encosta do morro, com uma fachada ampla, de 70 metros.	expl:pv
+rain-s5646	Mas, se você não sabe onde vota ou perdeu o título, pode consultar o local de votação e o número do seu título no site do TSE.	mark
+rain-s5705	Deve - se remover tudo o que possa impedir a água de correr pelas calhas e não deixar que a água da chuva fique acumulada sobre as lajes.	expl:pv
+rain-s5706	O Comitê de Monitoramento do Setor Elétrico (CMSE) vai se reunir na próxima quarta - feira (9) para a avaliar a situação energética do país.	obj
+rain-s5715	Desde os tempos antigos casamento significa a união dum homem e uma mulher, se é para inventar uma modinha para eles, deveriam inventar outro nome, procurem no Wikipedia para ver, casamento, olhe o que está escrito: A palavra matrimônio, ainda que seja compreendida como sinônimo de casamento, é referente exclusivamente à união entre um homem e uma mulher, uma vez que deriva de mater, matris (mãe) no latim clássico.	mark
+rain-s5740	A cúpula também deliberou sobre cidades no Espírito Santo: em Cariacica a sigla ficará neutra, em Vila Velha optou - se pelo não ao DEM (para impedir que prefeitos petistas da região anunciassem apoio ao candidato do DEM) e em Vitória não haverá apoio a nenhum dos candidatos que disputam o segundo turno.	nsubj
+rain-s5749	No entanto, não pareceu se intimidar com as hostilidades: A pressão não me deixa irritado, isso é algo normal, a gente sabe o que é isso.	expl:pv
+rain-s5756	Para efeito de comparação, entre 2001 e 2008, o fundo setorial de energia CT - Energ, que se destina a fim semelhante, aplicou R $ 235 milhões.	expl:pv
+rain-s5763	Na estrada que liga a Picanceira à sede da sua sede de freguesia, Santo Isidoro, mesmo à saída da localidade, do lado esquerdo ergue - se a Capela da Picanceira dedicada a Santo António.	expl:pv
+rain-s5768	O furacão Ernesto chegou nesta terça - feira à costa mexicana com ventos de até 165 km / he se localiza nas imediações de Majahual, no estado de Quintana Roo, informou o Serviço Meteorológico Nacional (SMN).	expl:pv
+rain-s5769	A vinda de seleções e delegações esportivas para nosso município se revelará uma grande oportunidade de crescimento tanto econômico quanto profissional para as redes hoteleiras informou o gerente de marketing dum hotel localizado na Avenida Amaral Peixoto, Shalon Freitas Barioki.	nsubj
+rain-s5774	Num dos episódios, o grupo organiza uma despropositada cerimônia para o Dia da Inclusão, que por coincidência caiu na mesma data do Dia da Diversidade seguem - se discussões inflamadas sobre a diferença entre ambas.	expl:pv
+rain-s5777	Neste momento, em que o julgamento do mensalão se encaminha para o final no Supremo Tribunal Federal, com a condenação de vários dirigentes do PT, Secco afirma que os veredictos devem alterar a visão da sociedade sobre o PT.	expl:pv
+rain-s5781	Você acha mesmo que assim é bom para todo mundo, você e a Isabel se escondendo um do outro?	obj
+rain-s5792	Estende-se por uma área de 16,82 km².	expl:pv
+rain-s5793	A dupla de vôlei de praia favorita para a medalha de ouro nos Jogos de Londres, formada pelos brasileiros Emanuel e Alison, afirmou nesta terça - feira (24) que se sente muito preparada para a disputa olímpica (27 julho - 12 de agosto).	nsubj
+rain-s5796	Responsável direto pelo sucesso da atleta, o professor Paulo Siqueira acredita que seja o momento de se promover uma reflexão acerca da real dimensão do projeto de natação da Escola João Bento Costa, onde são atendidas crianças de pelo menos 12 escolas da Zona Sul de Porto Velho.	expl:pv
+rain-s5812	Dessa fase, destacam - se Sally (1925), Irene, Ella Cinders e It May Be Love, todos de 1926.	expl:pv
+rain-s5817	Nesta primeira etapa de vendas, que se iniciou nesta quinta e vai até o dia 30, somente os idosos terão direito à meia - entrada.	obj
+rain-s5818	No confronto com a Argentina, cuja volta será em Resistência, no país hermano, no dia 3 de outubro, Mano poderá utilizar apenas jogadores que atuam no Brasil, regra que também se aplica à seleção rival.	expl:pv
+rain-s5824	A entojada se aproxima de Conrado bem na hora que ele está admirando a ex.	obj
+rain-s5825	Natércia contou que se não tivesse descoberto a doença, poderia ter doenças cardíacas graves nos próximos anos.	mark
+rain-s5826	Após a partida, o treinador revelou à imprensa que o jogador se recusou a ficar no banco de reservas, o que foi desmentido pelo próprio atleta.	expl:pv
+rain-s5838	Seu treinamento o ajudou a escapar dos assassinos que o perseguiram, e assim ele foi para Nova Iorque, onde se tornou um barman num clube noturno e passou a usar uma identidade falsa para não ser encontrado.	expl:pv
+rain-s5840	A polícia recebeu informações de que eles deverão se apresentar até esta quarta - feira, 22, para prestar esclarecimentos sobre o caso.	obj
+rain-s5844	Mais da metade dos 100 deputados constituintes se retiraram da Assembleia em protesto ao texto nas últimas semanas.	obj
+rain-s5857	Escolhido depois de longo embate entre o PT municipal e a direção nacional, Costa é companheiro de partido do atual prefeito, João da Costa, que, impedido de disputar a própria reeleição, afastou - se da campanha.	obj
+rain-s5858	Muricy Ramalho não se animou com a primeira impressão deixada pelo meia João Pedro, recentemente contratado.	obj
+rain-s5873	Dados oficiais revelam que dos cerca de 3,5 milhões de cidadãos aptos para exercer o sufrágio, se registraram 2,8 milhões, 45 % dos quais são mulheres.	obj
+rain-s5874	E quando se trata do Bahrein, esta é a última coisa que os sauditas querem ver, uma revolução no Bahrein a poucas milhas de suas fronteiras.	expl:pv
+rain-s5889	Mourinho ainda elogiou o desempenho de Ronaldo nos últimos tempos e ainda se deu crédito, mesmo que pequeno, pela evolução.	iobj
+rain-s5890	Como nos principais shoppings da cidade, os lojistas de rua também se preparam para o movimento crescente que a data propõe.	obj
+rain-s5898	A prisão se deu após mandado expedido pela 15 ª Vara Criminal da Capital.	expl:pv
+rain-s5901	Quando a Central 192 identifica uma tentativa de suicídio, a equipe de enfermeiros e técnicos de enfermagem vê a parte clínica e se o paciente precisa ser encaminhado ao hospital.	mark
+rain-s5903	A mudança dos serviços se estenderá à Urbs Urbanização de Curitiba S / A, que ocupa o prédio central, além de parte do antigo bloco ferroviário em que funciona também a Secretaria Municipal de Trânsito (Setran).	expl:pv
+rain-s5911	Hérika disse, ainda, que se sentia incomodada com a fama do ator.	nsubj
+rain-s5919	Uma área de distúrbios meteorológicos formou - se a nordeste de Madagáscar.	expl:pv
+rain-s5952	Comparando o indicador do boi gordo à vista em 11/jul com o vencimento do contrato futuro do boi gordo para dez/12, observa - se alta de 3,60 % no valor da arroba negociada, de R $ 91,22 para R $ 94,50 em dez/12.	expl:pv
+rain-s5966	Tornou - se promotor público e entrou para a política, sendo eleito deputado estadual em 1907.	expl:pv
+rain-s5967	Lula chegou por volta das 8h15 ao local, onde também se encontrou com outras lideranças do PT para um café da manhã.	obj
+rain-s5976	Além disso, estima - se que cinco mil militares tenham morrido.	expl:pv
+rain-s5983	Militante do PSB desde 2000, Edi Carlos Pereira de Souza elegeu - se vereador no último domingo com o objetivo de contribuir para melhorar a qualidade de vida da população que vive em Caxias do Sul.	expl:pv
+rain-s5995	As projeções para as exportações consideram a ocorrência de tempo favorável até a colheita no Brasil se tudo correr bem, o país poderá superar os Estados Unidos como os maiores produtores e exportadores do mundo, após os norte - americanos registrarem severas perdas por conta da seca.	mark
+rain-s5998	Segundo consta, por volta de 1907, o Distrito de Jaboticabal apresentava notável desenvolvimento, com um bom comércio e pequenas indústrias, entre as quais destacavam - se as de aguardente, as ferrarias, funilarias, ourivesarias e outras.	expl:pv
+rain-s6004	Aí, é que entra o estado desumano a que se submetem.	obj
+rain-s6006	Atenção você que ainda não se acostumou.	expl:pv
+rain-s6008	Se chegarmos à final que espero que o façamos e enfrentarmos o Corinthians, vai ser ótimo para mim, pessoalmente por jogar contra um time brasileiro, mas eu vou fazer o meu melhor para ajudar o Chelsea a ganhar.	mark
+rain-s6029	O nome dos presos não foi divulgado, por se tratar de cumprimento de prisão temporária.	expl:pv
+rain-s6033	Pelo menos no que se refere aos Emirados Árabes, o ministro reconheceu que as relações bilaterais foram prejudicadas.	expl:pv
+rain-s6048	E se você tem uma memória melhor do que a minha, poderá decorar uma dezena de atalhos de teclado: basta teclar Ctrl + Alt +?	mark
+rain-s6075a	As emissões multiplicaram - se desordenadamente, gerando inflação, o que resultou no retorno à idéia dum único emissor que, de 1892 a 1896, foi o Banco da República do Brasil	expl:pv
+rain-s6076	Emprestado pelo Flamengo ao Atlético - GO para a disputa do Campeonato Brasileiro, o zagueiro Gustavo não se assustou com a péssima campanha da equipe rebaixada com antecedência e garante que prefere permanecer na capital goiana na próxima temporada.	expl:pv
+rain-s6078	Mas, numa avaliação mais geral, não será um mau desempenho se nos dois últimos anos do governo Dilma Rousseff a inflação, ainda que ao redor de 5 % e não mais próxima do centro da meta (4,5 %), seja decrescente em relação a este ano.	mark
+rain-s6085	CLIQUE AQUI e cadastre - se gratuitamente no Alertas do Google para receber as últimas notícias do Capital News por e - mail.	obj
+rain-s6089	É uma edificação cilíndrica, com área de 433m2, onde se podem admirar os trabalhos (painéis, desenhos e fotos) que representam as obras deste arquiteto.	expl:pv
+rain-s6090	A partir de 2007, tornou - se comentarista de futebol nos canais ESPN e na Rádio Eldorado, em jogos de futebol.	expl:pv
+rain-s6117	Grand Pass localiza - se a aproximadamente 206 m acima do nível do mar.	expl:pv
+rain-s6126	Investigado na Porto Seguro, o ministro do Tribunal de Contas da União José Múcio Monteiro não quis revelar nesta segunda - feira os motivos de foro íntimo que o levaram a se declarar impedido de relatar o processo no TCU contra a Tecondi, que atua no Porto de Santos e tinha interesses defendidos por Paulo Vieira.	nsubj
+rain-s6138	Estende - se por uma área de 14,66 km ².	expl:pv
+rain-s6161	O que se sabe é que havia intimidade entre a vítima e a professora, uma relação de amizade bastante notória, disse o delegado Amaro.	nsubj
+rain-s6183	Nunca dei bola para o negócio de idade, o que importa é se você está bem ou não.	mark
+rain-s6188	Ela se referia à Rússia e à China, que já tinham vetado três resoluções do Conselho de Segurança sobre a Síria.	expl:pv
+rain-s6199	O TLS encarregou - se de espalhar por outros órgãos de informação (jornais, rádios, televisões e agência de notícias Lusa) extratos dessas declarações de Konis Santana.	obj
+rain-s6221	Reconhecida pela militância, desde os tempos em que conheceu Dante de Oliveira, no MR - 8, ela vem coordenando os Pontos de Cuiabania casas cedidas por simpatizantes, que se transformam em bunker do candidato tucano, com distribuição de materiais e discussões sobre a comunidade.	expl:pv
+rain-s6224	Na opinião dele, os cerca de 5,8 % do Produto Interno Bruto (PIB) que são destinados à educação seriam suficientes se houvesse boa gestão.	mark
+rain-s6227	Apesar de todas as merdas da Apple, há de se reconhecer que os serviços do iTunes são excelentes e não existe, até hoje, um concorrente à altura (pelo menos que eu conheça).	expl:pv
+rain-s6229	Havia sangue no pulmão do executivo, o que só ocorreria se ele estivesse vivo, de acordo com o legista.	mark
+rain-s6232	Vou ligar para ele para ver se fazemos uma apostinha.	mark
+rain-s6235	Os resultados na produção do milho se devem às condições favoráveis da cultura nas áreas de maior produção.	expl:pv
+rain-s6239	Tenho dito que se tivermos um segundo turno no Rio de Janeiro eu estarei com o que for.	mark
+rain-s6244	Levantamos a grau e dignidade mais eminente de Igreja Metropolitana a Sé e Cadeira, até agora Episcopais de S. Sebastião do Rio de Janeiro, sendo observado tudo o que se deve observar conforme o teor da referida Bula Apostólica, sobre o que providenciamos por um Decreto especial.	expl:pv
+rain-s6250	A quinina se extrai da árvore Chinchona, daí o nome da doença.	expl:pv
+rain-s6260	Se a ata era lícita no dia 25, não existe, então, motivo para o qual a mesma não tivesse validade no dia seguinte e a aliança PT / PP fosse indeferida.	mark
+rain-s6266	Logo após o acidente sites da capital informaram que o estado de saúde de Henderson era grave, o que parece ter se revertido no decorrer do dia.	obj
+rain-s6273	Integrantes do comitê gestor do Programa de Fortalecimento das Cadeias Produtivas de Pesca e Aquicultura se reuniram pela segunda vez nesta terça - feira (20), na Secretaria de Estado da Pesca e Aquicultura (Sepaq), com o objetivo de conhecer as atividades executadas, em execução, a revisão e atualização do planejamento físico - financeiro e as ações previstas até fevereiro de 2013, quando termina o prazo da contratação da gestão dos recursos.	obj
+rain-s6274	Para o presidente da ANA, Yves Drosghi, há informações de profissionais que trabalham com salários indignos, além disso, é preciso discutir também a forma de contratação do advogado em escritórios, se será por prestação de serviço ou CLT (Consolidação das Leis do Trabalho).	mark
+rain-s6287	Al - Zamili também falou sobre a possibilidade da Al - Qaeda se infiltrar nas forças de segurança.	obj
+rain-s6309	As costas da baía caracterizam - se pelas suas grandes falésias de 60 metros de altura na envolvência das praias, e pelas suas plataformas rochosas.	expl:pv
+rain-s6316	Destaca - se que, entre as pessoas com 12 anos ou mais de estudo, essa desigualdade era maior: em 2011, o rendimento feminino equivalia a 59,2 % do rendimento masculino (em 2001, esse percentual era de 52,6 %).	expl:pv
+rain-s6342	A mãe de Lisa era sua terceira mulher, Lucrezia del Caccia, com quem se casou em 1476.	obj
+rain-s6344	Margarida e Esther almoçam com Constância e Bonifácio se irrita.	obj
+rain-s6349	Muitos deixaram o país antes da revolução, enquanto outros começaram a se organizar.	expl:pv
+rain-s6354	Protestos contra um filme anti - islâmico produzido nos Estados Unidos se espalharam pelo Oriente Médio desde quarta - feira.	expl:pv
+rain-s6357	Na atual área, há pelo menos três tipos de terrenos que se misturam, o que pode ser resultar em achados interessantes.	obj
+rain-s6361	Será um período de sonhos para que nosso amado clube se reforce e que mantenha alguns bons valores do time de 2012.	obj
+rain-s6375	É comum o cidadão ser acusado de não se lembrar do vereador ou deputado no qual votou na última eleição.	expl:pv
+rain-s6393	O Náutico recuou, passou a ficar com os 11 jogadores no campo de defesa, mas mesmo assim soube se defender de forma eficiente, sem deixar que os ataques do Atlético - GO levassem muito perigo.	obj
+rain-s6401	Acabou - se a Olimpíada, mas a vibração continua fora dos campos e das raias olímpicas.	expl:pv
+rain-s6406	Em 1909 são organizadas as primeiras sociedades de Missionários Voluntários Juvenis (MVJ), e em 1914 desenvolvem - se as primeiras lições para MV s Juvenis, que seriam a precursoras das classes progressivas dos desbravadores.	expl:pv
+rain-s6443	Tanto López Obrador como dirigentes do governante Partido Ação Nacional (PAN), que ficou em terceiro lugar, fizeram notar que a vitória de Peña Nieto esteja envolvida em dúvidas, pela possibilidade de que se tenham usado recursos milionários para conseguir o triunfo.	expl:pv
+rain-s6469	Berlusconi afirmou que estaria disposto a retirar sua candidatura se Monti conseguisse manter todos os partidos moderados dentro dessa coalizão.	mark
+rain-s6487	Estende - se por uma área de 9,23 km ².	expl:pv
+rain-s6500	Mas a aeronave teve de retornar para abastecer e, com o mau tempo que se formou, não pode retomar as buscas.	expl:pv
+rain-s6507	Diz ainda ter certeza de que no decorrer no processo, se houver processo, tudo será esclarecido.	mark
+rain-s6511	De acordo com um trecho da nota de apoio ao ministro Gilmar Mendes, Os signatários sentem - se seguros por viver num País que tem no ápice de sua estrutura judiciária um magistrado que tem a coragem e a dignidade de manter a Constituição acima da gritaria.	expl:pv
+rain-s6515	O primeiro lançamento, inicialmente planeado para 19 de Agosto de 2009, realizou - se a 25 de Agosto de 2009 usando um foguete espacial russo / sul - coreano, o Naro - 1, mas o satélite não chegou a atingir a órbiita desejada.	expl:pv
+rain-s6533	Foi com essa ideia, aliada a um projeto produtivo, que jovens agricultores familiares do Rio Grande do Sul mudaram paradigmas, superaram dificuldades e se tornaram prósperos.	expl:pv
+rain-s6536	Mas engana - se quem pensa que Shayene pode usar o drama para conquistar o carinho e a preferência do público.	obj
+rain-s6564	A sua georeferenciação localiza - se para oeste da sede de concelho, numa encosta à direita da estrada nacional 314-1 que passa pela freguesia de Pombal em direcção a Brunheda, ligando os concelhos de Murça e de Mirandela, respectivamente, nos distritos de Vila Real e Bragança, após atravessar uma ponte sobre o rio Tua na margem esquerda deste.	expl:pv
+rain-s6603	Filho mais velho de Frederico I de Baden e da princesa Luísa da Prússia (a única filha do imperador Guilherme I da Alemanha), Frederico se tornou grão - duque com a morte de seu pai, em 28 de setembro de 1907.	expl:pv
+rain-s6605	Ninguém se feriu.	obj
+rain-s6607	Portanto, sob nosso Estado de Direito e sob a custódia da opinião pública, ao apreciar o mérito do PLP 205 / 2012, o Parlamento brasileiro deve preferir a Constituição Federal à vontade do governante de plantão, salvaguardando a sociedade brasileira daqueles que buscam tratar a coisa pública como se sua fosse.	fixed
+rain-s6623	Atribui - se a origem destes termos ao sistema jurídico romano, que por volta do século IV a.C., ao tornar públicas as normas, surgiu a necessidade interpretá - las.	expl:pv
+rain-s6625	Se o BC acentuar o corte dos juros, derrubando a taxa básica nominal para 7 % ao ano, transmitirá a indicação de que a recuperação não estaria sendo tão rápida.	mark
+rain-s6631	Portanto, se o seu cérebro for condicionado a atingir tal estágio por meio do álcool, é provável que sempre procure essa estratégia afim de alcançar tal meta.	mark
+rain-s6639	A história se passa durante uma viagem do trem Expresso do Oriente com cinco clowns.	expl:pv
+rain-s6670	Para o Apertura 2010, Moisés juntou - se à equipe Atlante, onde foi um elemento permanente até sua partida para o Club América.	obj
+rain-s6687	É preciso lembrar que o contexto em que o Barroco se desenvolveu na colônia era completamente diverso daquele que lhe dera origem na Europa.	expl:pv
+rain-s6711	Ainda segundo a publicação, 1 bilhão de reais serão aplicados em financiamentos que não se enquadrem nos programas especificados.	expl:pv
+rain-s6715	O petista se esquivou de responder sobre o mensalão e voltou a acusar administrações do PSDB.	obj
+rain-s6739	No entanto, os riscos que este modelo de contratação embute precisam ser considerados tanto pelas empresas quanto pelas pessoas que se sujeitam a ela.	obj
+rain-s6743	A produção mostra um menor dinamismo há meses e isso se reflete com clareza no mercado de trabalho da indústria.	obj
+rain-s6747	Para Leonard Maltin, a série estava tornando - se cada vez mais boba, mas ainda era divertida, pelos padrões das matinês de sábado.	expl:pv
+rain-s6752	Este personagem, que se tornou governador de Sergipe aos 49 anos, ficou no comando do Estado entre os anos de 1959 à 1962.	expl:pv
+rain-s6753	A ideia original era tratar mulheres que fossem se submeter a tratamento de câncer, o que prejudica a fertilidade.	obj
+rain-s6758	Dá para se investir muito dinheiro na área da saúde e isso eu vou fazer.	expl:pv
+rain-s6768	Sobre a campanha que se aproxima, Luciano Agra afirmou que já deu para perceber que as eleições deste ano serão extremamente competitivas.	obj
+rain-s6772	A taxa básica de juros (Selic) e a inadimplência se mantiveram inalteradas neste período, avaliou.	expl:pv
+rain-s6794	É minha última chance, se errar, vou falar com a minha família e amigos: Gente, parei, acabou.	mark
+rain-s6813	Em Dourados, o grupo do PSDC é homogêneo e se mostra pronto a enfrentar grandes desafios, a observação é defendida por Geraldo Sales que responde pela presidência local da legenda.	nsubj
+rain-s6815c	Ademais, se R é uma relação na, então R - 1 também é uma relação em A.	mark
+rain-s6820	Normalmente o lutador recém - chegado se filia a uma academia, cujo dono passa a ser o treinador, gerente e mentor da carreira do atleta.	obj
+rain-s6833	Só que este número é 50 % maior e o déficit real são 30 milhões de toneladas , alerta Vino, vislumbrando que, a cada ano, cerca de 10 milhões de toneladas de grãos produzidos no País se perdem por serem mal armazenadas em equipamentos antigos, e sem condições ideais.	expl:pv
+rain-s6840	Um universo de Kerr é uma variedade pseudoriemanniana ou espaço - tempo onde se verificam as equações de campo de Einstein no vazio, usando as coordenadas de Boyer - Lindquist que vem a ser dadas por:	expl:pv
+rain-s6847	Também vejo como uma irresponsabilidade do ministro da Justiça, pois não está nem aí e não tem a honradez de responder as nossas solicitações , reclamou se referindo ao requerimento feito há um ano sobre o tema e que até o momento não houve retorno.	expl:pv
+rain-s6854	Jane conheceu a atriz aos 12 anos e se relacionou com ela até os 16.	obj
+rain-s6861	O republicano é amigo pessoal do premiê Benjamin Netanyahu, cuja relação com Obama se deteriorou após divergências sobre a política no Oriente Médio.	obj
+rain-s6872	A empresa, maior operadora de parques eólicos do mundo, deve se focar em futuros investidores nos Estados Unidos e no Brasil, assim como em seu negócio global de energias renováveis, e deve vender ativos de energia regulados ou participações em empresas.	obj
+rain-s6873	A isso se quer atribuir à obra do acaso.	expl:pv
+rain-s6893	O novo integrante da Câmara de Salvador falou da sua militância como estudante e da sua relação interna com o partido, onde se encontra há 15 anos.	expl:pv
+rain-s6919	Ela se aproveitava do descuido das funcionárias e furtava objetos pessoais das vítimas que começaram a suspeitar e anunciou à gerência a possibilidade de ter alguém na loja praticando furtos, prontamente foram instaladas câmeras de segurança que identificaram Lidia Luany.	expl:pv
+rain-s6940	Atualmente a Inglaterra se divide em quatro níveis de subdivisões administrativas: regiões, condados, distritos e paróquias.	expl:pv
+rain-s6946	Primeiramente, eu não sei se vou entrar, mas estou tranquilo, trabalhando sério.	mark
+rain-s6947	José Silva está finalizando a primeira etapa de sua campanha ao Executivo, na qual tem se apresentado aos eleitores nas principais vias da cidade e nos centros comerciais.	obj
+rain-s6949	A dificuldade do índio entender a violência contra a sua companheira, inclusive desconfiando que o sexo possa ter sido consentido, está fazendo com que a índia reveja a decisão de se casarem, conforme ela admitiu ao Jornal do Brasil.	expl:pv
+rain-s6978	Atualmente, a brasileira trabalha num bar, onde se comunica com clientes estrangeiros em inglês.	expl:pv
+rain-s6982	Fiscais da Fundação Procon de São Paulo estão nos aeroportos de Congonhas (São Paulo) e Viracopos (Campinas) para averiguar se os direitos dos consumidores estão sendo respeitados pelas companhias aéreas.	mark
+rain-s7004	Para prevenção, o recurso solicita que a presente ação, bem como o recurso, seja enviada para o magistrado, evitando - se decisões conflitantes sobre a mesma matéria.	expl:pv
+rain-s7005	A meu ver Geiza se mostrou como coautora da prática criminosa de corrupção ativa.	obj
+rain-s7014	Cantores como Victor e Léo, Thiaguinho, Michel Teló e Sorriso Maroto se apresentarão.	obj
+rain-s7031	A guerra ocorreu no nordeste asiático, agravou - se, e o regime político do czar Nicolau II da Rússia foi abalado por uma série de revoltas internas em 1905, envolvendo operários, camponeses, marinheiros (como a revolta no couraçado Potemkin) e soldados do exército.	expl:pv
+rain-s7043	A versão 2.4 mudou a pasta da Área de Trabalho para o diretório ~/Desktop (o ~ representa a pasta principal do usuário) para tornar-se compatível com os padrões freedesktop.org	expl:pv
+rain-s7049	A Iugoslávia acabou se desintegrando.	expl:pv
+rain-s7056	O contrato entre o jogador e o clube se encerrou no último sábado, dia 30 de junho, e ele depende dum seguro contra qualquer lesão para poder jogar.	expl:pv
+rain-s7060	Não sei se o poder aquisitivo melhorou, mas no sábado chegou a acabar as coisas para vender na barraca.	mark
+rain-s7077	Dentre os produtos mais procurados pelos consumidores, se destaca o aparelho de televisão, com 18,7 % das respostas citadas pelos participantes da pesquisa.	expl:pv
+rain-s7083	O príncipe - herdeiro acabou casando - se com a princesa Margarida de Saboia, sua prima em primeiro grau, em 21 de abril de 1868.	obj
+rain-s7092	Este tipo de abrigo também pode servir como sala de pânico, onde os habitantes se podem refugiar em caso de assalto à habitação.	expl:pv
+rain-s7093	Ao invés de buscar a ajuda de Deus, a criatura tentou disputar por conta própria, procurando se igualar a Deus.	obj
+rain-s7110	Solicito a ampliação da prefeitura, para que todas as secretarias municipais que não estão funcionando em prédio próprio sejam remanejadas, para se concentrarem no mesmo local, diz a vereadora, explicando que a indicação atende reivindicação da população.	expl:pv
+rain-s7112	O candidato defende ainda a humanização da frota de ônibus e se comprometeu em equipar os veículos com ar - condicionado até o final do seu mandato.	obj
+rain-s7121	Devido a esta tendência, o Procon de Mato Grosso do Sul dá algumas dicas aos consumidores para não se prejudicarem.	obj
+rain-s7122	E parabéns a esse blog que sempre se mostrou favorável à Lei da Ficha Limpa e contra a velha política praticada no RN.	nsubj
+rain-s7142	É lógico que aqui ninguém é inegociável, se tiver uma boa proposta o Atlético - GO vai estudar sem nenhum problema.	mark
+rain-s7145	Essa é uma situação tenebrosa, afinal, são dezenas de trabalhadores com os débitos pessoais aumentando a cada dia, gerando o pagamento de juros, empréstimos com bancos, risco de corte na energia de suas residências, além da dificuldade de se locomoverem até o próprio trabalho, denunciou a entidade.	obj
+rain-s7154	Ele vai se tornar o primeiro chefe do Pentágono que foi soldado de tropa.	expl:pv
+rain-s7159	A mando dos vilões, um traficante irá se infiltrar na festa de Nina e colocar a droga na bolsa dela.	obj
+rain-s7184	Há uma grande peregrinação anual ao Santuário de Vila Viçosa que se celebra todos anos a 8 de Dezembro, dia da solenidade da Imaculada Conceição, Padroeira Principal de Portugal.	expl:pv
+rain-s7201	O seu crescimento vertiginoso, ao mesmo tempo que ganhava grande prestígio na Europa, deveu - se ao grande fervor religioso e à sua poderosa força militar.	expl:pv
+rain-s7215	Foge para o planeta Ródia onde se envolve com a filha do monarca, a jovem Artemísia.	obj
+rain-s7257	é a chamada terapia holística, cuja proposta é fazer a pessoa entender os sentimentos que lhe fazem mal para, a partir disso, ser tratada com acupuntura, medicina fitoterápica e, se necessário, remédios alopáticos.	mark
+rain-s7259	A modelo não demorou para usar sua conta no Twitter para justificar o acidente e dizer que Astala, de quatro meses, não se machucou.	obj
+rain-s7292	A Zona Norte foi composta de dois grupos de três times cada, onde os dois primeiros colocados de cada grupo se classificaram para a final da fase norte, os dois segundos para a disputa de terceiro e quarto lugar e os dois terceiros para a disputa de quinto e sexto lugar.	expl:pv
+rain-s7294	Na quinta - feira (23), uma imagem da advogada de roupão, se preparando para o ensaio, já havia sido divulgada.	obj
+rain-s7297	Agnelo também admitiu que se encontrou com Carlinhos Cachoeira, mas ressaltou que como diretor da Agência Nacional de Vigilância Sanitária (Anvisa).	obj
+rain-s7306	Outros não se mostraram satisfeitos com a medida.	expl:pv
+rain-s7311	Mas os trabalhadores não se satisfizeram com o acordo.	expl:pv
+rain-s7316	Eles anunciaram o assalto quando o ônibus se aproximava da entrada do Bairro Palestina.	obj
+rain-s7318	Wendel recebeu na entrada da área e chutou cruzado, obrigando Felipe a se esticar para impedir o gol.	obj
+rain-s7322	O colete é um produto inovador com um diferencial para moda e vestuário brasileiro, idealizado para práticas esportivas ao ar livre, leve e resistente, apresentando vários compartimentos que auxiliam no transporte de objetos pessoais que ao ser desdobrado de forma fácil e rápida se transforma numa rede de descanso podendo ser amarrado em árvores ou suportes.	obj
+rain-s7357	Mas, se eu fosse, isso teria de ser respeitado.	mark
+rain-s7370	Ao se tornar majoritária da empresa colombiana, a BLAU pretende usufruir da possibilidade de lançar novos medicamentos noutros países numa velocidade mais rápida do que no Brasil;	obj
+rain-s7377	Os detalhes da aproximação da Administração Kennedy com Castro foram segredo de Estado durante mais de 40 anos, até 2004 quando se divulgou pela primeira vez parte do esforço diplomático.	expl:pv
+rain-s7378	Esta etapa do julgamento refere - se aos réus ligados ao PP, PL, PMDB e PTB, acusados de terem recebido dinheiro das empresas do publicitário Marcos Valério, por ordem do PT, para apoiar a votação de matérias do interesse do governo.	expl:pv
+rain-s7395	A presidente do principal tribunal do país, Luisa Estella Morales, disse, em entrevista, que, como se trata dum presidente reeleito, não é necessária nova posse diante da Assembleia para o mandato entre 2013 e 2019.	expl:pv
+rain-s7400	Depois de criado game, a simpática máquina fez um trabalho de reflexão sobre o código, para determinar o nível de dificuldade dos cenários, separá - los em classes e aperfeiçoar os que se mostraram muito fáceis.	nsubj
+rain-s7401	A sorte é que os vizinhos se ajudam, argumenta Osmar.	obj
+rain-s7419	A primeira temporada, intitulada American Horror Story: Murder House ocorre nos dias atuais e é centrada na família Harmon, que se muda para uma mansão restaurada, sem saber que a casa é assombrada pelos seus antigos habitantes.	obj
+rain-s7421	Precisamos mobilizar todas as pessoas para que entrem nesta luta conosco, vamos falar para as funcionárias do comércio, da indústria, as secretárias do lar, que nunca têm tempo para nada, para que façam os exames preventivos, que cuidem de sua saúde, que tenham consciência de que é fundamental prevenir e se cuidar.	obj
+rain-s7424	Em 11 º lugar com 43 pontos, o Peixe está a um ponto de livrar - se de qualquer chance matemática de rebaixamento e não tem mais perspectivas de brigar por Libertadores.	obj
+rain-s7425	Não podemos esquecer que o doador deixa parte de suas rotinas, deslocam - se até o Hemocentro para um ato voluntário e altruístico.	obj
+rain-s7445	Se ele quiser ir, não ficaremos contra , ressaltou o dirigente.	mark
+rain-s7469	Se assim o fosse, legalizado estaria o procedimento dos delinquentes, que vivem do cometimento de delitos para fugir da pobreza e a alegam , relatou, nesse caso.	mark
+rain-s7481	Réver teve destaque no futebol brasileiro justamente no Grêmio entre 2008 e 2010 e depois se transferiu para o Wolfsburg - ALE.	obj
+rain-s7486	Fixado em Lisboa, atingiu notoriedade, sendo obrigado em 1917 a refugiar - se em Chaves, numa espécie de exílio político interno, consequência da instauração da ditadura de Sidónio Pais.	obj
+rain-s7508	Com o fechamento do abrigo, o casarão passa a ser ocupado pelo Colégio Estadual Theodorico Fonseca, situação que se encontra atualmente.	expl:pv
+rain-s7513	Os votos válidos excluem os votos brancos, os nulos e os eleitores que se declararam indecisos.	nsubj
+rain-s7519	Em Atlanta, na disputa da maratona olímpica, num percurso cheio de subidas e descidas e sob calor e humidade, ele esteve sempre no pelotão de líderes até distanciar - se dos demais concorrentes com cerca de 35 km, ao lado do sul - coreano Lee Bong - Ju e do queniano Erick Wainaina.	obj
+rain-s7526	Por mais que não cite o nome da companhia que monta dispositivos da Apple, In a Permanent Save State trata especificamente da vida espiritual de sete operários sobrecarregados que se mataram.	obj
+rain-s7544	A trompa natural ou trompa de caça é um instrumento metal antecessor da trompa moderna, que se distingue pela sua falta de válvulas.	expl:pv
+rain-s7549	Em 1779, a família mudou - se para o New River Valley na Virgínia.	expl:pv
+rain-s7573	No ano seguinte, se desentendeu com Carmen Miranda, pois esta, logo após gravar a marcha Querido Adão (Benedito Lacerda e Oswaldo Santiago), viajou para a Argentina, não podendo lançar a música no rádio.	expl:pv
+rain-s7576	O marido Noel não pode se queixar da vida: tem casa, comida e roupa lavada.	expl:pv
+rain-s7619	Para o professor de Direito Civil da PUC - SP Ragner Limongeli, mesmo nos suicídios, em que pode se interpretar que há responsabilidade só da vítima, a indenização é devida.	expl:pv
+rain-s7630	Relata - se também a ocorrência no Zaire;	expl:pv
+rain-s7639	A quem falta a iluminação da fé, o perigo de se voltar contra a excelência do ser humano, é um escolho a surpreender a qualquer momento.	obj
+rain-s7654	No novo duelo, por outro lado, o time chega embalado por três triunfos seguidos, sem tomar sequer um gol se repetir a dose alcançará o recorde de partidas sem ser vazado.	mark
+rain-s7673	O espanhol David Ferrer, quinto melhor tenista do mundo, classificou - se nesta sexta - feira para a semifinal do Masters 1.000 de Paris ao derrotar o francês Jo - Wilfried Tsonga por 6-2 e 7-5 numa hora e 20 minutos.	obj
+rain-s7678	Isso ajuda um piloto que queira se adaptar o quanto antes para competir na categoria principal, que é o meu caso disse o piloto Beto Cavaleiro, da Montana.	obj
+rain-s7685	O professor Cláudio afirma que a finalidade era verificar se o tratamento havia sido feito corretamente e os infectadss com a doença estavam curados.	mark
+rain-s7695	Além de ter baleado um enfermeiro, um oficial de justiça e uma psicóloga dona do sobrado onde ocorreu o fato e que morava junto com Fernando --, o administrador de empresas também atirou contra três policiais, que se defenderam com um escudo.	obj
+rain-s7697	Mas é evidente que ao longo do tempo vai se decantar uma visão própria minha a esse respeito.	expl:pv
+rain-s7728	Para o ministro do STJ, nenhum consumidor pode se endividar ou ser endividado além do mínimo necessário à manutenção da família e da própria existência.	obj
+rain-s7734	A professora de ginástica Miss Desjardin (Judy Greer) tenta, em vão, proteger Carrie de garotas desprezíveis, lideradas pela popular e arrogante Chris Hargenson (Portia Doubleday), mas apenas a melhor amiga de Chris, Sue Snell (Gabriella Wilde), se arrepende de suas ações.	expl:pv
+rain-s7735	A partir da inauguração, cada cidade de Rondônia se conecta com o conteúdo produzido em Porto Velho (RO).	obj
+rain-s7743	Se Lula Pereira está no páreo para ser o substituto, o América já descartou alguns nomes, como o de Mazola Júnior, que conquistou o acesso na Série B do ano passado pelo Sport.	mark
+rain-s7747	Mesmo que o desenvolvedor não use o código da Oracle, só tem direito à propriedade intelectual se passar no TCK.	mark
+rain-s7748	Segundo ela, em março do ano que vem os representantes do governo e da sociedade civil se reunirão para discutir o status da mulher, com a intenção de encontrar um acordo sobre ações eficazes de prevenção à violência.	obj
+rain-s7751	Entretanto, o namorado disse à polícia que, durante a briga, a escrivã da Polícia Federal ameaçou se matar.	obj
+rain-s7752	Ira Rothken, advogado de Dotcom nos EUA, explicou que todas as partes implicadas no processo se reuniram com o juiz do tribunal, David Harley, segundo informou a rádio neozelandesa NewstalkZB.	obj
+rain-s7754	D. Inigo nunca mais entrou numa igreja e crê - se que tinha um pacto com o Diabo, pois, a partir de então, não havia batalha que não vencesse.	expl:pv
+rain-s7776	Apesar da resposta desafiante, sua atitude e dos outros acusados foi bem diferente da manifestada nas primeiras audiências em maio, quando não responderam ao juiz, não prestaram atenção ao processo, e inclusive se levantaram para rezar.	obj
+rain-s7780	O único modo que você pode fazer dinheiro é se alguém vir o programa e falar que quer transformar em série ou num filme.	mark
+rain-s7791	Vamos ver se há possibilidade de reverter essa decisão no mínimo temerária ¿, disse o desembargador.	mark
+rain-s7806	Margarida se apresentou como uma candidata de oposição à atual administração e com a proposta de mudança de verdade.	obj
+rain-s7822	Quando não está de licença, porque se não tiver o médico lá, eles mandam a gente pegar o ônibus e seguir até o Santa Antonieta ou o Hospital das Clínicas.	mark
+rain-s7832	Já são quatro meses com dólar acima de R $ 2, uma situação que vai se consolidando.	obj
+rain-s7837	Tanto Vettel, que tem sido associado a uma mudança para a Ferrari quando seu contrato com a Red Bull terminar no final de 2013, quanto Alonso, estão lutando para se tornar o tricampeão mais jovem da história este ano.	expl:pv
+rain-s7839	Billy tornou - se não apenas o chefe da guarda pessoal de Geese como também seu campeão supremo nos clandestinos torneios King of Fighters que Geese organiza anualmente.	expl:pv
+rain-s7850	Segundo o site The Hollywood Reporter, eles se juntarão à protagonista Diane Kruger (Bastardos Inglórios).	obj
+rain-s7851	Amigos confirmaram que ele e Osvaldo se conheciam e não tinham nenhum tipo de rixa.	obj
+rain-s7855	Frequentemente ocorrem outras formas de lesões simultâneas, que, ao invés da hemiparesia esperada, apresentam - se como uma paraparesia.	expl:pv
+rain-s7856	O novo juiz chega de Salvador e vai decidir se Jesuíno é culpado ou não pela morte do casal.	mark
+rain-s7861	A entrada da fazenda se localiza a cerca de 40 quilômetros da curva do S da rodovia PA - 150, local onde 19 trabalhadores rurais sem - terra foram assassinados em 17 de abril de 1996.	expl:pv
+rain-s7865	Um analista ouvido pelo O Globo destacou que a situação financeira da companhia vem se agravando nos últimos três anos, quando aumentou seu endividamento em cerca de US $ 60 bilhões, sem conseguir elevar a produção de petróleo.	obj
+rain-s7869	Todos os sábados, os membros se encontram no lago para mostrar suas habilidades náuticas.	obj
+rain-s7870	Já se a disputa fosse travada entre Russomanno e Haddad, o candidato do PRB venceria com 54 % dos votos, contra 31 % do petista.	mark
+rain-s7877	Estende - se por uma área de 30,22 km ².	expl:pv
+rain-s7888	Mesmo com o título de Miss Brasil Mundo conquistado em casa, a mineira Adelaide Fraga de Oliveira, Miss Brasília, não conseguiu repetir o feito de Mariza Sommer, quarta colocada em 1974 e não se classificou entre as semifinalistas do concurso em Londres.	expl:pv
+rain-s7894	É uma doença que infelizmente pode acontecer com qualquer pessoa, acometer quaisquer famílias, mas que pode ser curada se detectada em sua fase inicial.	mark
+rain-s7902	Na matéria em questão, pontos positivos de se morar só são exaltados: morar só leva a introspecção, e consequentemente ao auto conhecimento.	expl:pv
+rain-s7925	A importância do datum prende - se à necessidade de projetar um corpo curvo e a 3 dimensões (a Terra), num plano a duas dimensões mantendo no entanto os cruzamentos em ângulos retos dos meridianos e paralelos (o mapa).	expl:pv
+rain-s7930	Fernanda Lima À frente do Fica Comigo, espécie de Namoro na TV moderninho, Fernanda Lima se tornou um rosto conhecido nacionalmente.	expl:pv
+rain-s7937	Por meio de nota, informou que só depois da sanção presidencial é que o Ministério da Educação vai se debruçar sobre a forma de sua implantação, mas já adiantou que vai propor a Dilma o veto à seleção pelo coeficiente de rendimento do estudante ao longo do ensino médio, como consta no projeto de lei.	obj
+rain-s7948	Após algumas oscilações, o treinador espera que a equipe encontre a regularidade já a partir da disputa com os pernambucanos para não se distanciar do G - 4.	obj
+rain-s7954	Acima e um tanto atrás se eleva outro arco ogival, já mais rico de espinhas e florões, terminando em pináculo, com um grande óculo ovalado com uma rosácea redonda de oito lobos em seu interior.	expl:pv
+rain-s7985	A secretária de Segurança Interna dos EUA, Janet Napolitano, disse que os imigrantes ilegais de até 30 anos que entraram crianças nos EUA e que não representam risco à segurança nacional serão permitidos a continuar no país e autorizados a se inscreverem para licenças de trabalho.	obj
+rain-s7989	Toda a área encontra - se na parte sul do Planície Bărăgan e é atravessada por pequenos rios com vales profundos.	expl:pv
+rain-s7993	Roberto Carlos, a quem Hebe costumava sempre se referir com carinho, foi um dos primeiros a chegar ao velório e demonstrou estar bastante emocionado.	expl:pv
+rain-s8006	Se o projeto já estivesse aprovado, seria possível abater a pena e, assim, substituir o regime semiaberto pelo aberto.	mark
+rain-s8017	Marcante na trama, ela deu melhor sentido ao título de Avenida Barril, a paródia da novela exibida pelo Pânico na Band que, originalmente, se inspirava na casa do mexicano Chaves.	obj
+rain-s8026	Passo 21: Prenda os fios no coque e, se precisar, use grampos para segurar as pontas.	mark
+rain-s8028	Gaby Amarantos se define como a tradução quase literal do patchwork, técnica que une tecidos com uma infinidade de texturas e formatos variados.	obj
+rain-s8031	O especialista ressalta que o consumo desses alimentos pode não resultar em boa saúde ocular se for acompanhado do consumo excessivo de açúcar, alimentos ricos em gordura saturada como as carnes bovinas e os derivados de leite.	mark
+rain-s8073	Quando se enfrentaram pelo primeiro turno, o time de Araraquara levou a melhor na Arena da Fonte, vencendo por 2 a 1.	obj
+rain-s8103	Com o Campinas já classificado e o Sesi - SP com uma vitória contra a equipe do ABC, as chances da final do Estadual 2011 se repetir são grandes.	expl:pv
+rain-s8107	Hebe não realiza gravações para a televisão desde junho, quando se submeteu a novas internações por conta dum tratamento contra um câncer no peritônio, descoberto em 2010.	obj
+rain-s8117	Deputado, durante sua passagem pela Assembleia, a ação de maior destaque foi a CPI do Grampo que acabou sendo esvaziada no fim e não se sabe até hoje o seu conteúdo.	expl:pv
+rain-s8118	Se esse cenário, sem grandes catástrofes naturais, permanecer, a expectativa da Marsh é que os segurados no mundo inteiro consigam renovar suas apólices a taxas fixas até o final deste ano.	mark
+rain-s8121	Os diretores Peter Farrelly (Antes Só do Que Mal Casado), Mike Judge (Como Enlouquecer Seu Chefe), Todd Phillips (Starsky &amp; Hutch Justiça em Dobro), Brett Ratner (trilogia A Hora do Rush) e a dupla Josh Gordon e Will Speck (Escorregando Para a Glória) irão se juntar para um projeto de comédia ainda sem título e, segundo a Empire Online, estes são apenas os primeiros nomes a serem anunciados.	obj
+rain-s8123	Na ocasião, 89 crianças, professores e demais educadores se reuniram, na tarde desta quinta - feira (20 / 09), para participar duma palestra divertida, interativa e, principalmente, educativa.	obj
+rain-s8128	A vinda e a posterior saída conturbada de Adriano Imperador fez com que o clima no clube ficasse ainda mais taxado como desorganizado e ruim para se trabalhar.	nsubj
+rain-s8147	Peter Carsten von der Ohe, do Instituto Helmholtz, afirma que é imperativo que se inclua essa substância nos programas de monitoramento de rotina em escala continental.	expl:pv
+rain-s8149	Antes da normalização, na Rodoviária do Plano Piloto, usuários do metrô se dividiram entre os que buscaram meios alternativos e os que preferiram esperar o sistema voltar a funcionar.	obj
+rain-s8153	Apesar de mais raros, observa Samuel, há registro também entre os jovens e, sempre que isto ocorre, desconfia - se da possibilidade de ser um problema hereditário.	nsubj
+rain-s8157	As partidas realizam - se no Estádio de Hóquei do Olympic Green.	expl:pv
+rain-s8162	Os abusos teriam começado quando a vítima tinha 12 anos, e se manteve até ela completar 16 anos.	expl:pv
+rain-s8172	Na opinião de Cunha, no entanto, por se tratar de entidade sui generis , com status de autarquia sob regime especial, o conselho deve obedecer, na eleição de seus membros, às mesmas restrições impostas ao Parlamento.	expl:pv
+rain-s8175	Uma restrição dessas árvores é a necessidade de não haver um elemento que seja prefixo doutro, o que pode facilmente ser obtido se necessário.	mark
+rain-s8180	Mistura uma investigação causal e objetiva com uma abordagem mais subjetiva, ligada às impressões dos operadores sobre o que se passou.	expl:pv
+rain-s8198	O embaixador brasileiro na Organização Mundial do Comércio (OMC), Roberto Azevêdo, se reuniu em Washington com representantes dos departamentos de Agricultura e Comércio Exterior dos EUA e apresentou as partes que o Brasil considera mais problemáticas nos programas de ajuda aos produtores.	obj
+rain-s8206	O diretor do Centro de Estudos Estratégicos, Mikhail Dmitriev, advertiu que o primeiro - ministro poderia se despedir de seu posto já nos próximos meses, com a aprovação da reforma do sistema de pensões que o Ministério do Trabalho elabora.	obj
+rain-s8226	Com um lançamento de 81,24 m, ele conquistou o ouro olímpico e tornou - se o quarto húngaro a conquistar uma medalha de ouro na prova, mantendo a tradição do país em Jogos Olímpicos.	expl:pv
+rain-s8230	O Estado judeu que não confirma nem nega possuir armas nucleares, como se suspeita diz que resta pouco para que o Irã obtenha uma zona de imunidade na qual as bombas israelenses seriam incapazes de penetrar nas instalações subterrâneas de enriquecimento de urânio.	expl:pv
+rain-s8233	De maneira nenhuma associei a doação de campanha a qualquer ato administrativo no Dnit, e pedi, sim, se pudessem fazer alguma doação de campanha.	mark
+rain-s8243	O cutucão claro se reporta ao PT de Lúdio Cabral, em esquema sob julgamento no Supremo Tribunal Federal (STF), arquitetado no governo do ex - presidente Lula, com envolvimento doutros partidos como o PTB e o PP.	expl:pv
+rain-s8265	A unica igreja católica do lugar é uma maravilha a parte, construção provavelmente da decada de 80 para 90 se mantem intacta e muito bem conservada pelos moradores, igreja que tem como padroeira Nossa Senhora da Luz.	expl:pv
+rain-s8266	Os ovos, quando são postos são de cor amarelo - esverdeada, tornando - se, depois, dum preto brilhante e aparecem agrupados em grande quantidade, o que não costuma acontecer entre muitas espécies de afídios.	expl:pv
+rain-s8270	Quando a Garota Chapinha sai, vê que o marido dormiu na sarjeta e se espanta.	obj
+rain-s8276	Faltando pouco menos dum mês para as eleições, a candidatura de Jonas Marins se consolida na liderança, abrindo 23 pontos percentuais do segundo colocado na pergunta estimulada sobre o atual Prefeito e candidato à reeleição Zé Renato.	obj
+rain-s8278	O ministro deve se aposentar de forma compulsória na próxima semana.	obj
+rain-s8294	Nesse sentido, investiu no palanque de Luiz Paulo Vellozo Lucas, na Capital, segunda maior vitrine política depois do governo do Estado, e se movimentou em favor da candidatura de Rodney Miranda (DEM) em Vila Velha, o maior colégio eleitoral do Estado.	obj
+rain-s8304	O primeiro caso refere - se a uma dívida de campanha da eleição de 2010 de Perillo paga com recursos do esquema de Cachoeira.	obj
+rain-s8315	Escutei as alegrias e mazelas do povo, indicou esta experiente política conservadora de 60 anos que, após oferecer incenso aos sul - coreanos caídos em combate, se comprometeu a construir uma Coreia onde todos sejam felizes.	obj
+rain-s8333	A coisa foi tão primária que até eu fico em dúvida se é possível tanta burrice , escreveu no blog.	mark
+rain-s8334	Sem se envolver nas questões internas que culminaram numa nova queda alviverde, Cavalieri prometeu acompanhar o desempenho de seu ex - clube na segunda divisão e garantiu que ficará na torcida pelo acesso palmeirense.	obj
+rain-s8338	Os quadrinhos se destacam por seu grande elemento erótico shakspeariano e por ser um fumetti particularmente rico em violência, embora nunca seja levado a níveis extremos.	obj
+rain-s8340	A paisagem da mudança para o bem social tornou - se muito mais diversificada ao longo das últimas duas décadas, e as opções estão aumentando.	expl:pv
+rain-s8364	Conhecido por seu desejo constante de se reinventar e experimentar com diferentes gêneros musicais, Bowie é considerado uma das estrelas mais influentes e incomuns da era pop.	obj
+rain-s8384	Poderão inscrever - se estudantes de Direito que estejam cursando entre o 5 º e o 8 º período.	obj
+rain-s8385	A cidade hanseática se orgulha dessa herança, principalmente de Thomas Mann, honrado com o prêmio Nobel e autor da saga familiar Buddenbrooks, entre tantos outros trabalhos.	expl:pv
+rain-s8391	O jogador fez algumas declarações polêmicas após a elminação da equipe na Eurocopa, dizendo que se a torcida ficou triste, não era um problema dele:	mark
+rain-s8401	Ao se aproximar da cantora com papel e caneta, provavelmente para pedir um autógrafo de Gaga, o fã foi imobilizado por dois seguranças.	obj
+rain-s8405	Algumas comunidades cristãs que falavam português, nas Índia, Sri Lanka, Malásia e Indonésia preservaram a sua língua mesmo depois de se isolarem de Portugal.	obj
+rain-s8423	Os jogadores deve separar por espécies, e evitar que os animais cheguem perto de predadores ou se misturem com outros.	obj
+rain-s8429	Nós pedimos para que não se leve o celular, mas para quem levar nós pedimos que desligue ou deixe na mesa do presidente da seção, para evitar qualquer tipo de problema.	expl:pv
+rain-s8437	Temer ainda afirmou que, se não fosse a liderança e a capacidade de agregação de Ulysses, não existiria uma Constituição no Brasil.	mark
+rain-s8443	O velocista de 25 anos admitiu o doping e se recusou a fazer um segundo teste.	expl:pv
+rain-s8447	De acordo com a chefe de gabinete de gestão do IMB / Segplan, para dezembro espera - se que a inflação seja mais alta do que a registrada em novembro, porém, ainda assim a expectativa é otimista.	expl:pv
+rain-s8456	O Forte de Sanquelim localizava - se na vila de Sanquelim, no concelho de Bicholim no noroeste de Goa, na costa oeste da Índia.	expl:pv
+rain-s8470	Quando o vejo, acho que ele poderia jogar se quisesse elogiou.	mark
+rain-s8472	Já noutra pergunta ele coloca se o funcionário público vai ter a opinião respeitada e não sofrer algum tipo de perseguição quando o seu ponto de vista divergir da administração municipal.	mark
+rain-s8473	Perguntado se gostaria de ser um dos treinadores duma edição futura do TUF Brasil, Werdum disse que a ideia lhe agrada.	mark
+rain-s8485	Jéssica se arrumará para ir até a boate.	obj
+rain-s8489	Sobre a prisão dos policiais da UPP da Mangueira, denunciados por suposta extorsão a um traficante local, Frederico Caldas disse que os militares serão investigados e, se comprovada a denúncia, os militares serão punidos.	mark
+rain-s8514	Newton considerava a primeira lei como verdadeira em qualquer referencial movendo - se com velocidade uniforme em relação às estrelas fixas;	obj
+rain-s8553	Para o secretário especial da Copa 2014 no Ceará, Ferruccio Feitosa, as arquibancadas da Arena Castelão vão se encher com a alegria dos torcedores de todo o mundo nos grandes jogos que a capital cearense vai receber.	expl:pv
+rain-s8569b	Convenção de Berna (anexo III) O registo fóssil indicia que este grupo de mustelídeos evoluiu a partir de ancestrais semelhantes a martas e fuinhas (Gén. Martes), que no Terciário (há 65 2 milhões de anos) diferenciaram - se, apresentando uma evolução na dentição em direcção à omnivoria (importância crescente dos dentes tuberculados atrás das mandíbulas e redução dos dentes carniceiros cortantes).	expl:pv
+rain-s8571	À medida que o xadrez se espalhava pelo restante da Europa, a Espanha contribuiu com as principais literaturas sobre o xadrez do período, culminando com o Libro de los juegos (1283), encomendado por no.	expl:pv
+rain-s8572	A mãe declarou que não se arrepende do ocorrido, e que é esse o jeito de educar o filho.	expl:pv
+rain-s8582	No entanto, em conjunto com a Paróquia de Aver-o-Mar, a paróquia encontra - se a esboçar uma igreja interparoquial de grandes dimensões, dado que a construção em altura domina o Agro - Velho.	expl:pv
+rain-s8585	Com isso, imagina - se que o MVP das finais da NBA em 2006 use o período olímpico para descansar e estar 100 % na próxima temporada.	expl:pv
+rain-s8591	Entenda se a empresa não estiver em condições de negociar.	mark
+rain-s8601	Tanto Billy quanto seu filho devem mergulhar neste mistério, se quiserem sobreviver.	mark
+rain-s8622	O brasileiro defendeu - se dos ataques de Kimi Raikkonen na última volta e ajudou a Ferrari no mundial de construtores.	obj
+rain-s8639	Na Grã - Bretanha, Pops Mensah - Bonsu foi quem mais se destacou ao contabilizar 13 pontos e 12 rebotes.	obj
+rain-s8642	A equipe da coligação preparou uma carreata e percorreram diversas ruas de Caracol, onde muitos cidadãos se juntaram ao grupo aumentando ainda mais o número de pessoas que desejam uma Caracol cada vez melhor.	obj
+rain-s8648	As diferentes formas de craniossinostose classificam - se segundo a sutura craniana afetada: O tratamento da craniossinostose é cirúrgico, tendo em vista o risco de hipertensão intracraniana e sofrimento cerebral que pode levar a regressão do desenvolvimento neuropsicomotor, a possibilidade de alterações oftalmológicas que podem chegar à perda de visão, além das razões de ordem estética.	expl:pv
+rain-s8668	Paradoxalmente, busca - se o equilíbrio entre o doce e o ácido.	expl:pv
+rain-s8677	Donatti se defendeu.	obj
+rain-s8704	Ao sair da festa na madrugada da última segunda (19), brincando com umas das madrinhas, Fábio se desequilibrou e caiu.	obj
+rain-s8727	O encontro foi classificado como ótimo e a expectativa é que a parceria seja renovada ao final do atual contrato, que se encerra em dezembro de 2014.	obj
+rain-s8740	De noite, transforma - se na misteriosa Ana Petrova, um transformista em ascensão que actua regularmente no bar O Recruta.	expl:pv
+rain-s8746a	O plano parece perfeito, mas tudo se complica quando entra na história a bela Victoria, uma misteriosa bailarina cujos pais foram assassinados pela ditadura de Pinochet.Sala	expl:pv
+rain-s8762	Mas não se preocupe: Para a maioria do país, comunicador FDP não é aquele coloca a vida dos outros em risco, é aquele que fala o que pensa.	obj
+rain-s8777	E também, em 1540, o rei Henrique VIII obrigou Thomas Wyatt e Elizabeth Brooke a reconciliarem - se.	obj
+rain-s8783	Em 1985 fez uma pequena participação no Filme Teen Wolf, com Michael J. Fox, de 1992 a 1997, Doug Savant interpretou Matt Fielding em Melrose Place, papel que se tornou notável por ser um dos primeiros personagens gays na televisão.	expl:pv
+rain-s8789	Na cobrança, Danilo colocou no centro do gol e Sosa precisou afastar de soco para não se complicar.	obj
+rain-s8811	O Mago se tornou o braço esquerdo do Rei e mais tarde assassinou o próprio, começando uma caçada sobre os Ancestrais dos Sábios e assim, libertando seu Mestre Ganon.	expl:pv
+rain-s8824	Em viagens longas, é comum as crianças deitarem no banco traseiro ou até mesmo se acomodarem no colo das mães.	obj
+rain-s8830	Quando começou a se interessar pela carreira musical, seu pai, antigo tenente da RAF, tentou convencê - lo a seguir uma carreira mais convencional.	expl:pv
+rain-s8841	Essa adequação torna - se, portanto, importante para a sustentabilidade da política fiscal , escreveu o ministro da Fazenda.	expl:pv
+rain-s8844	Depois de impor a única derrota do líder Fluminense no Rio, a equipe goiana se recuperou de cinco derrotas seguidas vencendo o Internacional, de virada, por 3 a 1, no Serra Dourada, pela 30.	obj
+rain-s8845	Em 1464, durante a Guerra das Rosas, tornou - se no primeiro castelo da Inglaterra a ser derrotado pela artilharia, ao fim dum longo cerco de nove meses montado por Ricardo Neville, 16 º Conde de Warwick.	expl:pv
+rain-s8847b	Trata - se de planta com raízes tuberosas vilosas de poucas ramificações e caule sem ramificações nem pilosidades, com folhas geralmente anuais, inflorescência também sem ramificações, flores de sépala dorsal galeada e pétalas oblongas, labelo sem calcar, e coluna sem apêndices proeminentes, com duas polínias.	expl:pv
+rain-s8856	Em 1956, o Primeiro - Ministro Sir Anthony Eden visitou a propriedade Goldeneye de Fleming na Jamaica para se recuperar duma recaída em sua saúde.	expl:pv
+rain-s8860	Fez - se muitas modificações através dos séculos ao final chegou a ser um lugar esplêndido que mostra a grande cultura de El Salvador.	expl:pv
+rain-s8863	A brincadeira serviu para a equipe de Lady certificar - se de que todas as páginas fossem lidas.	obj
+rain-s8866	Espero que durante os momentos empolgantes não apareça ninguém, mas se aparecer deixo de assistir e atendo com todo prazer.	mark
+rain-s8877	225, CF, caput: Todos tem direito ao meio ambiente ecologicamente equilibrado, bem de uso comum do povo e essencial à sadia qualidade de vida, impondo - se ao poder público e à coletividade o dever de defendê - lo e preservá - lo para as presentes e futuras gerações.	expl:pv
+rain-s8889	Trata - se do centroavante Gustavo Papa.	expl:pv
+rain-s8926	Depois do fim da temporada 2004-05, Joe se tornou num agente restrito, e deixou claro seu interesse em deixar o Suns buscando um time que fosse o líder.	expl:pv
+rain-s8937	Em 2 de março de 2007, Christian Chávez assumiu sua homossexualidade após fotos dele se casando com outro homem no Canadá surgirem na Internet.	obj
+rain-s8946	Prova disso são os vários casos amorosos em que se envolveu ao longo de sua trajetória, tendo um filho até mesmo com uma de nossas beldades brasileiras, a apresentadora Luciana Gimenez.	obj
+rain-s8952	Na 1 ª Temporada, Charlotte Rae apareceu em cada episódio como Edna Garrett, mas ela se afastou parcialmente para mostrar através da segunda temporada a estreia de seu spin - off, The Facts of Life.	obj
+rain-s8977	No Centro da cidade o acumulado nas últimas 24 horas já se aproxima dos 30 milímetros, segundo a estação meteorológica da Gazeta Grupo de Comunicações.	expl:pv
+rain-s8979	É preciso entender se o governo é um público, um padrinho, um suporte , pontua.	mark
+rain-s8984	Nos bastidores, comentava - se a briga entre a apresentadora e Silvio Santos.	expl:pv
+rain-s8993	Janaína também se sente aliviada ao descobrir que Nina está em dúvida sobre a sua inocência e diz a Lúcio: Você não tem por que ficar preocupado, Lúcio.	expl:pv
+rain-s9009	Mas valeu o resultado que devolveu ao rubro - negro a liderança do G - 4 da Série B. Além de terminar a 28 ª Rodada com dois pontos de vantagem sobre o vice - líder, o Criciúma, com 58 pontos, e uma vantagem de 11 pontos sobre o 5 º colocado, o Atlético do Paraná, seu próximo adversário no Barradão, com 49 pontos, sem perder o rumo dos seus objetivos na competição que é a vaga no G - 4 e depois, a conquista do título de campeão, motivando a torcida rubro - negra, que proporcionou uma grande festa, que começou nas arquibancadas e se estendeu a todos os bairros, os cantos da cidade de Salvador.	expl:pv
+rain-s9013	Além do delegado, outro homem de 42 anos foi detido, por falsa identidade, onde no momento da abordagem ao delegado, o mesmo estava com seu celular registrando a ação policial, se identificando como repórter da Rede Record de Televisão, porém ele não apresentou nenhuma identificação que comprovasse ser repórter, sendo assim foi recolhido seu aparelho celular e encaminhado junto com o autor para a Delegacia de Polícia para as providencias previstas em lei.	obj
+rain-s9016	Os presentes à reunião destacaram a importância da iniciativa, e todos concordaram que é necessário sensibilizar o representante da Caoa para que ele se decida por implantar o benefício em Campina Grande.	expl:pv
+rain-s9023	Toda esta parte da villa elogia, através da pintura e dos símbolos da arte romana e do paganismo dos mitos do Olimpo, a figura do Imperador Carlos V, mas aqui manifesta - se um dos sinais velados de cunho político;	expl:pv
+rain-s9027	A homenagem se deu pelo reconhecimento ao trabalho do editor no resgate histórico da Revolução Constitucionalista de São Paulo de 1932.	expl:pv
+rain-s9043	As chamadas mesas girantes (em Portugal, mesas falantes) protagonistas da chamada dança das mesas, foram fenômenos aos quais alegava - se natureza mediúnica, amplamente difundido na Europa e nos Estados Unidos, a partir de meados do século XIX.	expl:pv
+rain-s9044	Não é minha culpa se os aparelhos pifam quando eu começo a rir.	mark
+rain-s9048	Com o resultado, o Valencia chega a três pontos e se junta ao Bayern de Munique, que perdeu para o Bate Borisov por 1 a 0.	obj
+rain-s9054	Com a inauguração de sua fábrica de polietileno derivado de etanol de cana - de - açúcar, com capacidade anual de 200 mil toneladas, tornou - se a maior produtora de biopolímeros do mundo.	expl:pv
+rain-s9064	Com a partícula o circuito do modelo padrão está completo e tudo que existe é explicado, já que ela é teorizada como responsável por trazer massa, consequentemente trazendo a existência o que não existe (que não se vê).	expl:pv
+rain-s9071	Nessa quinta - feira, em confronto direto na luta para evitar o rebaixamento, o time viu só 10.655 pessoas gastarem dinheiro para acompanhar a derrota por 1 a 0 para o Coritiba em Araraquara, mas alega ter se sentido à vontade na Arena da Fonte Luminosa.	expl:pv
+rain-s9075	Não há nenhuma evidência de superioridade dum tipo antigênico de BTX sobre outro, nem se é mais vantajosa a injeção na glândula submandibular ou parótida.	mark
+rain-s9081	Quando começava a se recuperar do trauma do gol - relâmpago, o Chelsea sofreu novo revés.	obj
+rain-s9097	A informação é que o hospital oferece o tratamento por meio da clínica contratada, Neorad, porque que não tem local adequado nem profissionais para o setor de radioterapia, por isso se negou a receber os aparelhos.	expl:pv
+rain-s9099	No entanto, populares que estavam presentes no local da manifestação e que não quiseram se identificar afirmaram que o fim da paralisação em Arcos não foi causado pela falta de consenso entre os caminhoneiros.	obj
+rain-s9107	Os clubes, porém, se mantiveram filiados.	expl:pv
+rain-s9109	Outro fator que a ministra ficou de avaliar é se, de fato, a Funai reconhecia essa área como terra indígena no passado , explicou o senador Cidinho Santos.	mark
+rain-s9116	Soube o governo destas conspirações e convidou Prim a sair de Espanha, e como se negou foi - lhe fixada a residência em Oviedo, mas pouco depois voltaria a Madrid, já que o governo de Narváez ditou uma amnistia.	expl:pv
+rain-s9118	O que se percebe na lista do Top 10 é a presença massiva de empresas que possuem vendas pela internet, que respondem a seis das dez primeiras posições.	expl:pv
+rain-s9133	Pode - se citar ainda o programa Saúde Itinerante Cuidando dos Seus Olhos, durante o qual foram realizadas desde consultas oftalmológicas a cirurgias de catarata, pterígio, dacriociste infecção da pálpebra inferior e descolamento de retina.	expl:pv
+rain-s9143	UTILIZAÇÃO DE FOTO: Não há necessidade de inserir foto no currículo, afinal de contas você não está se candidatando a vagas para modelo fotográfico, não é mesmo?	obj
+rain-s9146	Distância da Capital cerca de 122 quilômetros, com qual se comunica pela SP - 101 até Campinas e desta a São Paulo pela SP - 303 (Via Anhanguera) e SP - 348 (Via Bandeirantes).	expl:pv
+rain-s9169	Treze anos de sofrimento se seguiram.	expl:pv
+rain-s9171	Cadastre - se e receba as matérias por e - mail.	obj
+rain-s9175	Rei da Escócia em 12 de novembro de 1094 em conjunto com o tio (dizia - se primos, na época) Donaldo III, pois com ajuda inglesa e normanda o ajudou a depor o meio - irmão Duncan II.	expl:pv
+rain-s9195	Por que não foi ao médico (visitar Houchin) ou por que não se comunicou com ele?	expl:pv
+rain-s9206	As autoridades estudam se houve falha no motor ou no trem de pouso do Tupolev, ou um erro do piloto.	mark
+rain-s9211	Para o avanço do PIB deve - se esperar 2014, com 1,3 %.	expl:pv
+rain-s9232	No entendimento dele, se não forem readmitidos pelo menos o tempo de trabalho deles precisa ser reconhecidos dentro da CLT (Consolidação das Leis Trabalhistas), regime que regula os direitos dos trabalhadores da iniciativa privada.	mark
+rain-s9238	Jon Jones está se preparando até de madrugada para enfrentar Belfort, que é o campeão mais novo da história do evento.	obj
+rain-s9241	O templo mantém os traços originais, apesar do estragos que sofreu aquando do terramoto de 1 de Janeiro de 1980, já que na sua reparação se optou pelo respeito pela traça pré - existente.	expl:pv
+rain-s9272	É só inserir o prefixo has: attachment, seguido das palavras - chave que se deseja pesquisa, na caixa de buscas do email.	nsubj
+rain-s9273	No anel dourado encontram - se as legendas Entrega da Bandeira Olímpica e Londres 2012 - Rio 2016.	expl:pv
+rain-s9275	Se você tem alguma dúvida sobre segurança da informação (antivírus, invasões, cibercrime, roubo de dados, etc), vá até o fim da reportagem e utilize a seção de comentários.	mark
+rain-s9283	No início da tarde, logo após rápida sessão do Congresso, marcada por muita controvérsia, a 1 ª vice - presidente da Câmara e vice - presidente do Congresso, deputada Rose de Freitas (PMDB - ES), disse que o Congresso só deliberaria sobre os vetos se houvesse acordo.	mark
+rain-s9290	A tropa está doente e se acabando.	obj
+rain-s9312	O endosperma é um tecido altamente nutritivo que pode fornecer alimento ao embrião que está se desenvolvendo, cotilédones e, algumas vezes, à plântula.	expl:pv
+rain-s9321	O jornal O Estadão diz que este projeto só torna oficial uma situação que já acontecia, uma vez que às segundas e sextas - feiras normalmente não se realizavam sessões ordinárias, sendo que só as sessões não deliberativas, os debates sem votação é que ocorriam nesses dias.	expl:pv
+rain-s9333	A ideia de que uma hecatombe mundial de grandes proporções se abateria sobre a raça humana na entrada do equinócio de inverno, que ocorre na mesma data, vem sendo alimentada pelo menos há quatro décadas.	obj
+rain-s9334	As matérias de jornais e revistas nos mostram o mar de corruptos envolvidos num lamaçal de decisões compradas, desvios de recursos públicos, etc, lógico que existem excessões, o que deveria ser a regra (moral, dignidade, imparcialidade) mas não há mais nada em que se crer neste Brasil.	expl:pv
+rain-s9345	Como relator do processo e presidente interino da Casa ele só assume a presidência amanhã, em substituição a Carlos Ayres Britto, que se aposentou na semana passada --, Barbosa deve condenar os parlamentares também à perda do mandato.	obj
+rain-s9350	Se eu fizesse isso, pareceria grávida, ou uma stripper gorda , brinca.	mark
+rain-s9364	Como retorna à equipe depois de dois meses se recuperando duma cirurgia, o meia iniciará a partida no banco.	obj
+rain-s9371	Rafinha se revoltou e publicou o seguinte texto em seu perfil na rede social:	obj
+rain-s9384	O prazo recursal para questionar o resultado preliminar começa às doze horas de hoje e encerra - se às 12h do dia 22 de setembro.	expl:pv
+rain-s9396	No Brasil, a maior parte do que se conhece sobre a História Antiga da Contabilidade provém das pesquisas feitas pelo historiador italiano Federigo Melis, que em 1950 publicou a sua Storia della Ragioneria.	expl:pv
+rain-s9425	Em filogenia, chama - se basal ao clado que primeiro diverge numa árvore filogenética, aparecendo na base dum cladograma.	expl:pv
+rain-s9429	Noutro caso, a Quarta Turma manteve decisão que condenou franqueados da Rede Wizard a se absterem do uso da marca, da reprodução de livros didáticos e de materiais para professores, bem como ao ressarcimento pelos danos gerados (REsp 695.792).	obj
+rain-s9432	Para Renato, a melhora dentro das quatro linhas foi fruto dos treinamentos, não sendo a hora de se empolgar para a sequência de trabalho aparecer naturalmente.	obj
+rain-s9473	Isto explica porque durante um largo período de tempo só se encontram dulzainas no sul, citadas nos textos com variantes arábicas do vocábulo zolami, muito comum nos escritos sobre música do Al - Andalus.	expl:pv
+rain-s9483	Sabemos que o problema não se resume a apenas a escola, mas a única forma de garantir a vida e a integridade física de alunos, professores e diretores foi essa.	expl:pv
+rain-s9484	Essa dívida, que permanceu depois da negociação entre Galo e Vasco, era de 900 mil euros, algo em torno de R $ 2,221,816,77 milhões, se convertido atualmente.	mark
+rain-s9491	É um elenco forte, com jogadores que já atuaram pelas séries A e B do Campeonato Brasileiro e até no exterior, além de jogador que já passou pela seleção sub - 20 (se referindo a Tiago Marabá), disse.	expl:pv
+rain-s9500	Mas os Estados Unidos e a União Europeia se recusaram a dar números precisos relativos ao financiamento entre 2013 e 2020, alegando sérios problemas financeiros.	obj
+rain-s9525	No ano passado, aquele episódio do meu afastamento chegou a causar um mal - estar, mas agora fica claro que está tudo superado (Tite o tirou do time titular e até do banco de reservas depois de Chicão se recusar a ficar na reserva na véspera duma partida contra o São Paulo, pelo Brasileiro).	expl:pv
+rain-s9538	Agora, Sunny deve equilibrar dalgum modo estas novas amizades enquanto se adapta a maneira de viver em Hollywood que, decididamente, é muito diferente da que vivia com sua família em.	obj
+rain-s9555	Ajudou - o a conseguir um visto para os Estados Unidos e casaram - se em março de 1934, e tiveram três filhos.	obj
+rain-s9561	Todos compreenderam que partindo para a Espanha iriam acelerar o processo de absorção política que o conde - duque de Olivares pretendia, segundo Veríssimo Serrão, e na recusa de muitos em cumprir o mandado régio terá de ver - se o detonador do movimento que veio a estalar em 1 º de Dezembro seguinte.	expl:pv
+rain-s9566	Pessoalmente, penso que, se isso vai ser útil para retomar a democracia e o processo de mudança no Paraguai, sou um soldado.	mark
+rain-s9582	Sem saída, Rosário decide criar a menina, a quem acaba se apegando.	expl:pv
+rain-s9597	A Rio - Bahia se estendia até Feira de Santana e, desta cidade até Fortaleza, foi construída, por Getúlio, a Rodovia Transnordestina, atual BR - 116.	expl:pv
