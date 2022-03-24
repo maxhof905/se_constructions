@@ -40,10 +40,10 @@ def get_se_dict(infile):
                     text = elem.strip('# text =').rstrip().replace('«', '').replace('»', '').replace('-- ', '').replace('\'', '').replace('"', '').replace('- -', '')
 
                 if '\tse\t' in elem.lower():  # match the word column of .conllu fo¨rmat
-                    counter +¨= 1
-                    ……–dep_tag = elem.split('\t')[7]
+                    counter += 1
+                    dep_tag = elem.split('\t')[7]
                     # pos_tag = elem.split('\t')[4]  # all labeled as p0000000
-............................            …………–––––––––––––––––––––––…
+
             if counter == 1:  # eliminate sentences where se occurs twice
                 sentence_index += 1
                 se_dict[sentence_index] = [corpus_id, text, dep_tag]
