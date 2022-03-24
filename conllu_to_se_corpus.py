@@ -32,18 +32,18 @@ def get_se_dict(infile):
             counter = 0
             for elem in sentence:
                 if elem.startswith('# sent_id ='):
-                    # todo replace instead of strip
-                    corpus_id = elem.rstrip().strip('# sent_id =')  # keep track of sentence ids from the treebank
+                    corpus_id = elem.rstrip()
+                    corpus_id = corpus_id.replace('# sent_id = ', '')
                 if elem.startswith('# text ='):
                     # replace supra segmental characters (parenthesis and commas influence argument structure > keep)
                     # inconsistent use of dashes > replace with empty string
                     text = elem.strip('# text =').rstrip().replace('«', '').replace('»', '').replace('-- ', '').replace('\'', '').replace('"', '').replace('- -', '')
 
-                if '\tse\t' in elem.lower():  # match the word column of .conllu format
-                    counter += 1
-                    dep_tag = elem.split('\t')[7]
+                if '\tse\t' in elem.lower():  # match the word column of .conllu fo¨rmat
+                    counter +¨= 1
+                    ……–dep_tag = elem.split('\t')[7]
                     # pos_tag = elem.split('\t')[4]  # all labeled as p0000000
-
+............................            …………–––––––––––––––––––––––…
             if counter == 1:  # eliminate sentences where se occurs twice
                 sentence_index += 1
                 se_dict[sentence_index] = [corpus_id, text, dep_tag]
@@ -101,5 +101,3 @@ for root, dirs, files in os.walk(directory, topdown=False):
 #             print(df_dev, df_dev.shape)
 
 #%%
-
-# todo averiguar porque es que desaparce el inicio del index en pt

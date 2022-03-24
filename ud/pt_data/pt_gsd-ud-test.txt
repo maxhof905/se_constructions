@@ -1,107 +1,107 @@
--s6	Tornando-se líder da H.I.D.R.A., foi deposto após uma derrota nas mãos da SHIELD e sofreu um acidente, caindo de considerável altura durante o confronto com o terceiro Duende Verde e o Homem - Aranha.	expl:pv
--s18	Quando ele foi à casa para cobrá - los, Luis Carlos de Oliveira, de 24 anos, se envolveu numa briga com Clodoaldo.	obj
--s45	O governo precisa se organizar e passar a atuar em função de disso.	obj
--s53	O público em geral se sente mais confortável , emenda Filgueira.	expl:pv
--s55	Segundo ele, porém, não é tarefa simples fixar o mês em que a receita vai se recuperar.	expl:pv
--s56	E como os adversários, eles se mostraram bastante otimistas para o confronto deste domingo, no Estádio do Melão.	nsubj
--s59	A secretária municipal da Educação, Lidiney Campos, explicou que as salas multidisciplinares são espaços onde se faz de fato a inclusão e é considerada como uma vitória para a aprendizagem e para o ensino público.	expl:pv
--s66	Com a chegada do calor e o descuido com a higiene, algumas viroses como a cinomose e a parvovirose se tornam ainda mais frequentes.	expl:pv
--s99	A grande maioria dos casos de gripe é leve e cura - se espontaneamente.	expl:pv
--s141	E se nada for feito, esse valor deverá passar de R $ 69,4 bilhões ao ano.	mark
--s151	Que a greve estadual dos professores, que já dura 72 dias, tem causado danos irreparáveis ninguém pode negar, mas o que não se esperava é que ela fosse tomar dimensão internacional, chegando até o Vaticano.	expl:pv
--s165	A Portuguesa não se intimidou e teve mais posse de bola no campo de ataque.	expl:pv
--s180	Para se ter uma ideia, em 2009, quando conseguiu evitar o descenso após uma incrível reação, a distância do Fluminense, então lanterna, para o Botafogo, 16 º colocado, ao término da 29 ª rodada era de sete pontos.	expl:pv
--s188	O hipermercado Flamengo foi administrado nos últimos três anos como se fosse uma mercearia.	fixed
--s194	Ao descobri - los juntos, o marido vinga - se, matando - os.	obj
--s250a	Atualmente, fala - se em 500 habitantes	expl:pv
--s252	No interior do recinto podem ser observados três compartimentos, que se comunicam na área central, cujo pavimento apresenta afloramentos rochosos.	obj
--s263	De Guindos disse apoiar as decisões do BCE e acrescentou que não se deve subestimar a vontade política dos países da zona do euro em desenvolver a união monetária.	expl:pv
--s268	Mas não se pode construir a paz duradoura sem o concurso de todos.	expl:pv
--s275	Ele sonha em publicar seu próprio livro, mas a cada nova tentativa se convence mais de que não é capaz de escrever algo realmente bom.	obj
--s278	Ainda não está confirmado, mas a inscrição calcula - se no máximo até R $ 53,00 para nível médio e R $ 75,00 para nível superior, mensurou Carlos Sérgio.	expl:pv
--s287	Conclusão óbvia: impossível se fazer alguma coisa.	expl:pv
--s291	De acordo com o blog do Vila Notícia, o Conjunto Vila Velha, do bairro com o mesmo nome, nasceu da necessidade de abrigar pessoas doutros bairros que se encontravam em áreas de risco social.	obj
--s293	Se não tiver colocado areia ele deve ser lavado com escova, água e sabão, pelo menos uma vez por semana.	mark
--s306	Inicia - se na avenida Afonso Pena e termina na avenida do Contorno.	expl:pv
--s312	Se o indivíduo for preto ou pardo, a possibilidade aumenta quase três vezes em relação ao branco.	mark
--s320	Estende - se por uma área de 7,45 km ².	expl:pv
--s322	Para as regiões onde se passava a edição de rede, foi criada a Agência GE que concentra material dos reporteres da rede, editado com o padrão das edições paulista e carioca, via satélite, variando de acordo com a necessidade do estado.	expl:pv
--s330	E em 2006, após uma votação para a independência do Montenegro, consumou - se enfim a dissolução formal da federação.	expl:pv
--s345	Poderia ter disputado o governo do Estado em 2010, mas por influência do ex - governador Paulo Hartung (PMDB), de quem se tornou aliado, perdeu oportunidades valiosas de manter e aumentar sua capilaridade.	nsubj
--s366	Registre - se primeiro e depois complete sua assinatura.	obj
--s389	É preciso ter um padrão mínimo de qualidade e as instituições que não evoluíram para o nível mínimo satisfatório, não podem simplesmente continuar abrindo vagas como se nada tivesse acontecido.	fixed
--s393	Destas, 117 tem a situação reconhecida pelo Governo Federal, porém ainda há cidades que não se manisfestaram para decretar emergência.	expl:pv
--s398	O líder tucano chama de risível a explicação do ministério de que a pasta economiza noutros gastos que teria se a compra não fosse feita como é, ressarcindo diretamente as farmácias particulares, sem arcar com outros custos como transporte, armazenamento dos remédios e recursos humanos.	mark
--s405	Justamente por causa da má condição física Diego decidiu abdicar da competição no salto e se dedicar somente à prova no solo.	obj
--s408	Desconhece - se onde Boécio aprendeu a língua grega com tamanha proficiência e profundidade e onde adquiriu os profundos conhecimentos sobre os autores clássicos greco - latinos que a sua obra demonstra.	expl:pv
--s443	A presidenta Dilma Rousseff não pretende se envolver em campanha de candidatos da base aliada nas eleições municipais de outubro.	obj
--s450	E, como um celeb que se preze, Neymar também é príncipe de debutantes.	obj
--s452	Para ele se firmar, ele tem que mostar o futebol do Milan, aquele que o consagrou.	obj
--s457	Quem se divertiu com a pegadinha da Menina - fantasma no elevador, do quadro Câmera Escondida, do programa do Silvio Santos, vai gostar de saber que a pequena que aterrorizava as pessoas como a fantasminha deu um grande passo na sua carreia de atriz.	obj
--s460	Então proprietário da Kuarup Discos, que encerrou as atividades em 2009, Mário de Aratanha captou, em plenos anos 1980, o potencial da música regional que, se não vende milhares de cópias, como continuam querendo as combalidas gravadoras, consegue reunir centenas, e às vezes, milhares de pessoas, em concertos e shows.	mark
--s486	Sua ideias não se restringem ao cinema: Redford é um reconhecido ativista dos direitos humanos, da liberdade de expressão e da preservação do meio ambiente.	expl:pv
--s498	Quando tudo estiver conforme o desejado, não se esqueça de clicar em Salvar para que as suas alterações sejam armazenadas.	obj
--s535	Embora já fosse previsto havia alguns anos (em janeiro de 1976 divulgou - se que o terminal seria instalado já no mês seguinte), o Terminal Intermunicipal do Jabaquara foi criado por meio de decreto assinado pelo prefeito Olavo Setúbal em 21 de janeiro de 1977.	expl:pv
--s536	Com o decreto do GDF, entretanto, tornou - se regular, favorecendo os interesses da quadrilha.	expl:pv
--s537	Com extrema habilidade na perna esquerda e uma visão de jogo fora do comum, Ganso foi se firmando aos poucos na equipe alvinegra.	obj
--s546	Deppis da novela, Cauã Reymond pretende tirar férias de 1 ano da televisão para se dedicar à vida pessoal e ao cinema.	obj
--s558	São dois fatores que, há vários dias, se mostram fortes para impedir que os investidores arrisquem novas posições.	nsubj
--s564	Na mesma data, perdendo para o REC por 3 a 1, o Mixto se classificou.	obj
--s588	O iCloud, da Apple, tornou - se um problema depois que usuários atualizaram seus sistemas para o OS X Mountain Lion, de acordo com 35 % dos entrevistados pelo FixYa.	expl:pv
--s595	A modelo, que já morou na Espanha, se definiu em sua apresentação como gostosa, alegre e humilde, e não mentiu, pelo que podemos ver até agora.	obj
--s600	Questionado sobre se as aeronaves sírias estavam agora banidas do espaço aéreo turco, uma autoridade do Ministério das Relações Exteriores afirmou: Sim, aeronaves civis.	mark
--s643	Os dois ainda teriam brincado ao telefone e Brad Pitt desejou felicidades à ex - mulher, o que ela teria retribuído, já que Pitt também vai se casar em breve com Angelina.	obj
--s663	Autoridades de Chicago alertaram os moradores para ficarem distantes da costa do Lago Michigan e a cidade se prepara para receber ventos de 96 km/h e ondas de mais de 7 m até quarta-feira.	obj
--s680	Maquiavelismo é a denominação que se dá à doutrina política emanada do livro O Príncipe, escrito por Nicolau Maquiavel em 1513.	expl:pv
--s691	A tendência é que Celso de Mello acompanhe os votos favoráveis à interpretação de que cabe ao Supremo determinar a perda de mandato dos deputados condenados, já que durante a sessão desta segunda - feira ele se mostrou inclinado à tese.	nsubj
--s716	Talvez isso explique o fato de não se ter, até aqui, lido ou ouvido qualquer autocrítica da agremiação.	expl:pv
--s719	Considerar - se - á somente o parâmetro [W], que indica a força ou trabalho mecânico, necessário para expandir a massa.	expl:pv
--s723	O aumento do número de smartphones alterou de forma drástica a relação entre os usuários e seus telefones no que se refere à vigilância e proteção de sua informação pessoal, diz Aaron Smith, um dos autores do informe.	expl:pv
--s732	Muito do atraso se deve a disputas judiciais.	expl:pv
--s733	Se você não estiver logado no Twitter, será necessário fazer o login antes da confirmação.	mark
--s736	Tem a ver com as competências que se espera do profissional do futuro , explicou.	expl:pv
--s744	Se você faz uma coisa bem, elas falam: Gosto do seu trabalho.	mark
--s750	Por isso, se você abraça a causa, compartilhe notícias de maus tratos em sua rede e acompanhe o caso não deixe que caia no esquecimento.	mark
--s760	Para tanto, a película e a trama se passa numa cidade que é aterrorizada por um grupo de bruxas de mais 300 anos e tem, como produtor, o diretor e roteirista Oren Peli, do Atividade Paranormal.	expl:pv
--s796	Trata - se das termoeléctricas Pecém I, Pecém II e Itaqui, sendo a primeira compartilhada em partes iguais por EDP e MPX, e as duas últimas de propriedade integral da empresa controlada por Eike.	expl:pv
--s797	O costume de comer a chistorra com talo em vez de pão branco começou a arreigar - se durante os últimos anos do franquismo, alegadamente por ser mais fiel à tradição.	expl:pv
--s800	Durante a competição, é muito importante que os atletas mantenham - se hidratados, pois o esforço físico é grande e há muito perda de líquido.	nsubj
--s811	Conforme o texto aprovado, a determinação é que se amplie os recursos para educação dos atuais 5,1 % do PIB para 7 %, no prazo de cinco anos, até atingir os 10 % ao fim de vigência do plano.	nsubj
--s812	Por toda a região, os eventos devem se estender até o mês de julho.	obj
--s839	Num tour por seus corredores pode - se encontrar de tudo por um preço bastante acessível.	nsubj
--s840	Será que o respeito e amizade tão apregoado pela dupla vai se manter intacto, mesmo com as investidas constantes dos tubarões de White e cia?	expl:pv
--s844	Júlio Pinheiro não participou da plenária de hoje para se reunir com o deputado Guilherme Maluf a portas fechadas.	expl:pv
--s849	O Linea Sublime chega ao mercado por 55.480 reais com câmbio manual de cinco marchas e 58.390 reais se equipado com o câmbio automatizado Dualogic.	mark
--s875	Até hoje o país não tinha um exame oficial para medir se as crianças estavam sendo alfabetizadas ou não na idade correta.	mark
--s890	Segundo o senador com a complementação da BR - 235, na região Nordeste, passando pelo município de Jeremoabo na Bahia, torna - se necessário a remoção da Unidade.	expl:pv
--s893	De repente, dois automóveis se cruzam na esquina e o rangido da brecada antecipa o estrondo duma batida.	obj
--s908	Mas, tal o filme com a Madona, que já invadiu muita sessão da tarde, há alguém procurando uma pessoa desesperadamente e se a crônica ajudar a encontrar, tudo valerá mais ainda.	mark
--s918	Em poucas palavras, DAlessandro rebateu as vaias, mas não se escondeu do momento crítico.	obj
--s931	No total, 22.443 candidatos se inscreveram (veja a concorrência na página oficial do concurso).	obj
--s934	Segundo o juiz, a propaganda de Rodrigues se apropriou da imagem dum líder do PT, que apoia outra candidatura, sendo enganoso para a população.	expl:pv
--s964	Inclusive ele se acidentou com uma.	expl:pv
--s976	A ideia é que trabalhadores e empregados levem à mesa de negociação propostas para que se chegue a uma solução em relação às vagas excedentes na unidade fabril.	nsubj
--s986	Eles também se apresentam no dia 4 de janeiro e é início de temporada para eles também.	obj
--s993	Na saída do show, Sofia Barreto, 17 anos, que acompanha a carreira da artista desde 2009 se diz emocionada.	nsubj
--s994	Algumas frases ganhadoras se limitavam a dizer que adora cinema e adora Batman.	obj
--s998	Somente para os clientes cadastrados no DDA será possível pagar um boleto vencido no banco da escolha do cliente, que esteja participando do DDA, e de forma eletrônica, sem ser necessário se dirigir à instituição emitente da cobrança.	obj
--s1004	Bloomberg enumera o que pode ser feito: Obama deve garantir que leis existentes sejam aplicadas com maior rigor por exemplo, processando - se aqueles que faltem com a verdade ao requerer uma licença para uso e porte de armas.	expl:pv
--s1014	Jane Godfrey, comissária da Suprema Corte de Los Angeles, marcou outra audiência para 15 de fevereiro, quando determinará se a atriz, que não foi à audiência, violou os termos de sua condicional.	mark
--s1036	Segundo ele, a OAB / RO precisa se inteirar de que estamos numa nova realidade e um novo momento na classe, que nos últimos 10 anos passou de pouco mais de 2 mil para mais de 6 mil advogados em Rondônia.	obj
--s1053	A TIM em 2012 também é a operadora menos demandada nos Procons integrados ao SINDEC, posição assumida desde julho de 2011 , relata a TIM, referindo - se ao Sistema Nacional de Informações de Defesa do Consumidor, do Ministério da Justiça.	expl:pv
--s1058	A Rússia, aliada de Assad, pediu que a Síria explique que o ataque foi um trágico acidente que não se repetirá.	expl:pv
--s1065	Assim, os dois candidatos mais votados se enfrentam numa nova disputa.	obj
--s1070	Com o aumento dessa demanda de clientes, a concorrência do setor tem feito com que os valores se tornarem mais acessíveis dentro de diferentes faixas de preço e tipo de atendimento, fazendo com que uma parcela maior da população tenha acesso a esse serviço, especialmente na classe C.	expl:pv
--s1071	No total, se somado com a primeira parcela, deverá ser injetado, segundo os dados do Departamento Intersindical de Estatística e Estudos Sócio - Econômicos (Dieese), um montante de R $ 133,4 milhões na economia local sendo, aproximadamente, R $ 60 milhões nesta segunda parcela.	mark
--s1074	Para todos os sentidos que se olha existe um canteiro de obra ou novas ruas surgindo.	expl:pv
--s1106	Mais de 14.100 pessoas morreram desde o início da revolta desencadeada no dia 15 de março de 2011 por manifestações pacíficas, mas que se militarizaram frente à repressão, segundo o OSDH.	expl:pv
--s1111	O ex - presidente Luiz Inácio Lula da Silva disse nesta quinta - feira que o programa brasileiro de biodiesel não tem retorno e que a grande aposta de matéria - prima é o dendê, referindo - se à palma, hoje plantada em regiões do Pará pela Petrobras Biocombustível.	expl:pv
--s1124	Se a sala for de dimensões pequenas, então dê preferência à aquisição de peças mais leves, como mesas com tampos de vidros ou espelhadas, que dêem a sensação dum espaço mais amplo e não tão cheio.	mark
--s1125	O A Cidade não se responsabiliza pelas opiniões emitidas nos comentários.	obj
--s1132	O Egito se dirige para a estabilidade, foi a manchete do jornal governamental Al - Akhbar, enquanto o independente Al - Masri Al - Yom denunciou o que chamou de violações em massa.	obj
--s1135	Segundo Heliana, há a percepção de que setores como música, audiovisual e arquitetura, que misturam várias cadeias produtivas, são fortes no âmbito da economia criativa, mas precisam ser melhor mensurados, para que se possa identificar as necessidades e, também, as oportunidades.	nsubj
--s1144	E vai, inclusive, fazer o time treinar e se concentrar no CT são - paulino de Cotia, onde ficam as categorias de base	obj
--s1150	A história menciona duas vezes que hikikomori são necessários na sociedade para que outros tenham a quem desprezar e assim se sentirem superiores.	expl:pv
--s1160	A ideia é fornecer um meio de comunicação direto para que as pequenas empresas comuniquem - se com potenciais parceiros, fornecedores e clientes.	expl:pv
--s1191	Nos minutos finais, como era de se esperar, o Grêmio teve a posse de bola durante quase o tempo todo.	nsubj
--s1194	Em Calahorra de Ribas, o Canal cruza o rio Carrión por meio duma ponte - canal, e em Serrón, em Grijota, separam - se os ramais de Campos e Sul.	expl:pv
+test-s6	Tornando-se líder da H.I.D.R.A., foi deposto após uma derrota nas mãos da SHIELD e sofreu um acidente, caindo de considerável altura durante o confronto com o terceiro Duende Verde e o Homem - Aranha.	expl:pv
+test-s18	Quando ele foi à casa para cobrá - los, Luis Carlos de Oliveira, de 24 anos, se envolveu numa briga com Clodoaldo.	obj
+test-s45	O governo precisa se organizar e passar a atuar em função de disso.	obj
+test-s53	O público em geral se sente mais confortável , emenda Filgueira.	expl:pv
+test-s55	Segundo ele, porém, não é tarefa simples fixar o mês em que a receita vai se recuperar.	expl:pv
+test-s56	E como os adversários, eles se mostraram bastante otimistas para o confronto deste domingo, no Estádio do Melão.	nsubj
+test-s59	A secretária municipal da Educação, Lidiney Campos, explicou que as salas multidisciplinares são espaços onde se faz de fato a inclusão e é considerada como uma vitória para a aprendizagem e para o ensino público.	expl:pv
+test-s66	Com a chegada do calor e o descuido com a higiene, algumas viroses como a cinomose e a parvovirose se tornam ainda mais frequentes.	expl:pv
+test-s99	A grande maioria dos casos de gripe é leve e cura - se espontaneamente.	expl:pv
+test-s141	E se nada for feito, esse valor deverá passar de R $ 69,4 bilhões ao ano.	mark
+test-s151	Que a greve estadual dos professores, que já dura 72 dias, tem causado danos irreparáveis ninguém pode negar, mas o que não se esperava é que ela fosse tomar dimensão internacional, chegando até o Vaticano.	expl:pv
+test-s165	A Portuguesa não se intimidou e teve mais posse de bola no campo de ataque.	expl:pv
+test-s180	Para se ter uma ideia, em 2009, quando conseguiu evitar o descenso após uma incrível reação, a distância do Fluminense, então lanterna, para o Botafogo, 16 º colocado, ao término da 29 ª rodada era de sete pontos.	expl:pv
+test-s188	O hipermercado Flamengo foi administrado nos últimos três anos como se fosse uma mercearia.	fixed
+test-s194	Ao descobri - los juntos, o marido vinga - se, matando - os.	obj
+test-s250a	Atualmente, fala - se em 500 habitantes	expl:pv
+test-s252	No interior do recinto podem ser observados três compartimentos, que se comunicam na área central, cujo pavimento apresenta afloramentos rochosos.	obj
+test-s263	De Guindos disse apoiar as decisões do BCE e acrescentou que não se deve subestimar a vontade política dos países da zona do euro em desenvolver a união monetária.	expl:pv
+test-s268	Mas não se pode construir a paz duradoura sem o concurso de todos.	expl:pv
+test-s275	Ele sonha em publicar seu próprio livro, mas a cada nova tentativa se convence mais de que não é capaz de escrever algo realmente bom.	obj
+test-s278	Ainda não está confirmado, mas a inscrição calcula - se no máximo até R $ 53,00 para nível médio e R $ 75,00 para nível superior, mensurou Carlos Sérgio.	expl:pv
+test-s287	Conclusão óbvia: impossível se fazer alguma coisa.	expl:pv
+test-s291	De acordo com o blog do Vila Notícia, o Conjunto Vila Velha, do bairro com o mesmo nome, nasceu da necessidade de abrigar pessoas doutros bairros que se encontravam em áreas de risco social.	obj
+test-s293	Se não tiver colocado areia ele deve ser lavado com escova, água e sabão, pelo menos uma vez por semana.	mark
+test-s306	Inicia - se na avenida Afonso Pena e termina na avenida do Contorno.	expl:pv
+test-s312	Se o indivíduo for preto ou pardo, a possibilidade aumenta quase três vezes em relação ao branco.	mark
+test-s320	Estende - se por uma área de 7,45 km ².	expl:pv
+test-s322	Para as regiões onde se passava a edição de rede, foi criada a Agência GE que concentra material dos reporteres da rede, editado com o padrão das edições paulista e carioca, via satélite, variando de acordo com a necessidade do estado.	expl:pv
+test-s330	E em 2006, após uma votação para a independência do Montenegro, consumou - se enfim a dissolução formal da federação.	expl:pv
+test-s345	Poderia ter disputado o governo do Estado em 2010, mas por influência do ex - governador Paulo Hartung (PMDB), de quem se tornou aliado, perdeu oportunidades valiosas de manter e aumentar sua capilaridade.	nsubj
+test-s366	Registre - se primeiro e depois complete sua assinatura.	obj
+test-s389	É preciso ter um padrão mínimo de qualidade e as instituições que não evoluíram para o nível mínimo satisfatório, não podem simplesmente continuar abrindo vagas como se nada tivesse acontecido.	fixed
+test-s393	Destas, 117 tem a situação reconhecida pelo Governo Federal, porém ainda há cidades que não se manisfestaram para decretar emergência.	expl:pv
+test-s398	O líder tucano chama de risível a explicação do ministério de que a pasta economiza noutros gastos que teria se a compra não fosse feita como é, ressarcindo diretamente as farmácias particulares, sem arcar com outros custos como transporte, armazenamento dos remédios e recursos humanos.	mark
+test-s405	Justamente por causa da má condição física Diego decidiu abdicar da competição no salto e se dedicar somente à prova no solo.	obj
+test-s408	Desconhece - se onde Boécio aprendeu a língua grega com tamanha proficiência e profundidade e onde adquiriu os profundos conhecimentos sobre os autores clássicos greco - latinos que a sua obra demonstra.	expl:pv
+test-s443	A presidenta Dilma Rousseff não pretende se envolver em campanha de candidatos da base aliada nas eleições municipais de outubro.	obj
+test-s450	E, como um celeb que se preze, Neymar também é príncipe de debutantes.	obj
+test-s452	Para ele se firmar, ele tem que mostar o futebol do Milan, aquele que o consagrou.	obj
+test-s457	Quem se divertiu com a pegadinha da Menina - fantasma no elevador, do quadro Câmera Escondida, do programa do Silvio Santos, vai gostar de saber que a pequena que aterrorizava as pessoas como a fantasminha deu um grande passo na sua carreia de atriz.	obj
+test-s460	Então proprietário da Kuarup Discos, que encerrou as atividades em 2009, Mário de Aratanha captou, em plenos anos 1980, o potencial da música regional que, se não vende milhares de cópias, como continuam querendo as combalidas gravadoras, consegue reunir centenas, e às vezes, milhares de pessoas, em concertos e shows.	mark
+test-s486	Sua ideias não se restringem ao cinema: Redford é um reconhecido ativista dos direitos humanos, da liberdade de expressão e da preservação do meio ambiente.	expl:pv
+test-s498	Quando tudo estiver conforme o desejado, não se esqueça de clicar em Salvar para que as suas alterações sejam armazenadas.	obj
+test-s535	Embora já fosse previsto havia alguns anos (em janeiro de 1976 divulgou - se que o terminal seria instalado já no mês seguinte), o Terminal Intermunicipal do Jabaquara foi criado por meio de decreto assinado pelo prefeito Olavo Setúbal em 21 de janeiro de 1977.	expl:pv
+test-s536	Com o decreto do GDF, entretanto, tornou - se regular, favorecendo os interesses da quadrilha.	expl:pv
+test-s537	Com extrema habilidade na perna esquerda e uma visão de jogo fora do comum, Ganso foi se firmando aos poucos na equipe alvinegra.	obj
+test-s546	Deppis da novela, Cauã Reymond pretende tirar férias de 1 ano da televisão para se dedicar à vida pessoal e ao cinema.	obj
+test-s558	São dois fatores que, há vários dias, se mostram fortes para impedir que os investidores arrisquem novas posições.	nsubj
+test-s564	Na mesma data, perdendo para o REC por 3 a 1, o Mixto se classificou.	obj
+test-s588	O iCloud, da Apple, tornou - se um problema depois que usuários atualizaram seus sistemas para o OS X Mountain Lion, de acordo com 35 % dos entrevistados pelo FixYa.	expl:pv
+test-s595	A modelo, que já morou na Espanha, se definiu em sua apresentação como gostosa, alegre e humilde, e não mentiu, pelo que podemos ver até agora.	obj
+test-s600	Questionado sobre se as aeronaves sírias estavam agora banidas do espaço aéreo turco, uma autoridade do Ministério das Relações Exteriores afirmou: Sim, aeronaves civis.	mark
+test-s643	Os dois ainda teriam brincado ao telefone e Brad Pitt desejou felicidades à ex - mulher, o que ela teria retribuído, já que Pitt também vai se casar em breve com Angelina.	obj
+test-s663	Autoridades de Chicago alertaram os moradores para ficarem distantes da costa do Lago Michigan e a cidade se prepara para receber ventos de 96 km/h e ondas de mais de 7 m até quarta-feira.	obj
+test-s680	Maquiavelismo é a denominação que se dá à doutrina política emanada do livro O Príncipe, escrito por Nicolau Maquiavel em 1513.	expl:pv
+test-s691	A tendência é que Celso de Mello acompanhe os votos favoráveis à interpretação de que cabe ao Supremo determinar a perda de mandato dos deputados condenados, já que durante a sessão desta segunda - feira ele se mostrou inclinado à tese.	nsubj
+test-s716	Talvez isso explique o fato de não se ter, até aqui, lido ou ouvido qualquer autocrítica da agremiação.	expl:pv
+test-s719	Considerar - se - á somente o parâmetro [W], que indica a força ou trabalho mecânico, necessário para expandir a massa.	expl:pv
+test-s723	O aumento do número de smartphones alterou de forma drástica a relação entre os usuários e seus telefones no que se refere à vigilância e proteção de sua informação pessoal, diz Aaron Smith, um dos autores do informe.	expl:pv
+test-s732	Muito do atraso se deve a disputas judiciais.	expl:pv
+test-s733	Se você não estiver logado no Twitter, será necessário fazer o login antes da confirmação.	mark
+test-s736	Tem a ver com as competências que se espera do profissional do futuro , explicou.	expl:pv
+test-s744	Se você faz uma coisa bem, elas falam: Gosto do seu trabalho.	mark
+test-s750	Por isso, se você abraça a causa, compartilhe notícias de maus tratos em sua rede e acompanhe o caso não deixe que caia no esquecimento.	mark
+test-s760	Para tanto, a película e a trama se passa numa cidade que é aterrorizada por um grupo de bruxas de mais 300 anos e tem, como produtor, o diretor e roteirista Oren Peli, do Atividade Paranormal.	expl:pv
+test-s796	Trata - se das termoeléctricas Pecém I, Pecém II e Itaqui, sendo a primeira compartilhada em partes iguais por EDP e MPX, e as duas últimas de propriedade integral da empresa controlada por Eike.	expl:pv
+test-s797	O costume de comer a chistorra com talo em vez de pão branco começou a arreigar - se durante os últimos anos do franquismo, alegadamente por ser mais fiel à tradição.	expl:pv
+test-s800	Durante a competição, é muito importante que os atletas mantenham - se hidratados, pois o esforço físico é grande e há muito perda de líquido.	nsubj
+test-s811	Conforme o texto aprovado, a determinação é que se amplie os recursos para educação dos atuais 5,1 % do PIB para 7 %, no prazo de cinco anos, até atingir os 10 % ao fim de vigência do plano.	nsubj
+test-s812	Por toda a região, os eventos devem se estender até o mês de julho.	obj
+test-s839	Num tour por seus corredores pode - se encontrar de tudo por um preço bastante acessível.	nsubj
+test-s840	Será que o respeito e amizade tão apregoado pela dupla vai se manter intacto, mesmo com as investidas constantes dos tubarões de White e cia?	expl:pv
+test-s844	Júlio Pinheiro não participou da plenária de hoje para se reunir com o deputado Guilherme Maluf a portas fechadas.	expl:pv
+test-s849	O Linea Sublime chega ao mercado por 55.480 reais com câmbio manual de cinco marchas e 58.390 reais se equipado com o câmbio automatizado Dualogic.	mark
+test-s875	Até hoje o país não tinha um exame oficial para medir se as crianças estavam sendo alfabetizadas ou não na idade correta.	mark
+test-s890	Segundo o senador com a complementação da BR - 235, na região Nordeste, passando pelo município de Jeremoabo na Bahia, torna - se necessário a remoção da Unidade.	expl:pv
+test-s893	De repente, dois automóveis se cruzam na esquina e o rangido da brecada antecipa o estrondo duma batida.	obj
+test-s908	Mas, tal o filme com a Madona, que já invadiu muita sessão da tarde, há alguém procurando uma pessoa desesperadamente e se a crônica ajudar a encontrar, tudo valerá mais ainda.	mark
+test-s918	Em poucas palavras, DAlessandro rebateu as vaias, mas não se escondeu do momento crítico.	obj
+test-s931	No total, 22.443 candidatos se inscreveram (veja a concorrência na página oficial do concurso).	obj
+test-s934	Segundo o juiz, a propaganda de Rodrigues se apropriou da imagem dum líder do PT, que apoia outra candidatura, sendo enganoso para a população.	expl:pv
+test-s964	Inclusive ele se acidentou com uma.	expl:pv
+test-s976	A ideia é que trabalhadores e empregados levem à mesa de negociação propostas para que se chegue a uma solução em relação às vagas excedentes na unidade fabril.	nsubj
+test-s986	Eles também se apresentam no dia 4 de janeiro e é início de temporada para eles também.	obj
+test-s993	Na saída do show, Sofia Barreto, 17 anos, que acompanha a carreira da artista desde 2009 se diz emocionada.	nsubj
+test-s994	Algumas frases ganhadoras se limitavam a dizer que adora cinema e adora Batman.	obj
+test-s998	Somente para os clientes cadastrados no DDA será possível pagar um boleto vencido no banco da escolha do cliente, que esteja participando do DDA, e de forma eletrônica, sem ser necessário se dirigir à instituição emitente da cobrança.	obj
+test-s1004	Bloomberg enumera o que pode ser feito: Obama deve garantir que leis existentes sejam aplicadas com maior rigor por exemplo, processando - se aqueles que faltem com a verdade ao requerer uma licença para uso e porte de armas.	expl:pv
+test-s1014	Jane Godfrey, comissária da Suprema Corte de Los Angeles, marcou outra audiência para 15 de fevereiro, quando determinará se a atriz, que não foi à audiência, violou os termos de sua condicional.	mark
+test-s1036	Segundo ele, a OAB / RO precisa se inteirar de que estamos numa nova realidade e um novo momento na classe, que nos últimos 10 anos passou de pouco mais de 2 mil para mais de 6 mil advogados em Rondônia.	obj
+test-s1053	A TIM em 2012 também é a operadora menos demandada nos Procons integrados ao SINDEC, posição assumida desde julho de 2011 , relata a TIM, referindo - se ao Sistema Nacional de Informações de Defesa do Consumidor, do Ministério da Justiça.	expl:pv
+test-s1058	A Rússia, aliada de Assad, pediu que a Síria explique que o ataque foi um trágico acidente que não se repetirá.	expl:pv
+test-s1065	Assim, os dois candidatos mais votados se enfrentam numa nova disputa.	obj
+test-s1070	Com o aumento dessa demanda de clientes, a concorrência do setor tem feito com que os valores se tornarem mais acessíveis dentro de diferentes faixas de preço e tipo de atendimento, fazendo com que uma parcela maior da população tenha acesso a esse serviço, especialmente na classe C.	expl:pv
+test-s1071	No total, se somado com a primeira parcela, deverá ser injetado, segundo os dados do Departamento Intersindical de Estatística e Estudos Sócio - Econômicos (Dieese), um montante de R $ 133,4 milhões na economia local sendo, aproximadamente, R $ 60 milhões nesta segunda parcela.	mark
+test-s1074	Para todos os sentidos que se olha existe um canteiro de obra ou novas ruas surgindo.	expl:pv
+test-s1106	Mais de 14.100 pessoas morreram desde o início da revolta desencadeada no dia 15 de março de 2011 por manifestações pacíficas, mas que se militarizaram frente à repressão, segundo o OSDH.	expl:pv
+test-s1111	O ex - presidente Luiz Inácio Lula da Silva disse nesta quinta - feira que o programa brasileiro de biodiesel não tem retorno e que a grande aposta de matéria - prima é o dendê, referindo - se à palma, hoje plantada em regiões do Pará pela Petrobras Biocombustível.	expl:pv
+test-s1124	Se a sala for de dimensões pequenas, então dê preferência à aquisição de peças mais leves, como mesas com tampos de vidros ou espelhadas, que dêem a sensação dum espaço mais amplo e não tão cheio.	mark
+test-s1125	O A Cidade não se responsabiliza pelas opiniões emitidas nos comentários.	obj
+test-s1132	O Egito se dirige para a estabilidade, foi a manchete do jornal governamental Al - Akhbar, enquanto o independente Al - Masri Al - Yom denunciou o que chamou de violações em massa.	obj
+test-s1135	Segundo Heliana, há a percepção de que setores como música, audiovisual e arquitetura, que misturam várias cadeias produtivas, são fortes no âmbito da economia criativa, mas precisam ser melhor mensurados, para que se possa identificar as necessidades e, também, as oportunidades.	nsubj
+test-s1144	E vai, inclusive, fazer o time treinar e se concentrar no CT são - paulino de Cotia, onde ficam as categorias de base	obj
+test-s1150	A história menciona duas vezes que hikikomori são necessários na sociedade para que outros tenham a quem desprezar e assim se sentirem superiores.	expl:pv
+test-s1160	A ideia é fornecer um meio de comunicação direto para que as pequenas empresas comuniquem - se com potenciais parceiros, fornecedores e clientes.	expl:pv
+test-s1191	Nos minutos finais, como era de se esperar, o Grêmio teve a posse de bola durante quase o tempo todo.	nsubj
+test-s1194	Em Calahorra de Ribas, o Canal cruza o rio Carrión por meio duma ponte - canal, e em Serrón, em Grijota, separam - se os ramais de Campos e Sul.	expl:pv
