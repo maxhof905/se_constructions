@@ -1,0 +1,30 @@
+tokenize sentences in pt_data and es data
+- then they look the same as the sentences form the portuguese and spanish corpus
+- but we have to eliminate dashes from the spanisch and portuguese corpus
+with the stnaza tokenizer: deita-se becomes deita se while it is deita- se in the corpora
+but the punctuation will be slit the same way which i think is justified given that we are
+doing a multi class classification task that concerns the token levle and not the phrase level
+
+check how many sentences with se for spanish corpus
+
+test how accurate parsing with stanza is
+
+then we have to options:
+
+- do active learning with a small labeled and large unlabeled dataset
+
+- keep the small labeled data and add parsed portuguese and spanish corpus (with stanza)
+-- would allow (if we have enough data) to equilibrate the data set (label disparity)
+
++ I could do both: evlauate how active learnging can be useful in linguistic tasks
+- i could just do dependency parsing
+
+build a naive classifier such as we had with manfred for this multi class classification taks
+implement a huggingface architecture (we can still rerun this processes with more data)
+
+inform gerold about the plans on monday
+if he does not answer until friday morning - write email to martin asking him to go over the script to make sure
+also not to waste space on the server (sounds like a resoanble reason to ask someone for help from the departement)
+
+Goal: have run the process by the end of the first week of april
+then start writing and have the whole of the architecture by the end of may (remember only necessary 60 pages)
