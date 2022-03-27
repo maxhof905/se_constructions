@@ -1,3 +1,32 @@
+/Users/maxine/Documents/GitHub/se_corpus/venv/bin/python /Users/maxine/Documents/GitHub/se_corpus/conllu_to_se_corpus.py
+2022-03-27 21:38:13 INFO: Loading these models for language: es (Spanish):
+=======================
+| Processor | Package |
+-----------------------
+| tokenize  | ancora  |
+| mwt       | ancora  |
+=======================
+
+2022-03-27 21:38:13 INFO: Use device: cpu
+2022-03-27 21:38:13 INFO: Loading: tokenize
+2022-03-27 21:38:13 INFO: Loading: mwt
+2022-03-27 21:38:13 INFO: Done loading processors!
+2022-03-27 21:38:13 INFO: Loading these models for language: pt (Portuguese):
+=======================
+| Processor | Package |
+-----------------------
+| tokenize  | bosque  |
+| mwt       | bosque  |
+=======================
+
+2022-03-27 21:38:13 INFO: Use device: cpu
+2022-03-27 21:38:13 INFO: Loading: tokenize
+2022-03-27 21:38:13 INFO: Loading: mwt
+2022-03-27 21:38:13 INFO: Done loading processors!
+/Users/maxine/Documents/GitHub/se_corpus/venv/lib/python3.9/site-packages/stanza/models/common/beam.py:86: UserWarning: __floordiv__ is deprecated, and its behavior will change in a future version of pytorch. It currently rounds toward 0 (like the 'trunc' function NOT 'floor'). This results in incorrect rounding for negative values. To keep the current behavior, use torch.div(a, b, rounding_mode='trunc'), or for actual floor division, use torch.div(a, b, rounding_mode='floor').
+  prevK = bestScoresId // numWords
+
+
 pt_gsd-ud-dev.conllu
 expl:pv    53
 obj        41
@@ -5,8 +34,10 @@ mark       16
 fixed       3
 nsubj       1
 expl        1
-Name: dependency_tag, dtype: int64
-(115, 3)
+Name: 1, dtype: int64
+(115, 2)
+/Users/maxine/Documents/GitHub/se_corpus/venv/lib/python3.9/site-packages/stanza/models/common/beam.py:86: UserWarning: __floordiv__ is deprecated, and its behavior will change in a future version of pytorch. It currently rounds toward 0 (like the 'trunc' function NOT 'floor'). This results in incorrect rounding for negative values. To keep the current behavior, use torch.div(a, b, rounding_mode='trunc'), or for actual floor division, use torch.div(a, b, rounding_mode='floor').
+  prevK = bestScoresId // numWords
 
 
 pt_gsd-ud-train.conllu
@@ -18,33 +49,41 @@ fixed        7
 iobj         2
 cc           1
 appos        1
-Name: dependency_tag, dtype: int64
-(949, 3)
+Name: 1, dtype: int64
+(949, 2)
+/Users/maxine/Documents/GitHub/se_corpus/venv/lib/python3.9/site-packages/stanza/models/common/beam.py:86: UserWarning: __floordiv__ is deprecated, and its behavior will change in a future version of pytorch. It currently rounds toward 0 (like the 'trunc' function NOT 'floor'). This results in incorrect rounding for negative values. To keep the current behavior, use torch.div(a, b, rounding_mode='trunc'), or for actual floor division, use torch.div(a, b, rounding_mode='floor').
+  prevK = bestScoresId // numWords
 
 
 es_gsd-ud-test.conllu
 iobj    89
-Name: dependency_tag, dtype: int64
-(89, 3)
+Name: 1, dtype: int64
+(89, 2)
+/Users/maxine/Documents/GitHub/se_corpus/venv/lib/python3.9/site-packages/stanza/models/common/beam.py:86: UserWarning: __floordiv__ is deprecated, and its behavior will change in a future version of pytorch. It currently rounds toward 0 (like the 'trunc' function NOT 'floor'). This results in incorrect rounding for negative values. To keep the current behavior, use torch.div(a, b, rounding_mode='trunc'), or for actual floor division, use torch.div(a, b, rounding_mode='floor').
+  prevK = bestScoresId // numWords
 
 
 es_gsd-ud-train.conllu
-iobj         3034
+iobj         3018
 obj             5
 nsubj           2
 root            2
 parataxis       1
 mark            1
 det             1
-Name: dependency_tag, dtype: int64
-(3046, 3)
+Name: 1, dtype: int64
+(3030, 2)
+/Users/maxine/Documents/GitHub/se_corpus/venv/lib/python3.9/site-packages/stanza/models/common/beam.py:86: UserWarning: __floordiv__ is deprecated, and its behavior will change in a future version of pytorch. It currently rounds toward 0 (like the 'trunc' function NOT 'floor'). This results in incorrect rounding for negative values. To keep the current behavior, use torch.div(a, b, rounding_mode='trunc'), or for actual floor division, use torch.div(a, b, rounding_mode='floor').
+  prevK = bestScoresId // numWords
 
 
 es_gsd-ud-dev.conllu
 iobj    311
 obj       1
-Name: dependency_tag, dtype: int64
-(312, 3)
+Name: 1, dtype: int64
+(312, 2)
+/Users/maxine/Documents/GitHub/se_corpus/venv/lib/python3.9/site-packages/stanza/models/common/beam.py:86: UserWarning: __floordiv__ is deprecated, and its behavior will change in a future version of pytorch. It currently rounds toward 0 (like the 'trunc' function NOT 'floor'). This results in incorrect rounding for negative values. To keep the current behavior, use torch.div(a, b, rounding_mode='trunc'), or for actual floor division, use torch.div(a, b, rounding_mode='floor').
+  prevK = bestScoresId // numWords
 
 
 pt_bosque-ud-test.conllu
@@ -54,20 +93,24 @@ mark      18
 obj        3
 iobj       2
 fixed      1
-Name: dependency_tag, dtype: int64
-(155, 3)
+Name: 1, dtype: int64
+(155, 2)
+/Users/maxine/Documents/GitHub/se_corpus/venv/lib/python3.9/site-packages/stanza/models/common/beam.py:86: UserWarning: __floordiv__ is deprecated, and its behavior will change in a future version of pytorch. It currently rounds toward 0 (like the 'trunc' function NOT 'floor'). This results in incorrect rounding for negative values. To keep the current behavior, use torch.div(a, b, rounding_mode='trunc'), or for actual floor division, use torch.div(a, b, rounding_mode='floor').
+  prevK = bestScoresId // numWords
 
 
 es_ancora-ud-train.conllu
-expl:pv        1665
-expl:pass      1193
+expl:pv        1663
+expl:pass      1191
 obj             258
 expl:impers     186
 iobj            153
 fixed             1
 flat              1
-Name: dependency_tag, dtype: int64
-(3457, 3)
+Name: 1, dtype: int64
+(3453, 2)
+/Users/maxine/Documents/GitHub/se_corpus/venv/lib/python3.9/site-packages/stanza/models/common/beam.py:86: UserWarning: __floordiv__ is deprecated, and its behavior will change in a future version of pytorch. It currently rounds toward 0 (like the 'trunc' function NOT 'floor'). This results in incorrect rounding for negative values. To keep the current behavior, use torch.div(a, b, rounding_mode='trunc'), or for actual floor division, use torch.div(a, b, rounding_mode='floor').
+  prevK = bestScoresId // numWords
 
 
 pt_bosque-ud-dev.conllu
@@ -78,8 +121,10 @@ obj            4
 fixed          2
 expl:pass      2
 iobj           1
-Name: dependency_tag, dtype: int64
-(159, 3)
+Name: 1, dtype: int64
+(159, 2)
+/Users/maxine/Documents/GitHub/se_corpus/venv/lib/python3.9/site-packages/stanza/models/common/beam.py:86: UserWarning: __floordiv__ is deprecated, and its behavior will change in a future version of pytorch. It currently rounds toward 0 (like the 'trunc' function NOT 'floor'). This results in incorrect rounding for negative values. To keep the current behavior, use torch.div(a, b, rounding_mode='trunc'), or for actual floor division, use torch.div(a, b, rounding_mode='floor').
+  prevK = bestScoresId // numWords
 
 
 pt_bosque-ud-train.conllu
@@ -91,8 +136,10 @@ iobj       9
 fixed      9
 case       2
 nmod       1
-Name: dependency_tag, dtype: int64
-(948, 3)
+Name: 1, dtype: int64
+(948, 2)
+/Users/maxine/Documents/GitHub/se_corpus/venv/lib/python3.9/site-packages/stanza/models/common/beam.py:86: UserWarning: __floordiv__ is deprecated, and its behavior will change in a future version of pytorch. It currently rounds toward 0 (like the 'trunc' function NOT 'floor'). This results in incorrect rounding for negative values. To keep the current behavior, use torch.div(a, b, rounding_mode='trunc'), or for actual floor division, use torch.div(a, b, rounding_mode='floor').
+  prevK = bestScoresId // numWords
 
 
 es_ancora-ud-test.conllu
@@ -101,18 +148,22 @@ expl:pass      118
 obj             30
 expl:impers     22
 iobj            17
-Name: dependency_tag, dtype: int64
-(386, 3)
+Name: 1, dtype: int64
+(386, 2)
+/Users/maxine/Documents/GitHub/se_corpus/venv/lib/python3.9/site-packages/stanza/models/common/beam.py:86: UserWarning: __floordiv__ is deprecated, and its behavior will change in a future version of pytorch. It currently rounds toward 0 (like the 'trunc' function NOT 'floor'). This results in incorrect rounding for negative values. To keep the current behavior, use torch.div(a, b, rounding_mode='trunc'), or for actual floor division, use torch.div(a, b, rounding_mode='floor').
+  prevK = bestScoresId // numWords
 
 
 es_ancora-ud-dev.conllu
-expl:pv        226
+expl:pv        225
 expl:pass      125
 obj             36
 iobj            17
 expl:impers     10
-Name: dependency_tag, dtype: int64
-(414, 3)
+Name: 1, dtype: int64
+(413, 2)
+/Users/maxine/Documents/GitHub/se_corpus/venv/lib/python3.9/site-packages/stanza/models/common/beam.py:86: UserWarning: __floordiv__ is deprecated, and its behavior will change in a future version of pytorch. It currently rounds toward 0 (like the 'trunc' function NOT 'floor'). This results in incorrect rounding for negative values. To keep the current behavior, use torch.div(a, b, rounding_mode='trunc'), or for actual floor division, use torch.div(a, b, rounding_mode='floor').
+  prevK = bestScoresId // numWords
 
 
 pt_gsd-ud-test.conllu
@@ -121,5 +172,7 @@ obj        31
 mark       15
 nsubj      11
 fixed       2
-Name: dependency_tag, dtype: int64
-(107, 3)
+Name: 1, dtype: int64
+(107, 2)
+
+Process finished with exit code 0

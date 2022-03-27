@@ -1,6 +1,11 @@
+# cleaned up sp_text and pt_text
+-- consider sentence length
+-- 50066 for portuguese
+-- 12579 for spanish
+
 tokenize sentences in pt_data and es data
 - then they look the same as the sentences form the portuguese and spanish corpus
-- but we have to eliminate dashes from the spanisch and portuguese corpus
+
 with the stnaza tokenizer: deita-se becomes deita se while it is deita- se in the corpora
 but the punctuation will be slit the same way which i think is justified given that we are
 doing a multi class classification task that concerns the token levle and not the phrase level
@@ -8,6 +13,10 @@ doing a multi class classification task that concerns the token levle and not th
 check how many sentences with se for spanish corpus
 
 test how accurate parsing with stanza is
+
+------------ done 27/03/22
+
+do iaa
 
 then we have to options:
 
