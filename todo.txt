@@ -17,6 +17,11 @@ test how accurate parsing with stanza is
 ------------ done 27/03/22
 
 do iaa
+- ignore gsd > labeling has no sense
+- achieved IAA of 71 with ancora
+- repeat for portuguese
+
+----------
 
 then we have to options:
 
