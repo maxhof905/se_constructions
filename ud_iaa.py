@@ -7,10 +7,12 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import ConfusionMatrixDisplay
 import seaborn as sns
 
-# todo no fuciona el python mode
 #%%
-""" spanish: expl:pv, expl:pass, expl:impers, iobj, obj, flat, fixed"""
-""" portuguese: expl:pv, expl:pass, expl:impers, iobj, obj, flat, fixed"""  # todo
+""" 
+spanish: expl:pv, expl:pass, expl:impers, iobj, obj, flat, fixed
+portuguese: expl, nsubj, mark, expl:pass, iobj, obj, fixed, case, nmod
+
+"""
 
 
 #%%
@@ -38,12 +40,12 @@ es_sample = 'ud/samples/es_ancora-ud-sample.txt'
 es_true =  'ud/samples/es_ancora-ud-true.txt'
 # create_sample(es_train, es_dev, es_test, es_sample, es_true)
 
-pt_train = 'ud/pt_data/pt_bosque_ud_train.txt'
-pt_dev = 'ud/pt_data/pt_bosque_ud_dev.txt'
-pt_test = 'ud/pt_data/pt_bosque_ud_test.txt'
+pt_train = 'ud/pt_data/pt_bosque-ud-train.txt'
+pt_dev = 'ud/pt_data/pt_bosque-ud-dev.txt'
+pt_test = 'ud/pt_data/pt_bosque-ud-test.txt'
 pt_sample = 'ud/samples/pt_bosque-ud-sample.txt'
 pt_true = 'ud/samples/pt_bosque-ud-true.txt'
-# create_sample(pt_train, pt_dev, pt_test, pt_sample, pt_true)
+create_sample(pt_train, pt_dev, pt_test, pt_sample, pt_true)
 
 #%%
 
@@ -51,12 +53,6 @@ def get_label_column(infile):
     with open(infile) as file:
         labels = [line.split('\t')[-1].rstrip() for line in file.readlines()]
     return labels
-
-#%%
-
-
-#%%
-
 
 
 #%%
