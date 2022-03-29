@@ -21,7 +21,7 @@ Las declaraciones de Estrada se producen en un momento de máxima tensión polí
 Los teléfonos comenzaron a sonar y voces lacrimosas recordaron el caso Quini o se desgarraron vestiduras dando lo todo por perdido .	expl:pass
 El secretario general de la Federación Socialista Madrileña , Jaime Lisavessky y su homólogo de IU , Angel Pérez , se citaron para firmar hoy el pacto a la Cámara Alta .	obj
 El brasileño Ronaldo de Assis Moreira , conocido como Ronaldinho , se coronó hoy soberano de la clasificación de los goleadores de el preolímpico suramericano y de los 200 futbolistas de diez países que tomaron parte de la undécima edición de este torneo eliminatorio .	iobj
-Según datos de el ministerio de el Interior se han instalado 11.134 centros electorales repartidos por las trece provincias de Siria , así como en sus embajadas en el extranjero . expl:pass
+Según datos de el ministerio de el Interior se han instalado 11.134 centros electorales repartidos por las trece provincias de Siria , así como en sus embajadas en el extranjero .	expl:pass
 Considerado el país de menor renta per cápita de el hemisferio , Haiti tiene una densidad de 270 habitantes por kilómetro cuadrado ( en España , por ejemplo , la densidad es de 70 ) y sus 7,5 millones de ciudadanos se apiñan en las zonas más habitables de su suelo , que ocupa la tercera parte de la isla La Española , compartida con la República Dominicana .	expl:pv
 Visiblemente molesto , Gutiérrez se preguntó : No sé qué más quiere Inmigración de esta familia , en referencia a Lázaro González , que ha cuidado de el niño desde el pasado 25 de noviembre .	iobj
 Las matriculaciones de automóviles de turismo en el pasado mes de junio se elevaron a 146.489 unidades , un 0,2 por ciento menos que las 146.819 de el mismo mes de el pasado año , informaron hoy las asociaciones de fabricantes de automóviles ( ANFAC ) , importadores ( Aniacam ) , concesionarios ( Faconauto ) y vendedores ( Ganvam ) .	expl:pass
@@ -53,12 +53,12 @@ La policía no se atrevía a entrar en las villas : eran lugares sin ley , terri
 Dicen que su experiencia filmando la miseria humana en Centroamérica o escribiendo sobre el amor en Sarajevo se nota en sus boletines .	expl:pass
 Sólo me faltaba el principio , entonces , pongo la radio y oigo a José María García diciendo Ojo lo que se avecina , a la vuelta de la esquina , y me hizo mucha gracia la rima , recuerda .	expl:pv
 Quienes le telefoneaban se llevaban una sorpresa : no encontraban a un hombre angustiado sino a un vitalista peleón .	iobj
-En esta macrooperación , desarrollada con las policías venezolana , colombiana , italiana , panameña , francesa y española , ya se intervinieron hace seis meses 10 toneladas de cocaína a bordo de el buque Suerte y fueron detenidos 12 venezolanos , dos italianos y un francés .    expl:pass
+En esta macrooperación , desarrollada con las policías venezolana , colombiana , italiana , panameña , francesa y española , ya se intervinieron hace seis meses 10 toneladas de cocaína a bordo de el buque Suerte y fueron detenidos 12 venezolanos , dos italianos y un francés .	expl:pass
 Pero , a medida que se adentraba en la lectura de la obra completa de Bonet , Tosar vio la necesidad de ampliar la dimensión de el espectáculo .	expl:pv
 La obra se estrenará el 6 de septiembre , en Figueres , la ciudad preferida de el genio .	expl:pass
 El secretario general de el CDC , Pere Esteve , ha asegurado hoy que no se presentará a la reelección en el cargo , porque cree que el que ocupa debe ser para el número dos ( de el partido ) y apostilló que su candidato es Artur Mas .	obj
 Este Mundial se juega a el mejor de 16 partidas y en caso de empate a ocho Kasparov conserva el título .	expl:impers
-Asimismo defiende la financiación pública de la investigación básica y pone de manifiesto que las empresas se centran más en la I + D con objetivos de mercado .    expl:pv
+Asimismo defiende la financiación pública de la investigación básica y pone de manifiesto que las empresas se centran más en la I + D con objetivos de mercado .	expl:pv
 Sólo en la Universidad de Chapingo , en México , se elige el rector por sufragio universal , pero allí la máxima es un hombre un voto .	expl:pass
 Estas sentencias se dictan dentro de un megajuicio en dos fases sumariales contra 25 supuestos etarras , celebrado a finales de 1999 , entre los que figura parte de la cúpula de ETA que relevó a Artapalo tras su caída en Bidart ( Francia ) en 1992 .	expl:pass
 Ahora bien , cuando se trata de responsabilidad política , y aquí es donde surge la incoherencia , los enfoques siempre habían sido opuestos a el de la globalización , en base a el sacrosanto principio de que cada pueblo es dueño de sus destinos , que es una forma de definir la soberanía nacional .	expl:impers
@@ -118,7 +118,7 @@ El Real Madrid ya estaba clasificado para los cuartos de final y el Panathinaiko
 Yo tardé mucho tiempo en enterar me de que no había tal voz , de que se trataba sólo de una vieja metáfora , y como nunca lograba escuchar a nadie que hablara dentro de mí me mantuve durante bastantes años en un estado de feliz inconsciencia .	expl:impers
 Luego sacó el cajón entero y se lo colocó con dulzura en el regazo .	iobj
 No obstante , durante la noche aún se produjeron algunos enfrentamientos aislados .	expl:pv
-Moscú considera que cualquier arreglo debería canalizar se a través de el Club de París de países acreedores , donde Rusia quiere a su vez negociar una deuda de la antigua URSS con Occidente de más de 100.000 millones de dólares .	expl:spv
+Moscú considera que cualquier arreglo debería canalizar se a través de el Club de París de países acreedores , donde Rusia quiere a su vez negociar una deuda de la antigua URSS con Occidente de más de 100.000 millones de dólares .	expl:pv
 Carlos y Fayna se enzarzan en una bronca ante las cámaras .	obj
 El suceso se produjo ayer a 150 millas de la costa de el sur de Irlanda .	expl:pv
 La dificultad que entraña la novela se la planteó Luppi tras leer la .	iobj

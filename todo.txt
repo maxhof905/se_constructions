@@ -19,9 +19,27 @@ test how accurate parsing with stanza is
 do iaa
 - ignore gsd > labeling has no sense
 - achieved IAA of 71 with ancora
-- repeat for portuguese
 
-----------
+
+---------- done 28
+
+figure out why cfm is reversed > fixed
+saved plots and iaa to plot
+
+
+revisit gsd and look if bare sentences should be used for active learning
+figure out how to do active learning (with a naive classifier then with a transformers model)
+> look at previously saved info about active learning
+
+find put whre i read about the use of nsubj in portuguese
+> once I have that I am ready to send Gerold a mail
+-------
+
+applying classifier:
+multi class
+encode labels
+convert text to word embeddings
+https://towardsdatascience.com/comprehensive-guide-to-multiclass-classification-with-sklearn-127cc500f362
 
 then we have to options:
 
