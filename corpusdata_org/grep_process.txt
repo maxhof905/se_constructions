@@ -1,5 +1,0 @@
-grep -io '[A-zÀ-ú]*ese\b' corpusdata_org/sp_text_se_corpus.txt | sort | uniq > 'corpusdata_org/sp_noisy_words.txt'
-- aparentemente no eliminó suficientes ocurrencias$
-- i am going to leave it like this and point out the logical error (-ense) but also mention how compicated it can get
-- would lemmatization have been efficient and accurate
-- the possibility of discarding legitimates cleaning the data while processing it

@@ -1,0 +1,28 @@
+
+install docker
+run docker in desktop app
+
+then retried with rubrix installation
+pip3 install -U "rubrix[server]" --user
+-- user flag because of missing permissions
+
+had to update pip because of problems with httpcore and starlette
+python3 -m pip3 install --upgrade --pip3
+-- on macbook: no command named pip3
+--on imac: no command named pip
+
+had to add right version to path
+echo "$PATH"
+export PATH=/Library/Frameworks/Python.framework/Versions/3.9/bin:$PATH 
+
+reran installation and got warning about path:
+export PATH=/Users/maxine/Library/Python/3.9/bin:$PATH
+
+run docker:
+docker run -d --name elasticsearch-for-rubrix -p 9200:9200 -p 9300:9300 -e "ES_JAVA_OPTS=-Xms512m -Xmx512m" -e "discovery.type=single-node" docker.elastic.co/elasticsearch/elasticsearch-oss:7.10.2
+
+execution works: 
+python3 -m rubrix
+
+usuario: rubrix
+contraseña: 1234
