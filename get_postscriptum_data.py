@@ -1,4 +1,6 @@
-import os
+# maxhof905
+
+# explore labelling of se in the p.s. post scriptum corpus
 
 import os
 import pandas as pd
@@ -35,6 +37,7 @@ for root, dirs, files in os.walk(directory, topdown=False):
     df = pd.DataFrame(data)
     df_pos = df[ (df['pos'] != '') & (df['lemma'] != '')]
     df_pos.to_csv('postcriptum_se.txt', index=False)
+
 #%%
 # get stats
     total = len(df)
@@ -45,7 +48,7 @@ for root, dirs, files in os.walk(directory, topdown=False):
     df_stats = pd.DataFrame({'n': [len(df_PCOCNOOO), len(df_PC3CN000), len(df_NP00000), total],
                              'tags': ['PC0CN000', 'PC3CN000', 'NP00000','total']}).set_index('tags')
 
-    with open('coser_stats.txt', 'a') as outfile:
+    with open('postscriptum_stats.txt', 'a') as outfile:
         outfile.write(df_stats.to_string())
 
 

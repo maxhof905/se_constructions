@@ -1,15 +1,16 @@
-"""turn Corpus do Português and Corpus del Español into one-sentence-per-line se corpus, compatible in format to the ud se_corpus"""
+# maxhof905
+
+# turn Corpus do Português and Corpus del Español into one-sentence-per-line se corpus, compatible in format to the ud se_corpus
 
 import re
 import nltk
-# nltk.download('punkt')
 
-filter_words = [word.rstrip() for word in open('CORPUSDATA_ORG/sp_noisy_words_filtered.txt')]  # words in the sp_text.txt ending in 'se' that should not be considered for the final corpus
+filter_words = [word.rstrip() for word in open('corpusdata_org/sp_noisy_words_filtered.txt')]  # words in the sp_text.txt ending in 'se' that should not be considered for the final corpus
 
 
 def extract_sentences_pt(file):
     with open(file, 'r') as infile:
-        with open('CORPUSDATA_ORG/pt_text_se_corpus.txt', 'a') as outfile:
+        with open('corpusdata_org/pt_text_se_corpus.txt', 'a') as outfile:
             print('opening ', outfile)
             for line in infile:
                 line = re.sub('@@[0-9]+\\s', '', line)  # split source identification id
@@ -26,7 +27,7 @@ def extract_sentences_pt(file):
 
 def extract_sentences_es(file):
     with open(file, 'r') as infile:
-        with open('CORPUSDATA_ORG/sp_text_se_corpus.txt', 'a') as outfile:
+        with open('corpusdata_org/sp_text_se_corpus.txt', 'a') as outfile:
             print('opening ', outfile)
             for line in infile:
                 line = re.sub('@@[0-9]+\\s', '', line)  # split source identification id
@@ -43,8 +44,8 @@ def extract_sentences_es(file):
     return None
 
 
-extract_sentences_pt('CORPUSDATA_ORG/pt_text.txt')
+extract_sentences_pt('corpusdata_org/pt_text.txt')
 
-extract_sentences_es('CORPUSDATA_ORG/sp_text.txt')
+extract_sentences_es('corpusdata_org/sp_text.txt')
 
 

@@ -1,4 +1,6 @@
-""" file to convert conllu files to se corpus in tab separated format"""
+# maxhof905
+
+# file to convert conllu files to se corpus in tab separated format
 
 import pandas as pd
 import os
@@ -83,5 +85,5 @@ for root, dirs, files in os.walk(directory, topdown=False):
         print(df.shape)
 
 
-        # # print(df.shape, outfile)
+        # print(df.shape, outfile)
         df.to_csv(outfile, header=False, sep='\t',  encoding='utf-8', index=True)

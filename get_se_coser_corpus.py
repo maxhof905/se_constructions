@@ -1,13 +1,14 @@
+# maxhof905
+
+# gather se in coser
 
 import os
 import pandas as pd
-import re
-import xml.etree.cElementTree as et
 from bs4 import BeautifulSoup
 
 #%%
 
-directory = "COSER-2.0-XML" # TODO
+directory = "COSER-2.0-XML"
 corpus_list = []
 for root, dirs, files in os.walk(directory, topdown=False):
     for file in files:
@@ -27,4 +28,3 @@ for root, dirs, files in os.walk(directory, topdown=False):
 df = pd.DataFrame(corpus_list)
 df.to_csv('coser_se.txt', index=False)
 
-#%%

@@ -1,11 +1,17 @@
+# maxhof905
+
+# plots label distribution in labeled se-corpora
+
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
 #%%
+
+
 def get_class_dist(df_col):
     """
-    plot label distribution
+    plots label distribution
     """
     data = df_col.value_counts(normalize=True).rename('percentage').mul(100).reset_index().rename(columns = {"index":"label"})
     sns.set(font="Times New Roman", font_scale=2)
@@ -16,13 +22,14 @@ def get_class_dist(df_col):
                          weight='bold')
 
 #%%
-# train_path = '/Users/Maxine/Desktop/se_corpus/ud/pt_data/pt_bosque-ud-train.txt'
-# test_path = '/Users/Maxine/Desktop/se_corpus/ud/pt_data/pt_bosque-ud-test.txt'
-# dev_path = '/Users/Maxine/Desktop/se_corpus/ud/pt_data/pt_bosque-ud-dev.txt'
+# train_path = 'ud/pt_data/pt_bosque-ud-train.txt'
+# test_path = 'ud/pt_data/pt_bosque-ud-test.txt'
+# dev_path = 'ud/pt_data/pt_bosque-ud-dev.txt'
 
-train_path = '/Users/Maxine/Desktop/se_corpus/ud/es_data/es_ancora-ud-train.txt'
-test_path = '/Users/Maxine/Desktop/se_corpus/ud/es_data/es_ancora-ud-test.txt'
-dev_path = '/Users/Maxine/Desktop/se_corpus/ud/es_data/es_gsd-ud-dev.txt'
+
+train_path = 'ud/es_data/es_ancora-ud-train.txt'
+test_path = 'ud/es_data/es_ancora-ud-test.txt'
+dev_path = 'ud/es_data/es_gsd-ud-dev.txt'
 
 train = pd.read_csv(train_path, sep='\t', names=['text', 'tokenized_text', 'se_label'])
 train.drop(columns=['text'], inplace = True)

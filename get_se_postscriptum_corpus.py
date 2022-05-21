@@ -1,14 +1,16 @@
-import os
+# maxhof905
 
-import os
+# gather se in the p.s. post scriptum corpus
+
 import pandas as pd
-import re
+
 
 # %%
 # get 'se'
-df = pd.read_csv('PS/postcriptum_se.txt')
-df2 = df[df.word.str.contains('\\bse\\b', regex=True, na=False) & df.lemma.str.contains('\\bse\\b', regex=True, na=False)] #TODO intentar con se\s para incluir verbos pronominales
+df = pd.read_csv('gathered_se_data/PS/postcriptum_se.txt')
+df2 = df[df.word.str.contains('\\bse\\b', regex=True, na=False) & df.lemma.str.contains('\\bse\\b', regex=True, na=False)]
 df2.to_csv('postcriptum_se_clean.txt', index=False)
+
 # %%
 # get stats
 pt_total = df2[df2.lang == 'portuguese']
@@ -39,7 +41,7 @@ df_stats = pd.DataFrame({'spanish': [len(sp_P00CN000), len(sp_VMIP3S0_P00CN000),
                                      len(pt_PP0CN000), len(pt_PP3CN000), len(pt_PP3CNA00), len(pt_PP3), len(pt_CS), len(pt_CSI), len(pt_total)],
                          'tags': ['P00CN000', 'VMIP3S0_P00CN000', 'VMN0000_P00CN000', 'PP0CN000', 'PP3CN000', 'PP3CNA00', 'PP3', 'CS', 'CSI', 'total']}).set_index('tags')
 
-# Set Existing column as Index
 
-with open('PS/postscriptum_stats.txt', 'a') as outfile:
+
+with open('gathered_se_data/PS/postscriptum_stats.txt', 'a') as outfile:
     outfile.write(df_stats.to_string())

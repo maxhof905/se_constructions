@@ -1,5 +1,11 @@
-import random
+# maxhof905
 
+# generate sample file
+# calculate IAA (cohen kappa)
+# generate confusion matrix
+
+#%%
+import random
 import pandas as pd
 from sklearn.metrics import cohen_kappa_score, ConfusionMatrixDisplay
 import matplotlib.pyplot as plt
