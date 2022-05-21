@@ -1,0 +1,6 @@
+make repo public
+add dependency parsing colab notebook to repo
+write summary
+write readme
+put link to repository in introductio footnote
+put  link to dependency parsin script in footnotes
