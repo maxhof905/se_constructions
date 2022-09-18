@@ -1,9 +1,12 @@
 # se_constructions
-A Natural Language Processing Approach to Spanish and Portuguese se. Classifying se-Constructions through Active Learning and with Transformer Models.
+**A Natural Language Processing Approach to Spanish and Portuguese se. Classifying se-Constructions through Active Learning and with Transformer Models.**
 
 In my masters thesis I explored the application of the machine learning strategy called ***active learning*** and sota transformer models for the classification of Spanish and Portuguese 'se'-constructions. In such linguistic constructions, 'se' can fulfill different syntactical roles such as that of a  reflexive pronoun in "María se peinó' (eng. Mary brushed her hair) or that of a passivizing particle in 'Se destruyó la casa' (eng. The house was demolished). Assigning the correct syntacical role to 'se' is therefore important for down-stream tasks such as syntactic role assignment. 
 
-Although active learning is an interesting approach to complex linguistic classification problems that require manual expert annotations, transformer models outperformed the active learning based approach to classifying se-constructions in this study.
+Although active learning is an interesting approach to complex linguistic classification problems that require manual expert annotations, transformer models outperformed the active learning based approach to classifying 'se'-constructions in this study.
+
+# Repository content
+This repository contains the data, the data processing files and the classification task files (google colab notebooks, GPU), as well as a google colab notebook that records the changes over time in the dependency parsing of 'se' in the spaCy library.
 
 # References
 
