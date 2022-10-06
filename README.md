@@ -1,4 +1,4 @@
-## Thesis Overview
+# Thesis Overview
 
 ### SE
 
