@@ -41,3 +41,6 @@ language processing that are concerned with semantics, such as semantic role ass
 exploring if and to which extent active-learning-based models are suited to classify Spanish and Portuguese occurrences of SE is not so much the observation 
 but rather the experience that labeled linguistic data that could be used to satisfactorily train a classification model that is not based on active learning 
 is scarce.
+
+## Repository content
+This repository contains the data, the data processing files and the classification task files (google colab notebooks, GPU), as well as a google colab notebook that records the changes over time in the dependency parsing of 'se' in the spaCy library.
