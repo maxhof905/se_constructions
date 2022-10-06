@@ -1,51 +1,43 @@
-# se_constructions
-**A Natural Language Processing Approach to Spanish and Portuguese se. Classifying se-Constructions through Active Learning and with Transformer Models.**
+## 1 Introduction
 
-In my masters thesis I explored the application of the machine learning strategy called ***active learning*** and sota transformer models for the classification of Spanish and Portuguese 'se'-constructions. In such linguistic constructions, 'se' can fulfill different syntactical roles such as that of a  reflexive pronoun in "María se peinó' (eng. Mary brushed her hair) or that of a passivizing particle in 'Se destruyó la casa' (eng. The house was demolished). Assigning the correct morphosyntactic label to 'se' is therefore important for down-stream tasks such as syntactic role assignment. 
+### SE
 
-Although active learning is an interesting approach to complex linguistic classification problems that require manual expert annotations, transformer models outperformed the active learning based approach to classifying 'se'-constructions in this study.
+The present thesis explores how the clitic SE and its unique linguistic characteristics are handled in NLP tasks in Spanish and Portuguese. The clitic SE is a widely used element in Spanish and Portuguese that occurs in various linguistic contexts. Depending on the context SE can take on different syntactic roles and impacts the semantic reading of the sentence. The somber but interesting Spanish verbal form se mató ‘se kill.PST.3SG’, illustrates this behavior (Otero, 2002, p. 166):
 
-# Repository content
-This repository contains the data, the data processing files and the classification task files (google colab notebooks, GPU), as well as a google colab notebook that records the changes over time in the dependency parsing of 'se' in the spaCy library.
+a. Durante la Guerra se mató más de lo que se cree. ‘during the war more people were killed than is commonly believed’
 
-# References
+b. El turista que se mató tras saltar de un acantilado[...] ‘the tourist who died after jumping off a cliff’
 
-Aldama García, N., & Barbero Jiménez, Á. (2021). Classifying Spanish se constructions: From bag of words to language models. Procesamiento del Lenguaje Natural, 66(0), 153–164.
+c. Alguien se mató. ‘somebody commited suicide’
 
-Carreras, X., Chao, I., Padro, L., & Padro, M. (n.d.). FreeLing: An Open-Source Suite of Language Analyzers. 4.
+d. Maria se mató por conseguir esta oportunidad. ‘Maria worked really hard to get this opportunity'.
 
-CLUL (Ed.). (2013). P.S. Post Scriptum. Arquivo Digital de Escrita Quotidiana em Portugal e Espanha na Época Moderna. http://ps.clul.ul.pt.
 
-COSER. (n.d.). COSER. Metodología - Recogida de Datos. Retrieved May 10, 2022, from http://www.corpusrural.es/metodologia.php
+The semantic implications of SE and its syntactic behavior have been examined in numerous studies from a variety of perspectives, not only for Spanish or 
+Portuguese, but also regarding other Romance languages. The perspective that this thesis takes is that of how the knowledge from the linguistic literature on 
+SE can be incorporated into NLP tasks in a manner that contributes to improving the performance of such tasks. Three main research questions arose from 
+taking this point of view onto the intersection of Romance linguistics and computational linguistics:
 
-Davies, M. (2001). Corpus del Español. https://www.corpusdata.org/formats.asp
+(1) how accurately are the separate grammatical functions of SE identified when it comes to the natural language processing tasks of dependency parsing and part-of-speech tagging?
 
-Davies, M. (2004). Corpus do Português. https://www.corpusdata.org/formats.asp
+(2) is the identification of the grammatical functions that SE can fulfil equally accurate in Spanish and Portuguese?
 
-De Marneffe, M.-C., Manning, C. D., Nivre, J., & Zeman, D. (2021). Universal Dependencies. Computational Linguistics, 1–54. https://doi.org/10.1162/coli_a_00402
+(3) does the Universal Dependencies tag set allow for an accurate dependency labeling of all the grammatical functions that Spanish and Portuguese SE can fulfil?
 
-Degraeuwe, J., & Goethals, P. (2020). Reflexive pronouns in Spanish Universal Dependencies. Procesamiento del Lenguaje Natural, 64(0), 77–84.
+### Active Learning and Transformer Models
+These research interests will be approached through examining the existing literature on SE in NLP and through performing a machine learning experiment. The 
+goal of the machine learning experiment is to explore whether the learning strategy called ***active learning*** proves useful in computationally processing 
+and classifying occurrences of SE in Spanish and Portuguese. The particularity of active learning as a machine learning strategy is that it makes it possible 
+to train well-performing machine learning models for linguistic classification tasks with limited amounts of labeled data (see Olsson, 2009; Settles, 2009). 
 
-Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. ArXiv:1810.04805 [Cs]. http://arxiv.org/abs/1810.04805
+A secondary part of the active learning experiment consists in training Spanish and Portuguese transformer models on classifying occurrences of SE. The 
+performance of these transformer models is used to contrast the performance that the active-learning-based models achieve. The general design of active 
+learning tasks and the availability of labeled linguistic data as well as the architecture of the trained machine learning models and the transformer models 
+will be thoroughly discussed.
 
-FreeLing. (n.d.). Tagset es—FreeLing User Manual. FreeLing User Manual. Retrieved May 11, 2022, from https://freeling-user-manual.readthedocs.io/en/latest/tagsets/tagset-es/
-
-Gutiérrez-Fandiño, A., Armengol-Estapé, J., Pàmies, M., Llop-Palao, J., Silveira-Ocampo, J., Carrino, C. P., Gonzalez-Agirre, A., Armentano-Oller, C., Rodriguez-Penagos, C., & Villegas, M. (2022). MarIA: Spanish Language Models. https://doi.org/10.26342/2022-68-3
-
-Institut d’Estudis Catalans. (2016). Gramàtica de la llengua catalana (Primera edició). Institut d’Estudis Catalans.
-
-Linguateca. (n.d.). Projecto Floresta Sintá(c)tica. Linguateca. Retrieved May 15, 2022, from https://www.linguateca.pt/Floresta/
-
-Nivre, J. (n.d.). Natural Language Processing. Dependency parsing. https://cl.lingfil.uu.se/~nivre/master/NLP-DepParsing.pdf
-
-Rademaker, A., & Chalub, F. (2007). Universal Dependencies for Portuguese. 10. Raschka, S. (2016). Python machine learning. Packt Publishing open source.
-
-Souza, F., Nogueira, R., & Lotufo, R. (2020). BERTimbau: Pretrained BERT Models for Brazilian Portuguese. Intelligent Systems: 9th Brazilian Conference, BRACIS 2020, Rio Grande, Brazil, October 20–23, 2020, Proceedings, Part I, 403–417. https://doi.org/10.1007/978-3-030-61377-8_28
-
-Taulé, M., Martı, M. A., & Recasens, M. (2008). AnCora: Multilevel Annotated Corpora for Catalan and Spanish. 6.
-
-UD. (2022, May 4). Universal dependencies. Universal Dependencies. https://universaldependencies.org/introduction.html
-
-Vaamonde, G., & Magro, C. (2018). Manual de edición y anotación en TEITOK de los materiales de P.S. Post Scriptum. http://teitok.clul.ul.pt/postscriptum/files/Manual_PS.pdf
-
-Wagner, J., Wilkens, R., Idiart, M., & Villavicencio, A. (2018). The brWaC Corpus: A New Open Resource for Brazilian Portuguese.
+The motivation for exploring how Spanish and Portuguese SE are handles in natural language and processing stems from the observations that a) the linguistic 
+analysis of SE is highly complex and that b) the proper identification of the syntactic function SE fulfils in a sentence is decisive for a range of natural 
+language processing that are concerned with semantics, such as semantic role assignment, question answering or sentiment analysis. The motivation for 
+exploring if and to which extent active-learning-based models are suited to classify Spanish and Portuguese occurrences of SE is not so much the observation 
+but rather the experience that labeled linguistic data that could be used to satisfactorily train a classification model that is not based on active learning 
+is scarce.
